@@ -11,7 +11,7 @@ https://github.com/pages-themes/slate
 
 ## RL and MARL Algorithms
 
-> PL = Pytorch-Lightning
+> Notations: PL = Pytorch-Lightning
 
 - REINFORCE - PL
 - DQN - PL
