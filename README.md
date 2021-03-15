@@ -5,6 +5,7 @@ https://github.com/pages-themes/slate
 - [Simple NN + NT usecase](https://github.com/Arseni1919/NT_sandbox)
 - [Simple RNN + NT usecase](https://github.com/Arseni1919/NT_sandbox)
 - Regression + NT usecase
+- Random Forests + NT usecase
 - DQN + NT usecase
 
 ## Welcome to GitHub Pages - Arseni
