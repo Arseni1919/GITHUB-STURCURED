@@ -2,8 +2,10 @@ https://github.com/pages-themes/slate
 
 ## Algorithms in Trading (NT progress)
 
-- [Simple NN](https://github.com/Arseni1919/NT_sandbox)
-- [Simple RNN](https://github.com/Arseni1919/NT_sandbox)
+- [Simple NN + NT usecase](https://github.com/Arseni1919/NT_sandbox)
+- [Simple RNN + NT usecase](https://github.com/Arseni1919/NT_sandbox)
+- Regression + NT usecase
+- DQN + NT usecase
 
 ## Welcome to GitHub Pages - Arseni
 
