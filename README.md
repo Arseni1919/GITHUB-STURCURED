@@ -2,11 +2,28 @@ https://github.com/pages-themes/slate
 
 ## Algorithms in Trading (NT progress)
 
-- [Simple NN + NT usecase](https://github.com/Arseni1919/NT_sandbox)
-- [Simple RNN + NT usecase](https://github.com/Arseni1919/NT_sandbox)
-- Regression + NT usecase
-- Random Forests + NT usecase
-- DQN + NT usecase
+- [Simple NN + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
+- [Simple RNN + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
+- Regression +Stocks Usecase
+- Random Forests + Stocks Usecase
+- DQN + Stocks Usecase
+- MARL + Stocks Usecase
+
+## RL and MARL Algorithms
+
+> PL = Pytorch-Lightning
+
+- REINFORCE - PL
+- DQN - PL
+- A2C (A3C)
+- PPO
+- DDPG
+- SAC
+- I2A
+- MADDPG (multi-agent)
+- TD3
+- AlphaGo Mu
+- MARL ...
 
 ## Welcome to GitHub Pages - Arseni
 
