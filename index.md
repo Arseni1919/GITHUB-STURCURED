@@ -1,6 +1,6 @@
 https://github.com/pages-themes/slate
 
-# Welcome
+## Welcome
 
 ## Welcome to GitHub Pages - Arseni
 
