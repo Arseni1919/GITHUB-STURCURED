@@ -2,8 +2,8 @@ https://github.com/pages-themes/slate
 
 ## Algorithms in Trading (NT progress)
 
-- [ ] [Simple NN](url)
-
+- [Simple NN](https://github.com/Arseni1919/NT_sandbox)
+- [Simple RNN](https://github.com/Arseni1919/NT_sandbox)
 
 ## Welcome to GitHub Pages - Arseni
 
