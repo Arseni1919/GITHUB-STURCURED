@@ -1,6 +1,9 @@
 https://github.com/pages-themes/slate
 
-## Welcome - Perchik
+## Algorithms in Trading (NT progress)
+
+- [ ] [Simple NN](url)
+
 
 ## Welcome to GitHub Pages - Arseni
 
