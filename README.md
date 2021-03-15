@@ -25,6 +25,18 @@ https://github.com/pages-themes/slate
 - AlphaGo Mu
 - MARL ...
 
+## Other Projects
+
+### WEB
+
+- aa
+- aa
+
+### Search in AI
+
+- aa
+- aa
+
 ## Welcome to GitHub Pages - Arseni
 
 You can use the [editor on GitHub](https://github.com/Arseni1919/GITHUB-STURCURED/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
