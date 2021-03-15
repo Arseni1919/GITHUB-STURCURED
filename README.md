@@ -1,6 +1,6 @@
 https://github.com/pages-themes/slate
 
-## Welcome
+## Welcome - Perchik
 
 ## Welcome to GitHub Pages - Arseni
 
