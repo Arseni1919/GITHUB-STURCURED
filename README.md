@@ -5,6 +5,7 @@
 > - Emoji Cheat Sheet -> [link](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 > - Theme of the Page -> [link](https://github.com/pages-themes/slate) 
 > - GitHub Pages Site -> [link](https://pages.github.com/)
+> - GitHub Pages Docs -> [link](https://docs.github.com/categories/github-pages-basics/)
 > 
 > Notations:
 >   - PL - Pytorch Lightning
@@ -21,12 +22,15 @@
 - DQN + Stocks Usecase
 - MARL + Stocks Usecase
 - [Gym Environment For Stock Trading](https://github.com/Arseni1919/gym-stocktrading)
+- [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 
 ## RL and MARL Algorithms
 
+- [PL Template Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJECT)
+
 1. [DQN - PL](https://github.com/Arseni1919/PL_DQN) ([variant 2](https://github.com/Arseni1919/DQN_implementation_from_pytorch_lightning_website), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
 1. [REINFORCE - PL](https://github.com/Arseni1919/PL_REINFORCE) ([variant 2](https://github.com/Arseni1919/Implementation-of-REINFORCE-with-PyTorch-Lightning), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
-1. A2C (A3C)
+1. [A2C](https://github.com/Arseni1919/PL_A2C) (A3C)
 1. PPO
 1. DDPG
 1. SAC
@@ -40,8 +44,8 @@
 
 ### WEB
 
-- aaa
-- aa
+- [Flask](https://github.com/Arseni1919/arseniperchikflask)
+- [React](https://github.com/Arseni1919/arseniperchikreact)
 
 ### Search in AI
 
@@ -84,18 +88,21 @@
 - [DRL Course 3: DQN, PyTorch](https://github.com/Arseni1919/DRL_course_exercise_3)
 - [Greedy Algorithm, Construction Heuristic, Simulated Annealing, Local Search, Genetic Algorithm](https://github.com/Arseni1919/computational_intelligence_course_task)
 - [CSP problems](https://github.com/Arseni1919/AI-course-in-BGU-assignment-1---Centralised-CSP)
-- [WEB Course Material](https://github.com/Arseni1919/WEB_course_BGU)
+- [WEB Course: Help Material](https://github.com/Arseni1919/WEB_course_BGU)
+- [WEB Course: Flask Project](https://github.com/Arseni1919/WEB_Course_2020_A_examples_flask)
 
 ### Competitions
 
-[ ] [NeurIPS 2020 - Procgen Starter Kit](https://github.com/Arseni1919/neurips2020-procgen-starter-kit)
+- [ ] [NeurIPS 2020 - Procgen Starter Kit](https://github.com/Arseni1919/neurips2020-procgen-starter-kit)
 ## Welcome to GitHub Pages - Arseni
 
 ### Others
 
 - [porftrofilo template](https://github.com/Arseni1919/PORTFOLIO_Samle)
 - [Stanford cs321n](https://github.com/Arseni1919/cs321n)
-- 
+- [My Portfolio](https://github.com/Arseni1919/PORTFOLIO)
+- [Forked: Smart Home Simulator - FinalProject](https://github.com/Arseni1919/FinalProject)
+- [Forked: Smart Home Simulator - FinalProjectWrapping](https://github.com/Arseni1919/FinalProjectWrapping)
 
 You can use the [editor on GitHub](https://github.com/Arseni1919/GITHUB-STURCURED/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -103,32 +110,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for:
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
+Syntax highlighted code block 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Bold** and _Italic_ and `Code` text
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Arseni1919/GITHUB-STURCURED/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
