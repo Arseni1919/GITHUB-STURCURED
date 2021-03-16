@@ -1,8 +1,9 @@
 https://github.com/pages-themes/slate
 
 > Usefull Links:
-> - Matering Marldown :arrow_right: [link](https://guides.github.com/features/mastering-markdown/)
-> - Emoji Cheat Sheet :arrow_right: [link](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+> - Matering Marldown :arrow_right:  [link](https://guides.github.com/features/mastering-markdown/)
+> - Emoji Cheat Sheet :arrow_right:  [link](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+> 
 > Notations:
 > - PL = Pytorch-Lightning
 > - bla
@@ -21,17 +22,17 @@ https://github.com/pages-themes/slate
 
 > Notations: PL = Pytorch-Lightning
 
-- REINFORCE - PL
-- DQN - PL
-- A2C (A3C)
-- PPO
-- DDPG
-- SAC
-- I2A
-- MADDPG (multi-agent)
-- TD3
-- AlphaGo Mu
-- MARL ...
+1. REINFORCE - PL
+1. DQN - PL
+1. A2C (A3C)
+1. PPO
+1. DDPG
+1. SAC
+1. I2A
+1. MADDPG (multi-agent)
+1. TD3
+1. AlphaGo Mu
+1. MARL ...
 
 ## Other Projects
 
