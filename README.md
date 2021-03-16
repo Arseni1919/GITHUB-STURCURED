@@ -51,7 +51,7 @@
 ### Search in AI
 
 - [A* Simulator - Pathfinding](https://github.com/Arseni1919/A_star_simulator)
-- - [Simulator DCOP_MST (`version 2.0`)](https://github.com/Arseni1919/max_sum_cells_simulator) - implementation of `CAMS`, `Max-sum_MST`
+- [Simulator DCOP_MST (`version 2.0`)](https://github.com/Arseni1919/max_sum_cells_simulator) - implementation of `CAMS`, `Max-sum_MST`
 - [Simulator DCOP_MST (`version 1.0`)](https://github.com/Arseni1919/simulator_dcop_mst) - implementation of `DSA`, `MGM`
 - [Toy DCOP Max-sum Simulation](https://github.com/Arseni1919/toy_dcop_max_sum_simulation)
 
