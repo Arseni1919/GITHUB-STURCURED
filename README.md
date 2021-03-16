@@ -43,26 +43,16 @@
 
 ## Other Projects
 
-### WEB
-
-- [Flask](https://github.com/Arseni1919/arseniperchikflask)
-- [React](https://github.com/Arseni1919/arseniperchikreact)
-
 ### Search in AI
 
 - [A* Simulator - Pathfinding](https://github.com/Arseni1919/A_star_simulator)
-- [Simulator DCOP_MST (`version 2.0`)](https://github.com/Arseni1919/max_sum_cells_simulator) - implementation of `CAMS`, `Max-sum_MST`
-- [Simulator DCOP_MST (`version 1.0`)](https://github.com/Arseni1919/simulator_dcop_mst) - implementation of `DSA`, `MGM`
+- [Simulator DCOP_MST (version 2.0)](https://github.com/Arseni1919/max_sum_cells_simulator) - implementation of `CAMS`, `Max-sum_MST`
+- [Simulator DCOP_MST (version 1.0)](https://github.com/Arseni1919/simulator_dcop_mst) - implementation of `DSA`, `MGM`
 - [Toy DCOP Max-sum Simulation](https://github.com/Arseni1919/toy_dcop_max_sum_simulation)
-
-
-### Learning in AI
-
 
 ### Robots
 
 - [ROS package for Hamster robots](https://github.com/Arseni1919/ROS-package-to-move-robots-with-my-code)
-- []()
 
 ### Search AI & Robots
 
@@ -77,6 +67,10 @@
 - [Python Tricks](https://github.com/Arseni1919/Python-Tricks-book-examples)
 - [PL Example](https://github.com/Arseni1919/PyTorch_Lightning_example)
 
+### WEB
+
+- [Flask](https://github.com/Arseni1919/arseniperchikflask)
+- [React](https://github.com/Arseni1919/arseniperchikreact)
 
 ### University Projects
 
