@@ -4,11 +4,13 @@
 > - Matering Marldown -> [link](https://guides.github.com/features/mastering-markdown/)
 > - Emoji Cheat Sheet -> [link](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 > - Theme of the Page -> [link](https://github.com/pages-themes/slate) 
+> - GitHub Pages Site -> [link](https://pages.github.com/)
 > 
 > Notations:
 >   - PL - Pytorch Lightning
 >   - NT - the company
 
+🌍
 
 ## Algorithms in Trading (NT progress)
 
