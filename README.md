@@ -1,5 +1,4 @@
-My name is Arseni Perchik and this page presents my GitHub projects in a conviniant structured way.
-But first,here are some help links and notation descriptions...
+My name is Arseni Perchik and this page presents my GitHub projects in a convenient structured way. But first, here are some help links and notation descriptions...
 
 > Usefull Links | 🌐
 > ------------ | -------------
