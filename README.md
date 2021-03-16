@@ -23,7 +23,7 @@
 
 ## RL and MARL Algorithms
 
-1. DQN - PL ([variant 2](https://github.com/Arseni1919/DQN_implementation_from_pytorch_lightning_website), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
+1. [DQN - PL](https://github.com/Arseni1919/PL_DQN) ([variant 2](https://github.com/Arseni1919/DQN_implementation_from_pytorch_lightning_website), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
 1. REINFORCE - PL ([variant 2](https://github.com/Arseni1919/Implementation-of-REINFORCE-with-PyTorch-Lightning), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
 1. A2C (A3C)
 1. PPO
@@ -83,7 +83,7 @@
 
 ### Competitions
 
--[ ] [NeurIPS 2020 - Procgen Starter Kit](https://github.com/Arseni1919/neurips2020-procgen-starter-kit)
+[ ] [NeurIPS 2020 - Procgen Starter Kit](https://github.com/Arseni1919/neurips2020-procgen-starter-kit)
 ## Welcome to GitHub Pages - Arseni
 
 ### Others
