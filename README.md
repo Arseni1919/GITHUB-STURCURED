@@ -1,8 +1,5 @@
 
-
-> ### Usefull Links:
-> 
-> Topic | 🌐
+> Usefull Links | 🌐
 > ------------ | -------------
 > Matering Marldown | [link](https://guides.github.com/features/mastering-markdown/)
 > Emoji Cheat Sheet | [link](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
