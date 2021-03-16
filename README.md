@@ -96,7 +96,7 @@ Template: [PL Template Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJEC
 
 ### 📍 Others
 
-- [My Portfolio](https://github.com/Arseni1919/PORTFOLIO)
+- [My Portfolio](https://arseni1919.github.io/PORTFOLIO/)
 - [Porftrofilo Template](https://github.com/Arseni1919/PORTFOLIO_Samle)
 - [Forked: Smart Home Simulator - FinalProject](https://github.com/Arseni1919/FinalProject)
 - [Forked: Smart Home Simulator - FinalProjectWrapping](https://github.com/Arseni1919/FinalProjectWrapping)
