@@ -1,12 +1,13 @@
-https://github.com/pages-themes/slate
+
 
 > Usefull Links:
-> - Matering Marldown :arrow_right:        [link](https://guides.github.com/features/mastering-markdown/)
-> - Emoji Cheat Sheet :arrow_right:        [link](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+> - Matering Marldown -> [link](https://guides.github.com/features/mastering-markdown/)
+> - Emoji Cheat Sheet -> [link](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+> - Theme of the Page -> [link](https://github.com/pages-themes/slate) 
 > 
 > Notations:
-> - PL = Pytorch-Lightning
-> - bla
+> - PL = Pytorch Lightning
+> - NT - the company
 
 
 ## Algorithms in Trading (NT progress)
