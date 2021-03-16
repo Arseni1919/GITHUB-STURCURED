@@ -12,7 +12,7 @@
 
 🌍
 
-## Algorithms in Trading (NT progress)
+## Algorithms & Environments for Trading (NT progress)
 
 - [Simple NN + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
 - [Simple RNN + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
@@ -20,11 +20,12 @@
 - Random Forests + Stocks Usecase
 - DQN + Stocks Usecase
 - MARL + Stocks Usecase
+- [Gym Environment For Stock Trading](https://github.com/Arseni1919/gym-stocktrading)
 
 ## RL and MARL Algorithms
 
 1. [DQN - PL](https://github.com/Arseni1919/PL_DQN) ([variant 2](https://github.com/Arseni1919/DQN_implementation_from_pytorch_lightning_website), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
-1. REINFORCE - PL ([variant 2](https://github.com/Arseni1919/Implementation-of-REINFORCE-with-PyTorch-Lightning), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
+1. [REINFORCE - PL](https://github.com/Arseni1919/PL_REINFORCE) ([variant 2](https://github.com/Arseni1919/Implementation-of-REINFORCE-with-PyTorch-Lightning), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
 1. A2C (A3C)
 1. PPO
 1. DDPG
@@ -45,7 +46,8 @@
 ### Search in AI
 
 - [A* Simulator - Pathfinding](https://github.com/Arseni1919/A_star_simulator)
-- [Simulator DCOP_MST (old version)](https://github.com/Arseni1919/simulator_dcop_mst) - implementation of DSA, MGM
+- - [Simulator DCOP_MST (version 2.0)](https://github.com/Arseni1919/max_sum_cells_simulator) - implementation of CAMS, Max-sum_MST
+- [Simulator DCOP_MST (version 1.0)](https://github.com/Arseni1919/simulator_dcop_mst) - implementation of DSA, MGM
 - [Toy DCOP Max-sum Simulation](https://github.com/Arseni1919/toy_dcop_max_sum_simulation)
 
 
@@ -60,6 +62,7 @@
 ### Search AI & Robots
 
 - [Implementation of Max-Sum_MST in ROS platform](https://github.com/Arseni1919/max_sum_ROS_implementation)
+- [Implementation of CAMS in ROS platform](https://github.com/Arseni1919/max_sum_cells_ROS)
 
 ### Platforms
 
@@ -68,6 +71,7 @@
 - [ROS Essentials](https://github.com/Arseni1919/ROS-essentianls)
 - [Python Tricks](https://github.com/Arseni1919/Python-Tricks-book-examples)
 - [PL Example](https://github.com/Arseni1919/PyTorch_Lightning_example)
+
 
 ### University Projects
 
@@ -80,6 +84,7 @@
 - [DRL Course 3: DQN, PyTorch](https://github.com/Arseni1919/DRL_course_exercise_3)
 - [Greedy Algorithm, Construction Heuristic, Simulated Annealing, Local Search, Genetic Algorithm](https://github.com/Arseni1919/computational_intelligence_course_task)
 - [CSP problems](https://github.com/Arseni1919/AI-course-in-BGU-assignment-1---Centralised-CSP)
+- [WEB Course Material](https://github.com/Arseni1919/WEB_course_BGU)
 
 ### Competitions
 
