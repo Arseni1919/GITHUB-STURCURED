@@ -1,6 +1,6 @@
 
 
-> Usefull Links:
+> ### Usefull Links:
 > - Matering Marldown -> [link](https://guides.github.com/features/mastering-markdown/)
 > - Emoji Cheat Sheet -> [link](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 > - Theme of the Page -> [link](https://github.com/pages-themes/slate) 
@@ -9,8 +9,8 @@
 > 
 > First Header | Second Header
 > ------------ | -------------
-> Content from cell 1 | Content from cell 2
-> Content in the first column | Content in the second column
+> Matering Marldown | [link](https://guides.github.com/features/mastering-markdown/)
+> Emoji Cheat Sheet | [link](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 > 
 > Notations:
 > - PL - Pytorch Lightning
