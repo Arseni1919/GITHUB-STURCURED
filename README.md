@@ -1,5 +1,13 @@
 https://github.com/pages-themes/slate
 
+> Usefull Links:
+> - Matering Marldown :arrow_right: [link](https://guides.github.com/features/mastering-markdown/)
+> - Emoji Cheat Sheet :arrow_right: [link](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+> Notations:
+> - PL = Pytorch-Lightning
+> - bla
+
+
 ## Algorithms in Trading (NT progress)
 
 - [Simple NN + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
