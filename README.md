@@ -58,6 +58,7 @@
 - [PyTorch practice](https://github.com/Arseni1919/pytorch_tutorials)
 - [ROS Essentials](https://github.com/Arseni1919/ROS-essentianls)
 - [Python Tricks](https://github.com/Arseni1919/Python-Tricks-book-examples)
+- [PL Example](https://github.com/Arseni1919/PyTorch_Lightning_example)
 
 ### University Projects
 
