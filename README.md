@@ -23,8 +23,6 @@
 
 ## RL and MARL Algorithms
 
-> Notations: PL = Pytorch-Lightning
-
 1. REINFORCE - PL
 1. DQN - PL
 1. A2C (A3C)
@@ -50,16 +48,28 @@
 - [Simulator DCOP_MST (old version)](https://github.com/Arseni1919/simulator_dcop_mst) - implementation of DSA, MGM
 - 
 
+### Learning in AI
+
+- 
+
 ### Platforms
 
 - [Pygame](https://github.com/Arseni1919/pygame_example)
 - [PyTorch practice](https://github.com/Arseni1919/pytorch_tutorials)
 - [ROS Essentials](https://github.com/Arseni1919/ROS-essentianls)
+- [Python Tricks](https://github.com/Arseni1919/Python-Tricks-book-examples)
 
 ### University Projects
 
 - [TensorFlow and Keras](https://github.com/Arseni1919/Task_2_DL_course_Ben_Gurion_2020)
+- [Image Classification with HOG and SVM Techniques](https://github.com/Arseni1919/Task_1_DL_course_Ben_Gurion)
+- [Air Hockey Simulation - RL](https://github.com/Arseni1919/air-hockey-simulation-RL-algorithms) - Tabular Q-learning and Sarsa
+- [Fuzzy Logic Presentation](https://github.com/Arseni1919/Fuzzy_Logic_presentation)
+- [MDP, Value Iteration, Policy Iteration](https://github.com/Arseni1919/DRL_course_exercise_1)
+- 
 
+### Competitions
+[ ] [NeurIPS 2020 - Procgen Starter Kit](https://github.com/Arseni1919/neurips2020-procgen-starter-kit)
 ## Welcome to GitHub Pages - Arseni
 
 You can use the [editor on GitHub](https://github.com/Arseni1919/GITHUB-STURCURED/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
