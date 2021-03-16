@@ -6,8 +6,8 @@
 > - Theme of the Page -> [link](https://github.com/pages-themes/slate) 
 > 
 > Notations:
-> - PL = Pytorch Lightning
-> - NT - the company
+>   - PL - Pytorch Lightning
+>   - NT - the company
 
 
 ## Algorithms in Trading (NT progress)
