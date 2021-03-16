@@ -28,7 +28,7 @@ My main fields of work are: **ROS**, robotics, **RL**, MARL, ML, **Search AI**, 
 
 ## 🦁 RL and MARL Algorithms
 
-- [PL Template Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJECT)
+Template: [PL Template Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJECT)
 
 1. [DQN - PL](https://github.com/Arseni1919/PL_DQN) ([variant 2](https://github.com/Arseni1919/DQN_implementation_from_pytorch_lightning_website), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
 1. [REINFORCE - PL](https://github.com/Arseni1919/PL_REINFORCE) ([variant 2](https://github.com/Arseni1919/Implementation-of-REINFORCE-with-PyTorch-Lightning), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
