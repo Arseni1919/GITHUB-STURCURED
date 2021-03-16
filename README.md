@@ -7,8 +7,6 @@
 > - GitHub Pages Site -> [link](https://pages.github.com/)
 > - GitHub Pages Docs -> [link](https://docs.github.com/categories/github-pages-basics/)
 > 
-> First Header | Second Header
-> ------------ | -------------
 > Matering Marldown | [link](https://guides.github.com/features/mastering-markdown/)
 > Emoji Cheat Sheet | [link](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 > 
