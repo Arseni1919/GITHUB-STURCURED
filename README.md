@@ -8,21 +8,22 @@
 > - GitHub Pages Docs -> [link](https://docs.github.com/categories/github-pages-basics/)
 > 
 > Notations:
->   - PL - Pytorch Lightning
->   - NT - the company
+> - PL - Pytorch Lightning
+> - NT - the company
 
 🌍
 
 ## Algorithms & Environments for Trading (NT progress)
 
+- [Gym Environment For Stock Trading](https://github.com/Arseni1919/gym-stocktrading)
+- [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 - [Simple NN + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
 - [Simple RNN + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
 - Regression +Stocks Usecase
 - Random Forests + Stocks Usecase
 - DQN + Stocks Usecase
 - MARL + Stocks Usecase
-- [Gym Environment For Stock Trading](https://github.com/Arseni1919/gym-stocktrading)
-- [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
+
 
 ## RL and MARL Algorithms
 
@@ -50,8 +51,8 @@
 ### Search in AI
 
 - [A* Simulator - Pathfinding](https://github.com/Arseni1919/A_star_simulator)
-- - [Simulator DCOP_MST (version 2.0)](https://github.com/Arseni1919/max_sum_cells_simulator) - implementation of CAMS, Max-sum_MST
-- [Simulator DCOP_MST (version 1.0)](https://github.com/Arseni1919/simulator_dcop_mst) - implementation of DSA, MGM
+- - [Simulator DCOP_MST (`version 2.0`)](https://github.com/Arseni1919/max_sum_cells_simulator) - implementation of `CAMS`, `Max-sum_MST`
+- [Simulator DCOP_MST (`version 1.0`)](https://github.com/Arseni1919/simulator_dcop_mst) - implementation of `DSA`, `MGM`
 - [Toy DCOP Max-sum Simulation](https://github.com/Arseni1919/toy_dcop_max_sum_simulation)
 
 
@@ -81,7 +82,7 @@
 
 - [TensorFlow and Keras](https://github.com/Arseni1919/Task_2_DL_course_Ben_Gurion_2020)
 - [Image Classification with HOG and SVM Techniques](https://github.com/Arseni1919/Task_1_DL_course_Ben_Gurion)
-- [Air Hockey Simulation - RL](https://github.com/Arseni1919/air-hockey-simulation-RL-algorithms) - Tabular Q-learning and Sarsa
+- [Air Hockey Simulation - RL](https://github.com/Arseni1919/air-hockey-simulation-RL-algorithms) - `Tabular Q-learning` and `Sarsa`
 - [Fuzzy Logic Presentation](https://github.com/Arseni1919/Fuzzy_Logic_presentation)
 - [DRL Course 1: MDP, Value Iteration, Policy Iteration](https://github.com/Arseni1919/DRL_course_exercise_1)
 - [DRL Course 2: SARSA, Q-learning](https://github.com/Arseni1919/DRL_course_exercise_2)
@@ -90,6 +91,7 @@
 - [CSP problems](https://github.com/Arseni1919/AI-course-in-BGU-assignment-1---Centralised-CSP)
 - [WEB Course: Help Material](https://github.com/Arseni1919/WEB_course_BGU)
 - [WEB Course: Flask Project](https://github.com/Arseni1919/WEB_Course_2020_A_examples_flask)
+- [Stanford cs321n](https://github.com/Arseni1919/cs321n)
 
 ### Competitions
 
@@ -97,9 +99,8 @@
 
 ### Others
 
-- [porftrofilo template](https://github.com/Arseni1919/PORTFOLIO_Samle)
-- [Stanford cs321n](https://github.com/Arseni1919/cs321n)
 - [My Portfolio](https://github.com/Arseni1919/PORTFOLIO)
+- [porftrofilo template](https://github.com/Arseni1919/PORTFOLIO_Samle)
 - [Forked: Smart Home Simulator - FinalProject](https://github.com/Arseni1919/FinalProject)
 - [Forked: Smart Home Simulator - FinalProjectWrapping](https://github.com/Arseni1919/FinalProjectWrapping)
 
