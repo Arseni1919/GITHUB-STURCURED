@@ -13,7 +13,7 @@ But first,here are some help links and notation descriptions...
 > - PL - Pytorch Lightning
 > - NT - the company
 
-
+My main fields of work are: **ROS**, robotics, **RL**, MARL, ML, **Search AI**, DCOP, **DCOP_MST**, WEB. The projects divided to sections for the sake of convenience.
 
 ## 💵 Algorithms & Environments for Trading (NT progress)
 
@@ -48,8 +48,8 @@ But first,here are some help links and notation descriptions...
 ### 🔍  Search in AI
 
 - [A* Simulator - Pathfinding](https://github.com/Arseni1919/A_star_simulator)
-- [Simulator DCOP_MST (version 2.0)](https://github.com/Arseni1919/max_sum_cells_simulator) - implementation of `CAMS`, `Max-sum_MST`
-- [Simulator DCOP_MST (version 1.0)](https://github.com/Arseni1919/simulator_dcop_mst) - implementation of `DSA`, `MGM`
+- [Simulator DCOP_MST (version 2.0)](https://github.com/Arseni1919/max_sum_cells_simulator) - implementation of _CAMS_, _Max-sum_MST_
+- [Simulator DCOP_MST (version 1.0)](https://github.com/Arseni1919/simulator_dcop_mst) - implementation of _DSA_, _MGM_
 - [Toy DCOP Max-sum Simulation](https://github.com/Arseni1919/toy_dcop_max_sum_simulation)
 
 ### 🚗 Robots
@@ -78,7 +78,7 @@ But first,here are some help links and notation descriptions...
 
 - [TensorFlow and Keras](https://github.com/Arseni1919/Task_2_DL_course_Ben_Gurion_2020)
 - [Image Classification with HOG and SVM Techniques](https://github.com/Arseni1919/Task_1_DL_course_Ben_Gurion)
-- [Air Hockey Simulation - RL](https://github.com/Arseni1919/air-hockey-simulation-RL-algorithms) - `Tabular Q-learning` and `Sarsa`
+- [Air Hockey Simulation - RL](https://github.com/Arseni1919/air-hockey-simulation-RL-algorithms) - _Tabular Q-learning_ and _Sarsa_
 - [Fuzzy Logic Presentation](https://github.com/Arseni1919/Fuzzy_Logic_presentation)
 - [DRL Course 1: MDP, Value Iteration, Policy Iteration](https://github.com/Arseni1919/DRL_course_exercise_1)
 - [DRL Course 2: SARSA, Q-learning](https://github.com/Arseni1919/DRL_course_exercise_2)
