@@ -55,17 +55,17 @@ Template: [PL Template Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJEC
 
 ### 🚗 Robots
 
-- [ROS package for Hamster robots](https://github.com/Arseni1919/ROS-package-to-move-robots-with-my-code)
+- [ROS Package for Hamster Robots](https://github.com/Arseni1919/ROS-package-to-move-robots-with-my-code)
 
 ### 🔍 🚗 Search AI & Robots
 
-- [Implementation of Max-Sum_MST in ROS platform](https://github.com/Arseni1919/max_sum_ROS_implementation)
-- [Implementation of CAMS in ROS platform](https://github.com/Arseni1919/max_sum_cells_ROS)
+- [Implementation of Max-Sum_MST in ROS Platform](https://github.com/Arseni1919/max_sum_ROS_implementation)
+- [Implementation of CAMS in ROS Platform](https://github.com/Arseni1919/max_sum_cells_ROS)
 
 ### 🏛️ Platforms
 
 - [Pygame](https://github.com/Arseni1919/pygame_example)
-- [PyTorch practice](https://github.com/Arseni1919/pytorch_tutorials)
+- [PyTorch Practice](https://github.com/Arseni1919/pytorch_tutorials)
 - [ROS Essentials](https://github.com/Arseni1919/ROS-essentianls)
 - [Python Tricks](https://github.com/Arseni1919/Python-Tricks-book-examples)
 - [PL Example](https://github.com/Arseni1919/PyTorch_Lightning_example)
@@ -97,7 +97,7 @@ Template: [PL Template Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJEC
 ### 📍 Others
 
 - [My Portfolio](https://github.com/Arseni1919/PORTFOLIO)
-- [porftrofilo template](https://github.com/Arseni1919/PORTFOLIO_Samle)
+- [Porftrofilo Template](https://github.com/Arseni1919/PORTFOLIO_Samle)
 - [Forked: Smart Home Simulator - FinalProject](https://github.com/Arseni1919/FinalProject)
 - [Forked: Smart Home Simulator - FinalProjectWrapping](https://github.com/Arseni1919/FinalProjectWrapping)
 
