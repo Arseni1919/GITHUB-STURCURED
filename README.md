@@ -93,7 +93,7 @@
 
 ### Competitions
 
-- [ ] [NeurIPS 2020 - Procgen Starter Kit](https://github.com/Arseni1919/neurips2020-procgen-starter-kit)
+- [ ] [Forked: NeurIPS 2020 - Procgen Starter Kit](https://github.com/Arseni1919/neurips2020-procgen-starter-kit)
 
 ### Others
 
