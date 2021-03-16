@@ -1,8 +1,8 @@
 https://github.com/pages-themes/slate
 
 > Usefull Links:
-> - Matering Marldown :arrow_right:  [link](https://guides.github.com/features/mastering-markdown/)
-> - Emoji Cheat Sheet :arrow_right:  [link](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+> - Matering Marldown :arrow_right:        [link](https://guides.github.com/features/mastering-markdown/)
+> - Emoji Cheat Sheet :arrow_right:        [link](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 > 
 > Notations:
 > - PL = Pytorch-Lightning
