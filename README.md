@@ -46,8 +46,19 @@
 
 ### Search in AI
 
-- aa
-- aa
+- [A* Simulator - Pathfinding](https://github.com/Arseni1919/A_star_simulator)
+- [Simulator DCOP_MST (old version)](https://github.com/Arseni1919/simulator_dcop_mst) - implementation of DSA, MGM
+- 
+
+### Platforms
+
+- [Pygame](https://github.com/Arseni1919/pygame_example)
+- [PyTorch practice](https://github.com/Arseni1919/pytorch_tutorials)
+- [ROS Essentials](https://github.com/Arseni1919/ROS-essentianls)
+
+### University Projects
+
+- [TensorFlow and Keras](https://github.com/Arseni1919/Task_2_DL_course_Ben_Gurion_2020)
 
 ## Welcome to GitHub Pages - Arseni
 
