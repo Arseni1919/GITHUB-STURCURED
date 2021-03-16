@@ -16,8 +16,8 @@ My main fields of work are: **ROS**, robotics, **RL**, MARL, ML, **Search AI**, 
 
 ## 💵 Algorithms & Environments for Trading (NT progress)
 
-- [Gym Environment For Stock Trading](https://github.com/Arseni1919/gym-stocktrading)
-- [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
+RL Environments: [Gym Environment For Stock Trading](https://github.com/Arseni1919/gym-stocktrading)
+Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 - [Simple NN + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
 - [Simple RNN + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
 - Regression +Stocks Usecase
