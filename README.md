@@ -1,18 +1,5 @@
-My name is [Arseni Perchik](https://arseni1919.github.io/PORTFOLIO/) and this page presents my GitHub projects in a structured way. But first, here are some help links and notation descriptions...
-
-> Usefull Links | 🌐
-> ------------ | -------------
-> Matering Marldown | [link](https://guides.github.com/features/mastering-markdown/)
-> Emoji Cheat Sheet | [link](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
-> Theme of the Page | [link](https://github.com/pages-themes/slate) 
-> GitHub Pages Site | [link](https://pages.github.com/)
-> GitHub Pages Docs | [link](https://docs.github.com/categories/github-pages-basics/)
-> 
-> Notations:
-> - PL - Pytorch Lightning
-> - NT - the company
-
-My main fields of work are: **ROS**, robotics, **RL**, MARL, ML, **Search AI**, DCOP, **DCOP_MST**, WEB. The projects divided to sections for the sake of convenience.
+My name is [Arseni Perchik](https://arseni1919.github.io/PORTFOLIO/) and this page presents my GitHub projects in a structured way. 
+The main fields of my work are: **ROS**, robotics, **RL**, MARL, ML, **Search AI**, DCOP, **DCOP_MST**, WEB. The projects divided to sections for the sake of convenience.
 
 ## 💵 Algorithms & Environments for Trading (NT progress)
 
@@ -45,23 +32,25 @@ Template: [PL Template Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJEC
 12. AlphaGo Mu
 13. MARL ...
 
+## 📝 Research
+
+- [Toy DCOP Max-sum Simulation](https://github.com/Arseni1919/toy_dcop_max_sum_simulation)
+- [Simulator DCOP_MST (version 2.0)](https://github.com/Arseni1919/max_sum_cells_simulator) - implementation of _CAMS_, _Max-sum_MST_
+- [Implementation of Max-Sum_MST in ROS Platform](https://github.com/Arseni1919/max_sum_ROS_implementation)
+- [Implementation of CAMS in ROS Platform](https://github.com/Arseni1919/max_sum_cells_ROS)
+
 ## Other Projects
 
 ### 🔍  Search in AI
 
 - [A* Simulator - Pathfinding](https://github.com/Arseni1919/A_star_simulator)
-- [Simulator DCOP_MST (version 2.0)](https://github.com/Arseni1919/max_sum_cells_simulator) - implementation of _CAMS_, _Max-sum_MST_
 - [Simulator DCOP_MST (version 1.0)](https://github.com/Arseni1919/simulator_dcop_mst) - implementation of _DSA_, _MGM_
-- [Toy DCOP Max-sum Simulation](https://github.com/Arseni1919/toy_dcop_max_sum_simulation)
+
 
 ### 🚗 Robots
 
 - [ROS Package for Hamster Robots](https://github.com/Arseni1919/ROS-package-to-move-robots-with-my-code)
 
-### 🔍 🚗 Search AI & Robots
-
-- [Implementation of Max-Sum_MST in ROS Platform](https://github.com/Arseni1919/max_sum_ROS_implementation)
-- [Implementation of CAMS in ROS Platform](https://github.com/Arseni1919/max_sum_cells_ROS)
 
 ### 🏛️ Platforms
 
@@ -111,8 +100,17 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-> Matering Marldown -> [link](https://guides.github.com/features/mastering-markdown/),
-> Emoji Cheat Sheet -> [link](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md),
-> Theme of the Page -> [link](https://github.com/pages-themes/slate),
-> GitHub Pages Site -> [link](https://pages.github.com/),
-> GitHub Pages Docs -> [link](https://docs.github.com/categories/github-pages-basics/)
+Here are some help-links and notation descriptions...
+
+> Usefull Links | 🌐
+> ------------ | -------------
+> Matering Marldown | [link](https://guides.github.com/features/mastering-markdown/)
+> Emoji Cheat Sheet | [link](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+> Theme of the Page | [link](https://github.com/pages-themes/slate) 
+> GitHub Pages Site | [link](https://pages.github.com/)
+> GitHub Pages Docs | [link](https://docs.github.com/categories/github-pages-basics/)
+> 
+> Notations:
+> - PL - Pytorch Lightning
+> - NT - the company
+
