@@ -67,8 +67,8 @@ Template: [PL Template Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJEC
 
 ### 🎓 University Projects
 
-- [TensorFlow and Keras](https://github.com/Arseni1919/Task_2_DL_course_Ben_Gurion_2020)
-- [Image Classification with HOG and SVM Techniques](https://github.com/Arseni1919/Task_1_DL_course_Ben_Gurion)
+- [DL Course 1: Image Classification with HOG and SVM Techniques](https://github.com/Arseni1919/Task_1_DL_course_Ben_Gurion)
+- [DL Course 2: TensorFlow and Keras](https://github.com/Arseni1919/Task_2_DL_course_Ben_Gurion_2020)
 - [Air Hockey Simulation - RL](https://github.com/Arseni1919/air-hockey-simulation-RL-algorithms) - _Tabular Q-learning_ and _Sarsa_
 - [Fuzzy Logic Presentation](https://github.com/Arseni1919/Fuzzy_Logic_presentation)
 - [DRL Course 1: MDP, Value Iteration, Policy Iteration](https://github.com/Arseni1919/DRL_course_exercise_1)
