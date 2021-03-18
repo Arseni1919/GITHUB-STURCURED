@@ -91,16 +91,8 @@ Template: [PL Template Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJEC
 - [Forked: Smart Home Simulator - FinalProject](https://github.com/Arseni1919/FinalProject)
 - [Forked: Smart Home Simulator - FinalProjectWrapping](https://github.com/Arseni1919/FinalProjectWrapping)
 
-## Markdown
+## Help-Links, Notations and Markdown
 
-```markdown
-Syntax highlighted code block 
-[Link](url) and ![Image](src)
-```
-
-**Bold** and _Italic_ and `Code` text
-
-Here are some help-links and notation descriptions...
 
 > Usefull Links | 🌐
 > ------------ | -------------
@@ -114,3 +106,9 @@ Here are some help-links and notation descriptions...
 > - PL - Pytorch Lightning
 > - NT - the company
 
+```markdown
+Syntax highlighted code block 
+[Link](url) and ![Image](src)
+```
+
+**Bold** and _Italic_ and `Code` text
