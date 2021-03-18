@@ -10,6 +10,7 @@ Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 - [Simple NN + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
 - [Simple RNN + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
 - Regression +Stocks Usecase
+- Genetic Algorithms + Stocks Usecase
 - Random Forests + Stocks Usecase
 - DQN + Stocks Usecase
 - MARL + Stocks Usecase
