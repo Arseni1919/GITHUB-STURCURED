@@ -12,6 +12,7 @@ Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 - Regression +Stocks Usecase
 - Genetic Algorithms + Stocks Usecase
 - Random Forests + Stocks Usecase
+- XGBoost + Stocks Usecase
 - DQN + Stocks Usecase
 - MARL + Stocks Usecase
 
