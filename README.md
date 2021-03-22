@@ -61,7 +61,7 @@ Template: [PL Template Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJEC
 - [ROS Essentials](https://github.com/Arseni1919/ROS-essentianls)
 - [Python Tricks](https://github.com/Arseni1919/Python-Tricks-book-examples)
 - [PL Example](https://github.com/Arseni1919/PyTorch_Lightning_example)
-- [DDS IOT Example](https://github.com/Arseni1919/DDS_IOT_Example)
+- [IOT Course Template](https://github.com/Arseni1919/IOT_Course_Template) ([another version](https://github.com/Arseni1919/DDS_IOT_Example))
 
 ### 🖥️ WEB
 
@@ -82,6 +82,7 @@ Template: [PL Template Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJEC
 - [WEB Course: Help Material](https://github.com/Arseni1919/WEB_course_BGU)
 - [WEB Course: Flask Project](https://github.com/Arseni1919/WEB_Course_2020_A_examples_flask)
 - [Stanford cs321n](https://github.com/Arseni1919/cs321n)
+
 
 ### 🌍 Competitions
 
