@@ -100,7 +100,7 @@ Template: [PL Template Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJEC
 
 > Usefull Links | 🌐
 > ------------ | -------------
-> Matering Marldown | [link](https://guides.github.com/features/mastering-markdown/)
+> Mastering Markdown | [link](https://guides.github.com/features/mastering-markdown/)
 > Emoji Cheat Sheet | [link](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 > Theme of the Page | [link](https://github.com/pages-themes/slate) 
 > GitHub Pages Site | [link](https://pages.github.com/)
