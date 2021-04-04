@@ -8,13 +8,22 @@ RL Environment: [Gym Environment For Stock Trading](https://github.com/Arseni191
 Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 
 - [Simple NN + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
-- [Simple RNN + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
-- Regression +Stocks Usecase
+- [Simple RNN, LSTM, GRU + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
 - Genetic Algorithms + Stocks Usecase
-- Random Forests + Stocks Usecase
-- XGBoost + Stocks Usecase
 - DQN + Stocks Usecase
 - MARL + Stocks Usecase
+- Regression
+- Logistic Regression
+- K-Nearest Neighbors
+- Naive Bayes
+- Support Vector Machines (SVM)
+- Decision Tree
+- Random Forest
+- AdaBoost
+- Gradient Boost
+- CatBoost
+- XGBoost
+- LightGBM
 
 
 ## 🦁 RL and MARL Algorithms
@@ -22,17 +31,17 @@ Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 Template: [PL Template Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJECT)
 
 1. [DQN - PL](https://github.com/Arseni1919/PL_DQN) ([variant 2](https://github.com/Arseni1919/DQN_implementation_from_pytorch_lightning_website), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
-3. [REINFORCE - PL](https://github.com/Arseni1919/PL_REINFORCE) ([variant 2](https://github.com/Arseni1919/Implementation-of-REINFORCE-with-PyTorch-Lightning), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
-4. [A2C](https://github.com/Arseni1919/PL_A2C) (A3C)
-5. PPO
-6. DDPG
-7. Double DQN
-8. SAC
-9. I2A
-10. MADDPG (multi-agent)
-11. TD3
-12. AlphaGo Mu
-13. MARL ...
+1. [REINFORCE - PL](https://github.com/Arseni1919/PL_REINFORCE) ([variant 2](https://github.com/Arseni1919/Implementation-of-REINFORCE-with-PyTorch-Lightning), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
+1. [A2C](https://github.com/Arseni1919/PL_A2C) (A3C)
+1. PPO
+1. DDPG
+1. Double DQN
+1. SAC
+1. I2A
+1. MADDPG (multi-agent)
+1. TD3
+1. AlphaGo Mu
+1. MARL ...
 
 ## 📝 Research
 
