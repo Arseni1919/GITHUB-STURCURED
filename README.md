@@ -46,7 +46,7 @@ Template: [PL Template Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJEC
 ## 📝 Research
 
 - [Toy DCOP Max-sum Simulation](https://github.com/Arseni1919/toy_dcop_max_sum_simulation)
-- [Simulator DCOP_MST (version 2.0)](https://github.com/Arseni1919/max_sum_cells_simulator) - implementation of _DSA_MST_, _CADSA_ _CAMS_, _Max-sum_MST_
+- [Simulator DCOP_MST (version 2.0)](https://github.com/Arseni1919/max_sum_cells_simulator) - implementation of _DSA_MST_, _CADSA_, _CAMS_, _Max-sum_MST_
 - [Implementation of Max-Sum_MST in ROS Platform](https://github.com/Arseni1919/max_sum_ROS_implementation)
 - [Implementation of CAMS in ROS Platform](https://github.com/Arseni1919/max_sum_cells_ROS)
 
