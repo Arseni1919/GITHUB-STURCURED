@@ -41,7 +41,7 @@ Template: [PL Template Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJEC
 1. MADDPG (multi-agent)
 1. TD3
 1. AlphaGo Mu
-1. MARL ...
+1. MARL ... (envs: PettingZoo)
 
 ## 📝 Research
 
