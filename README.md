@@ -91,6 +91,7 @@ Template: [PL Template Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJEC
 - [WEB Course: Help Material](https://github.com/Arseni1919/WEB_course_BGU)
 - [WEB Course: Flask Project](https://github.com/Arseni1919/WEB_Course_2020_A_examples_flask)
 - [Stanford cs321n](https://github.com/Arseni1919/cs321n)
+- [(2021) Optimal Path Planning Using Generalized Voronoi Graph and Multiple Potential Functions](https://github.com/Arseni1919/GVG_and_MPF_and_RRT)
 
 
 ### 🌍 Competitions
