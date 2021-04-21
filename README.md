@@ -78,7 +78,7 @@ Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 - [Flask](https://github.com/Arseni1919/arseniperchikflask)
 - [React](https://github.com/Arseni1919/arseniperchikreact)
 
-### 🎓 University Projects
+### 🎓 Other University Projects
 
 - [DL Course 1: Image Classification with HOG and SVM Techniques](https://github.com/Arseni1919/Task_1_DL_course_Ben_Gurion)
 - [DL Course 2: TensorFlow and Keras](https://github.com/Arseni1919/Task_2_DL_course_Ben_Gurion_2020)
