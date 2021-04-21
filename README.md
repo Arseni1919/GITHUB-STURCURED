@@ -57,6 +57,7 @@ Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 
 - [A* Simulator - Pathfinding](https://github.com/Arseni1919/A_star_simulator)
 - [Simulator DCOP_MST (version 1.0)](https://github.com/Arseni1919/simulator_dcop_mst) - implementation of _DSA_, _MGM_
+- [(2021) Optimal Path Planning Using Generalized Voronoi Graph and Multiple Potential Functions](https://github.com/Arseni1919/GVG_and_MPF_and_RRT)
 
 
 ### 🚗 Robots
@@ -92,7 +93,7 @@ Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 - [WEB Course: Help Material](https://github.com/Arseni1919/WEB_course_BGU)
 - [WEB Course: Flask Project](https://github.com/Arseni1919/WEB_Course_2020_A_examples_flask)
 - [Stanford cs321n](https://github.com/Arseni1919/cs321n)
-- [(2021) Optimal Path Planning Using Generalized Voronoi Graph and Multiple Potential Functions](https://github.com/Arseni1919/GVG_and_MPF_and_RRT)
+
 
 
 ### 🌍 Competitions
