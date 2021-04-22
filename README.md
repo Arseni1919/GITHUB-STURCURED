@@ -122,9 +122,9 @@ Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 > - PL - Pytorch Lightning
 > - NT - the company
 
-```markdown
+<!--```markdown
 Syntax highlighted code block 
 [Link](url) and ![Image](src)
 ```
+**Bold** and _Italic_ and `Code` text-->
 
-**Bold** and _Italic_ and `Code` text
