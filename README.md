@@ -34,7 +34,7 @@ Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 1. [DQN - PL](https://github.com/Arseni1919/PL_DQN) ([variant 2](https://github.com/Arseni1919/DQN_implementation_from_pytorch_lightning_website), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
 1. [REINFORCE - PL](https://github.com/Arseni1919/PL_REINFORCE) ([variant 2](https://github.com/Arseni1919/Implementation-of-REINFORCE-with-PyTorch-Lightning), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
 1. [A2C](https://github.com/Arseni1919/PL_A2C) (A3C)
-1. PPO
+1. [PPO](https://github.com/Arseni1919/PL_PPO)
 1. DDPG
 1. Double DQN
 1. SAC
