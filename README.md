@@ -12,6 +12,7 @@ Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 - Genetic Algorithms + Stocks Usecase
 - DQN + Stocks Usecase
 - MARL + Stocks Usecase
+- GANs
 - Regression
 - Logistic Regression
 - K-Nearest Neighbors
