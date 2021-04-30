@@ -31,6 +31,7 @@ Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 
 - [Template for PL Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJECT)
 - [Learning Neptune.ai](https://github.com/Arseni1919/Neptune_Tutorials)
+- [Learning Gradio.app](https://github.com/Arseni1919/Learning_Gradio)
 
 1. [DQN - PL](https://github.com/Arseni1919/PL_DQN) ([variant 2](https://github.com/Arseni1919/DQN_implementation_from_pytorch_lightning_website), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
 1. [REINFORCE - PL](https://github.com/Arseni1919/PL_REINFORCE) ([variant 2](https://github.com/Arseni1919/Implementation-of-REINFORCE-with-PyTorch-Lightning), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
