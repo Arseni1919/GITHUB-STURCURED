@@ -75,6 +75,7 @@ Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 - [Python Tricks](https://github.com/Arseni1919/Python-Tricks-book-examples)
 - [PL Example](https://github.com/Arseni1919/PyTorch_Lightning_example)
 - [IOT Course Template](https://github.com/Arseni1919/IOT_Course_Template) ([another version](https://github.com/Arseni1919/DDS_IOT_Example))
+- [Learning SimPy](https://github.com/Arseni1919/Learning_SimPy)
 
 ### 🖥️ WEB
 
