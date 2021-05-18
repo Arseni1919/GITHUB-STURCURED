@@ -94,7 +94,8 @@ Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 - [Greedy Algorithm, Construction Heuristic, Simulated Annealing, Local Search, Genetic Algorithm](https://github.com/Arseni1919/computational_intelligence_course_task)
 - [CSP problems](https://github.com/Arseni1919/AI-course-in-BGU-assignment-1---Centralised-CSP)
 - [WEB Course: Help Material](https://github.com/Arseni1919/WEB_course_BGU)
-- [WEB Course: Flask Project](https://github.com/Arseni1919/WEB_Course_2020_A_examples_flask)
+- [WEB Course: Lectures - 2021 A](https://github.com/Arseni1919/WEB_Course_2020_A_examples_flask)
+- [WEB Course: Lectures - 2021 B](https://github.com/Arseni1919/WEB_Course_2021_B_examples_flask)
 - [Stanford cs321n](https://github.com/Arseni1919/cs321n)
 
 
