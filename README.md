@@ -57,7 +57,7 @@ Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 
 ### 🔍  Search in AI
 
-- [A* Implementation - Simple Generic Version](https://github.com/Arseni1919/A_star_Implementation)
+- [A* Implementation - Generic Version](https://github.com/Arseni1919/A_star_Implementation)
 - [A* Simulator - Pathfinding](https://github.com/Arseni1919/A_star_simulator)
 - [Simulator DCOP_MST (version 1.0)](https://github.com/Arseni1919/simulator_dcop_mst) - implementation of _DSA_, _MGM_
 - [(2021) Optimal Path Planning Using Generalized Voronoi Graph and Multiple Potential Functions](https://github.com/Arseni1919/GVG_and_MPF_and_RRT)
