@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" >
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 
 My name is [Arseni Perchik](https://arseni1919.github.io/PORTFOLIO/) and this page presents my GitHub projects in a structured way. 
 The main fields of my work are: **ROS**, robotics, **RL**, MARL, ML, **Search AI**, DCOP, **DCOP_MST**, WEB, IOT. The projects divided to sections for the sake of convenience.
