@@ -83,8 +83,9 @@ Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 
 ### 🖥️ WEB
 
-- [Flask](https://github.com/Arseni1919/arseniperchikflask)
-- [React](https://github.com/Arseni1919/arseniperchikreact)
+- [Learning Flask](https://github.com/Arseni1919/arseniperchikflask)
+- [Learning React](https://github.com/Arseni1919/arseniperchikreact)
+- [Learning Django](https://github.com/Arseni1919/Learning_Django)
 
 ### 🎓 Other University Projects
 
