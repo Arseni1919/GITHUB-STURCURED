@@ -9,7 +9,7 @@ RL Environment: [Gym Environment For Stock Trading](https://github.com/Arseni191
 
 Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 
-- [Simple NN + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
+- [Simple NN + Stocks Usecase   ](https://github.com/Arseni1919/NT_sandbox)
 - [Simple RNN, LSTM, GRU + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
 - Genetic Algorithms + Stocks Usecase
 - DQN + Stocks Usecase
