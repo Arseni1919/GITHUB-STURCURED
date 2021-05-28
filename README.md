@@ -80,6 +80,7 @@ Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 - [IOT Course Template](https://github.com/Arseni1919/IOT_Course_Template) ([another version](https://github.com/Arseni1919/DDS_IOT_Example))
 - [Learning SimPy](https://github.com/Arseni1919/Learning_SimPy)
 - [Learning Tkinter](https://github.com/Arseni1919/Learning_Tkinter)
+- [Learning Async IO](https://github.com/Arseni1919/Learning_AsyncIO)
 
 ### 🖥️ WEB
 
