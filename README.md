@@ -81,7 +81,7 @@ Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 - [Learning SimPy](https://github.com/Arseni1919/Learning_SimPy)
 - [Learning Tkinter](https://github.com/Arseni1919/Learning_Tkinter)
 - [Learning Async IO](https://github.com/Arseni1919/Learning_AsyncIO)
-- [Learning `matplotlib`](https://github.com/Arseni1919/Learning_matplotlib)
+- [Learning Matplotlib](https://github.com/Arseni1919/Learning_matplotlib)
 - [Learning Threading in Python](https://github.com/Arseni1919/Learning_Threading_python)
 
 ### 🖥️ WEB
