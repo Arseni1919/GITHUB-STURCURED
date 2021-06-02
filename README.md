@@ -59,6 +59,7 @@ Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 
 ### 🔍  Search in AI
 
+- [RRT Implementation - Generic Version](https://github.com/Arseni1919/Simple_Implementation_of_RRT)
 - [A* Implementation - Generic Version](https://github.com/Arseni1919/A_star_Implementation)
 - [A* Simulator - Pathfinding](https://github.com/Arseni1919/A_star_simulator)
 - [Simulator DCOP_MST (version 1.0)](https://github.com/Arseni1919/simulator_dcop_mst) - implementation of _DSA_, _MGM_
