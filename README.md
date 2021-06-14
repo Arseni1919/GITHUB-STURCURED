@@ -67,6 +67,7 @@ Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 ### 🚗 Robots
 
 - [ROS Package for Hamster Robots](https://github.com/Arseni1919/ROS-package-to-move-robots-with-my-code)
+- [Voronoi + A* + RRT](https://github.com/matanSamina/RRT_Project_2021)
 
 
 ### 🏛️ Platforms
@@ -104,7 +105,7 @@ Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 - [WEB Course: Lectures - 2021 A](https://github.com/Arseni1919/WEB_Course_2020_A_examples_flask)
 - [WEB Course: Lectures - 2021 B](https://github.com/Arseni1919/WEB_Course_2021_B_examples_flask)
 - [Stanford cs321n](https://github.com/Arseni1919/cs321n)
-- [2021 Robotics Course: Voronoi + RRT](https://github.com/matanSamina/RRT_Project_2021)
+
 
 
 
