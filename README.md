@@ -3,13 +3,9 @@
 My name is [Arseni Perchik](https://arseni1919.github.io/PORTFOLIO/) and this page presents my GitHub projects in a structured way. 
 The main fields of my work are: **ROS**, robotics, **RL**, MARL, ML, **Search AI**, DCOP, **DCOP_MST**, WEB, IOT. The projects are divided to several sections for the sake of convenience.
 
-## 💵 ML Algorithms & Environments for Trading (NT progress)
+## 📈 ML Algorithms 
 
-RL Environment: [Gym Environment For Stock Trading](https://github.com/Arseni1919/gym-stocktrading)
-
-Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
-
-- [Simple NN + Stocks Usecase   ](https://github.com/Arseni1919/NT_sandbox)
+- [Simple NN + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
 - [Simple RNN, LSTM, GRU + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
 - Genetic Algorithms + Stocks Usecase
 - DQN + Stocks Usecase
@@ -32,8 +28,6 @@ Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 ## 🦁 RL and MARL Algorithms
 
 - [Template for PL Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJECT)
-- [Learning Neptune.ai](https://github.com/Arseni1919/Neptune_Tutorials)
-- [Learning Gradio.app](https://github.com/Arseni1919/Learning_Gradio)
 
 1. [DQN - PL](https://github.com/Arseni1919/PL_DQN) ([variant 2](https://github.com/Arseni1919/DQN_implementation_from_pytorch_lightning_website), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
 1. [REINFORCE - PL](https://github.com/Arseni1919/PL_REINFORCE) ([variant 2](https://github.com/Arseni1919/Implementation-of-REINFORCE-with-PyTorch-Lightning), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
@@ -51,9 +45,15 @@ Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 ## 📝 Research
 
 - [Toy DCOP Max-sum Simulation](https://github.com/Arseni1919/toy_dcop_max_sum_simulation)
+- [Simulator DCOP_MST (version 1.0)](https://github.com/Arseni1919/simulator_dcop_mst) - implementation of _DSA_, _MGM_
 - [Simulator DCOP_MST (version 2.0)](https://github.com/Arseni1919/max_sum_cells_simulator) - implementation of _DSA_MST_, _CADSA_, _CAMS_, _Max-sum_MST_
 - [Implementation of Max-Sum_MST in ROS Platform](https://github.com/Arseni1919/max_sum_ROS_implementation)
 - [Implementation of CAMS in ROS Platform](https://github.com/Arseni1919/max_sum_cells_ROS)
+
+## 💵 Trading (NT progress)
+
+- RL Environment: [Gym Environment For Stock Trading](https://github.com/Arseni1919/gym-stocktrading)
+- Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 
 ## Other Projects
 
@@ -62,7 +62,7 @@ Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 - [RRT Implementation - Generic Version](https://github.com/Arseni1919/Simple_Implementation_of_RRT)
 - [A* Implementation - Generic Version](https://github.com/Arseni1919/A_star_Implementation)
 - [A* Simulator - Pathfinding](https://github.com/Arseni1919/A_star_simulator)
-- [Simulator DCOP_MST (version 1.0)](https://github.com/Arseni1919/simulator_dcop_mst) - implementation of _DSA_, _MGM_
+
 
 ### 🚗 Robots
 
@@ -70,19 +70,20 @@ Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 - [Voronoi + A* + RRT (robot navigation)](https://github.com/matanSamina/RRT_Project_2021)
 
 
-### 🏛️ Platforms
+### 🏛️ Skills
 
-- [Pygame](https://github.com/Arseni1919/pygame_example)
-- [PyTorch Practice](https://github.com/Arseni1919/pytorch_tutorials)
-- [ROS Essentials](https://github.com/Arseni1919/ROS-essentianls)
-- [Python Tricks](https://github.com/Arseni1919/Python-Tricks-book-examples)
-- [PL Example](https://github.com/Arseni1919/PyTorch_Lightning_example)
-- [IOT Course Template](https://github.com/Arseni1919/IOT_Course_Template) ([another version](https://github.com/Arseni1919/DDS_IOT_Example))
+- [Learning PyTorch](https://github.com/Arseni1919/pytorch_tutorials)
+- [Learning ROS Essentials](https://github.com/Arseni1919/ROS-essentianls)
+- [Learning PL](https://github.com/Arseni1919/PyTorch_Lightning_example)
+- [Learning Python Tricks](https://github.com/Arseni1919/Python-Tricks-book-examples)
 - [Learning SimPy](https://github.com/Arseni1919/Learning_SimPy)
 - [Learning Tkinter](https://github.com/Arseni1919/Learning_Tkinter)
 - [Learning Async IO](https://github.com/Arseni1919/Learning_AsyncIO)
 - [Learning Matplotlib](https://github.com/Arseni1919/Learning_matplotlib)
 - [Learning Threading in Python](https://github.com/Arseni1919/Learning_Threading_python)
+- [Learning Neptune.ai](https://github.com/Arseni1919/Neptune_Tutorials)
+- [Learning Gradio.app](https://github.com/Arseni1919/Learning_Gradio)
+- [Learning Pygame 1](https://github.com/Arseni1919/pygame_example)
 
 ### 🖥️ WEB
 
@@ -91,6 +92,8 @@ Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 - [Learning Django](https://github.com/Arseni1919/Learning_Django)
 
 ### 🎓 Other University Projects
+
+#### Studying
 
 - [DL Course 1: Image Classification with HOG and SVM Techniques](https://github.com/Arseni1919/Task_1_DL_course_Ben_Gurion)
 - [DL Course 2: TensorFlow and Keras](https://github.com/Arseni1919/Task_2_DL_course_Ben_Gurion_2020)
@@ -101,12 +104,14 @@ Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 - [DRL Course 3: DQN, PyTorch](https://github.com/Arseni1919/DRL_course_exercise_3)
 - [Greedy Algorithm, Construction Heuristic, Simulated Annealing, Local Search, Genetic Algorithm](https://github.com/Arseni1919/computational_intelligence_course_task)
 - [CSP problems](https://github.com/Arseni1919/AI-course-in-BGU-assignment-1---Centralised-CSP)
+- [Stanford cs321n](https://github.com/Arseni1919/cs321n)
+
+#### Teaching
+
 - [WEB Course: Help Material](https://github.com/Arseni1919/WEB_course_BGU)
 - [WEB Course: Lectures - 2021 A](https://github.com/Arseni1919/WEB_Course_2020_A_examples_flask)
 - [WEB Course: Lectures - 2021 B](https://github.com/Arseni1919/WEB_Course_2021_B_examples_flask)
-- [Stanford cs321n](https://github.com/Arseni1919/cs321n)
-
-
+- [IOT Course Template](https://github.com/Arseni1919/IOT_Course_Template) ([another version](https://github.com/Arseni1919/DDS_IOT_Example))
 
 
 ### 🌍 Competitions
