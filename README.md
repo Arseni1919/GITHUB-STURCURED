@@ -7,9 +7,8 @@ The main fields of my work are: **ROS**, robotics, **RL**, MARL, ML, **Search AI
 
 - [Simple NN + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
 - [Simple RNN, LSTM, GRU + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
-- Genetic Algorithms + Stocks Usecase
-- DQN + Stocks Usecase
-- MARL + Stocks Usecase
+- Genetic Algorithms
+- DQN
 - GANs
 - Regression
 - Logistic Regression
