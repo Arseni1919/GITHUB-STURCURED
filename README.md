@@ -44,8 +44,9 @@ The main fields of my work are: **ROS**, robotics, **RL**, MARL, ML, **Search AI
 ## 📝 Research
 
 - [Toy DCOP Max-sum Simulation](https://github.com/Arseni1919/toy_dcop_max_sum_simulation)
-- [Simulator DCOP_MST (version 1.0)](https://github.com/Arseni1919/simulator_dcop_mst) - implementation of _DSA_, _MGM_
-- [Simulator DCOP_MST (version 2.0)](https://github.com/Arseni1919/max_sum_cells_simulator) - implementation of _DSA_MST_, _CADSA_, _CAMS_, _Max-sum_MST_
+- [Simulator DCOP_MST (version 1)](https://github.com/Arseni1919/simulator_dcop_mst) - implementation of _DSA_, _MGM_
+- [Simulator DCOP_MST (version 2)](https://github.com/Arseni1919/max_sum_cells_simulator) - implementation of _DSA_MST_, _CADSA_, _CAMS_, _Max-sum_MST_
+- [Simulator DCOP_MST (version 3)](https://github.com/Arseni1919/dcop_simulator_3)
 - [Implementation of Max-Sum_MST in ROS Platform](https://github.com/Arseni1919/max_sum_ROS_implementation)
 - [Implementation of CAMS in ROS Platform](https://github.com/Arseni1919/max_sum_cells_ROS)
 
