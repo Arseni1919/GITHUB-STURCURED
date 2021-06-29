@@ -93,6 +93,7 @@ The main fields of my work are: **ROS**, robotics, **RL**, MARL, ML, **Search AI
 - [Learning Django](https://github.com/Arseni1919/Learning_Django)
 - [Learning AJAX](https://github.com/Arseni1919/Learning_AJAX)
 - [Learning Async JS and Fetch API](https://github.com/Arseni1919/Learning_FetchAPI)
+- [Learning Bootstrap](https://github.com/Arseni1919/Learning_Bootstrap)
 
 ### 🎓 Other University Projects
 
