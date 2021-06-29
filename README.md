@@ -92,6 +92,7 @@ The main fields of my work are: **ROS**, robotics, **RL**, MARL, ML, **Search AI
 - [Learning React](https://github.com/Arseni1919/arseniperchikreact)
 - [Learning Django](https://github.com/Arseni1919/Learning_Django)
 - [Learning AJAX](https://github.com/Arseni1919/Learning_AJAX)
+- [Learning FetchAPI](https://github.com/Arseni1919/Learning_FetchAPI)
 
 ### 🎓 Other University Projects
 
