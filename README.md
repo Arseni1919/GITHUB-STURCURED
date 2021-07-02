@@ -85,6 +85,7 @@ The main fields of my work are: **ROS**, robotics, **RL**, MARL, ML, **Search AI
 - [Learning Gradio.app](https://github.com/Arseni1919/Learning_Gradio)
 - [Learning Pygame 1](https://github.com/Arseni1919/pygame_example)
 - [Learning Pygame 2](https://github.com/Arseni1919/Learning_pygame_2)
+- [Learning SQLite](https://github.com/Arseni1919/Learning_SQLite)
 
 ### 🖥️ WEB
 
