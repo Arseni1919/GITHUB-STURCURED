@@ -4,7 +4,7 @@ My name is [Arseni Perchik](https://arseni1919.github.io/PORTFOLIO/) and this pa
 The main fields of my work are: **ROS**, robotics, **RL**, MARL, ML, **Search AI**, DCOP, **DCOP_MST**, WEB, IOT. The projects are divided to several sections for the sake of convenience.
 
 <p align="center">
-    <a href="#" alt=""><img src="https://img.shields.io/github/last-commit/Arseni1919/GITHUB-STURCURED" /></a>
+    <a href="#" alt=""><img src="https://img.shields.io/github/last-commit/Arseni1919/GITHUB-STURCURED?style=social" /></a>
     <a href="https://twitter.com/AiArseni" alt=""><img src="https://img.shields.io/twitter/follow/AIArseni?label=Follow%20on%20Twitter&style=social" /></a>
     <a href="https://github.com/Arseni1919" alt="Follow"><img src="https://img.shields.io/github/followers/Arseni1919?label=Follow%20on%20GitHub&style=social" /></a>
 </p>
