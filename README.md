@@ -1,14 +1,13 @@
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 
+My name is [Arseni Perchik](https://arseni1919.github.io/PORTFOLIO/) and this page presents my GitHub projects in a structured way. 
+The main fields of my work are: **ROS**, robotics, **RL**, MARL, ML, **Search AI**, DCOP, **DCOP_MST**, WEB, IOT. The projects are divided to several sections for the sake of convenience.
+
 <p align="center">
     <a href="https://twitter.com/AiArseni" alt=""><img src="https://img.shields.io/twitter/follow/AiArseni?style=social" /></a>
     <a href="https://github.com/Arseni1919" alt="Follow"><img src="https://img.shields.io/github/followers/Arseni1919?label=Follow&style=social" /></a>
     <a href="#" alt=""><img src="https://img.shields.io/github/last-commit/Arseni1919/GITHUB-STURCURED" /></a>
-  
 </p>
-
-My name is [Arseni Perchik](https://arseni1919.github.io/PORTFOLIO/) and this page presents my GitHub projects in a structured way. 
-The main fields of my work are: **ROS**, robotics, **RL**, MARL, ML, **Search AI**, DCOP, **DCOP_MST**, WEB, IOT. The projects are divided to several sections for the sake of convenience.
 
 ## 📈 ML Algorithms 
 
