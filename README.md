@@ -86,6 +86,7 @@ The main fields of my work are: **ROS**, robotics, **RL**, MARL, ML, **Search AI
 - [Learning Tkinter](https://github.com/Arseni1919/Learning_Tkinter)
 - [Learning Async IO](https://github.com/Arseni1919/Learning_AsyncIO)
 - [Learning Matplotlib](https://github.com/Arseni1919/Learning_matplotlib)
+- [Learning Pandas](https://github.com/Arseni1919/Learning_Pandas)
 - [Learning Threading in Python](https://github.com/Arseni1919/Learning_Threading_python)
 - [Learning Neptune.ai](https://github.com/Arseni1919/Neptune_Tutorials)
 - [Learning Gradio.app](https://github.com/Arseni1919/Learning_Gradio)
