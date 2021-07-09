@@ -102,6 +102,7 @@ The main fields of my work are: **ROS**, robotics, **RL**, MARL, ML, **Search AI
 - [Learning AJAX](https://github.com/Arseni1919/Learning_AJAX)
 - [Learning Async JS and Fetch API](https://github.com/Arseni1919/Learning_FetchAPI)
 - [Learning Bootstrap](https://github.com/Arseni1919/Learning_Bootstrap)
+- [Learnig To Deploy Flask App To Heroku](https://github.com/Arseni1919/Learnig_Deploy_Flask_to_Heroku#credits)
 
 ### 🎓 Other University Projects
 
