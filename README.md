@@ -80,10 +80,10 @@ The main fields of my work are: **ROS**, robotics, **RL**, MARL, ML, **Search AI
 
 - [Learning Git and GitHub](https://github.com/Arseni1919/Learning_git)
 - [Learning Python](https://github.com/Arseni1919/Learning_Python)
+- [Learning Python Tricks](https://github.com/Arseni1919/Python-Tricks-book-examples)
 - [Learning PyTorch](https://github.com/Arseni1919/pytorch_tutorials)
 - [Learning ROS Essentials](https://github.com/Arseni1919/ROS-essentianls)
 - [Learning PL](https://github.com/Arseni1919/PyTorch_Lightning_example)
-- [Learning Python Tricks](https://github.com/Arseni1919/Python-Tricks-book-examples)
 - [Learning SimPy](https://github.com/Arseni1919/Learning_SimPy)
 - [Learning Tkinter](https://github.com/Arseni1919/Learning_Tkinter)
 - [Learning Async IO](https://github.com/Arseni1919/Learning_AsyncIO)
