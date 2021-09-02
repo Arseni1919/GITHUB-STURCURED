@@ -34,8 +34,8 @@ The main fields of my work are: **ROS**, robotics, **RL**, MARL, ML, **Search AI
 
 - [Template for PL Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJECT)
 
-1. [DQN - PL](https://github.com/Arseni1919/PL_DQN) ([variant 2](https://github.com/Arseni1919/DQN_implementation_from_pytorch_lightning_website), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
-1. [REINFORCE - PL](https://github.com/Arseni1919/PL_REINFORCE) ([variant 2](https://github.com/Arseni1919/Implementation-of-REINFORCE-with-PyTorch-Lightning), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
+1. [DQN](https://github.com/Arseni1919/PL_DQN) ([variant 2](https://github.com/Arseni1919/DQN_implementation_from_pytorch_lightning_website), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
+1. [REINFORCE](https://github.com/Arseni1919/PL_REINFORCE) ([variant 2](https://github.com/Arseni1919/Implementation-of-REINFORCE-with-PyTorch-Lightning), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
 1. [A2C](https://github.com/Arseni1919/PL_A2C) (A3C)
 1. [PPO](https://github.com/Arseni1919/PL_PPO)
 1. [DDPG](https://github.com/Arseni1919/PL_DDPG)
