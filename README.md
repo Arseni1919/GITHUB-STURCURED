@@ -93,6 +93,7 @@ The main fields of my work are: **ROS**, robotics, **RL**, MARL, ML, **Search AI
 - [Learning Pygame 1](https://github.com/Arseni1919/pygame_example)
 - [Learning Pygame 2](https://github.com/Arseni1919/Learning_pygame_2)
 - [Learning SQLite](https://github.com/Arseni1919/Learning_SQLite)
+- [Learning Gym Environments (OpenAI)](https://github.com/Arseni1919/Learning_Gym_OpenAI)
 
 ### 🖥️ WEB
 
