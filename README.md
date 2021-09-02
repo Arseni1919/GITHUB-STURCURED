@@ -139,7 +139,7 @@ The main fields of my work are: **ROS**, robotics, **RL**, MARL, ML, **Search AI
 - [Forked: Smart Home Simulator - FinalProject](https://github.com/Arseni1919/FinalProject)
 - [Forked: Smart Home Simulator - FinalProjectWrapping](https://github.com/Arseni1919/FinalProjectWrapping)
 
-## Help-Links, Notations and Markdown
+## Help-Links and Markdown
 
 
 > Usefull Links | 🌐
@@ -149,10 +149,7 @@ The main fields of my work are: **ROS**, robotics, **RL**, MARL, ML, **Search AI
 > Theme of the Page | [link](https://github.com/pages-themes/slate) 
 > GitHub Pages Site | [link](https://pages.github.com/)
 > GitHub Pages Docs | [link](https://docs.github.com/categories/github-pages-basics/)
-> 
-> Notations:
-> - PL - Pytorch Lightning
-> - NT - the company
+
 
 <!--```markdown
 Syntax highlighted code block 
