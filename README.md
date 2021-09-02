@@ -149,6 +149,7 @@ The main fields of my work are: **ROS**, robotics, **RL**, MARL, ML, **Search AI
 > Theme of the Page | [link](https://github.com/pages-themes/slate) 
 > GitHub Pages Site | [link](https://pages.github.com/)
 > GitHub Pages Docs | [link](https://docs.github.com/categories/github-pages-basics/)
+> Budges in GitHub README | [link](https://shields.io/)
 
 
 <!--```markdown
