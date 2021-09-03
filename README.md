@@ -39,7 +39,6 @@ The main fields of my work are: **Multi-agent Systems**, **Search AI**, **RL**, 
 1. [A2C](https://github.com/Arseni1919/PL_A2C) (A3C)
 1. [PPO](https://github.com/Arseni1919/PL_PPO)
 1. [DDPG](https://github.com/Arseni1919/PL_DDPG)
-1. Double DQN
 1. SAC
 1. I2A
 1. MADDPG (multi-agent)
