@@ -14,7 +14,6 @@ The main fields of my work are: **Multi-agent Systems**, **Search AI**, **RL**, 
 - [Simple NN + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
 - [Simple RNN, LSTM, GRU + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
 - Genetic Algorithms
-- DQN
 - GANs
 - Regression
 - Logistic Regression
