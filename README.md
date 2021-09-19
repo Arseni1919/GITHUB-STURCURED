@@ -123,7 +123,7 @@ The main fields of my work are: **Multi-agent Systems**, **Search AI**, **RL**, 
 #### Teaching
 
 - [WEB Course: Help Material](https://github.com/Arseni1919/WEB_course_BGU)
-- [WEB Course: Flask Skeleton Project](https://github.com/Arseni1919/WEB_Course_Flask_Skeleton_Project)
+- [WEB Course: Flask Skeleton Project (By Barak Pinchovski)](https://github.com/Arseni1919/WEB_Course_Flask_Skeleton_Project)
 - [WEB Course: Lectures - 2021 A](https://github.com/Arseni1919/WEB_Course_2020_A_examples_flask)
 - [WEB Course: Lectures - 2021 B](https://github.com/Arseni1919/WEB_Course_2021_B_examples_flask)
 - [IOT Course Template](https://github.com/Arseni1919/IOT_Course_Template) ([another version](https://github.com/Arseni1919/DDS_IOT_Example))
