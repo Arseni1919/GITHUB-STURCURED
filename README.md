@@ -104,6 +104,7 @@ The main fields of my work are: **Multi-agent Systems**, **Search AI**, **RL**, 
 - [Learning Async JS and Fetch API](https://github.com/Arseni1919/Learning_FetchAPI)
 - [Learning Bootstrap](https://github.com/Arseni1919/Learning_Bootstrap)
 - [Learning To Deploy Flask App To Heroku](https://github.com/Arseni1919/Learnig_Deploy_Flask_to_Heroku)
+- [Learning To Deploy Flask App With DB To Heroku](https://github.com/Arseni1919/Deploy_flask_with_DB_to_Heroku)
 
 ### 🎓 Other University Projects
 
