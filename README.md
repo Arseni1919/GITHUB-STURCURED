@@ -20,6 +20,7 @@ The main fields of my work are: **Multi-agent Systems**, **Search AI**, **RL**, 
 - K-Nearest Neighbors
 - Naive Bayes
 - Support Vector Machines (SVM)
+- Monte Carlo Tree Search (MCTS)
 - Decision Tree
 - Random Forest
 - AdaBoost
