@@ -1,7 +1,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 
 My name is [Arseni Perchik](https://arseni1919.github.io/PORTFOLIO/) and this page presents my GitHub projects in a structured way. 
-The main fields of my work are: **Multi-agent Systems**, **Search AI**, **RL**, **DCOP**, **ROS**, MARL, ML,  WEB, IOT. The projects are divided to several sections for the sake of convenience.
+The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **RL**, **DCOP**, **ROS**, MARL, ML,  WEB, IOT. The projects are divided to several sections for the sake of convenience.
 
 <p align="center">
     <a href="#" alt=""><img src="https://img.shields.io/github/last-commit/Arseni1919/GITHUB-STURCURED?style=social" /></a>
