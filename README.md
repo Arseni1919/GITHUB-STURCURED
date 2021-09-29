@@ -9,6 +9,13 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
     <a href="https://github.com/Arseni1919" alt="Follow"><img src="https://img.shields.io/github/followers/Arseni1919?label=Follow%20me%20on%20GitHub&style=social" /></a>
 </p>
 
+
+## 🦁 🦊 🐹 MAS Algorithms
+
+1. MADDPG 
+1. MARL ... (envs: [PettingZoo](https://www.pettingzoo.ml/#))
+
+
 ## 📈 ML Algorithms 
 
 - [Simple NN + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
@@ -51,13 +58,10 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [A* Simulator - Pathfinding](https://github.com/Arseni1919/A_star_simulator)
 
 
-## 🦁 🦊 🐹 MAS Algorithms
-
-1. MADDPG 
-1. MARL ... (envs: [PettingZoo](https://www.pettingzoo.ml/#))
-
 
 ## 📝 Laboratory
+
+### Simulators
 
 - [Toy DCOP Max-sum Simulation](https://github.com/Arseni1919/toy_dcop_max_sum_simulation)
 - [Simulator DCOP_MST (version 1)](https://github.com/Arseni1919/simulator_dcop_mst) - implementation of _DSA_, _MGM_
@@ -77,8 +81,8 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - RL Environment: [Gym Environment For Stock Trading](https://github.com/Arseni1919/gym-stocktrading)
 - Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 
-## Other Projects
 
+## Other Projects
 
 ### 🏛️ Skills
 
