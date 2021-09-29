@@ -30,7 +30,7 @@ The main fields of my work are: **Multi-agent Systems**, **Search AI**, **RL**, 
 - LightGBM
 
 
-## 🦁 RL and MARL Algorithms
+## 🦁 RL Algorithms
 
 - [Template for PL Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJECT)
 
@@ -41,17 +41,34 @@ The main fields of my work are: **Multi-agent Systems**, **Search AI**, **RL**, 
 1. [DDPG](https://github.com/Arseni1919/PL_DDPG)
 1. [SAC](https://github.com/Arseni1919/SAC_algorithm)
 1. I2A
-1. MADDPG (multi-agent)
 1. TD3
 1. AlphaGo Mu
+
+## 🔍  Search Algorithms
+
+- [RRT Implementation - Generic Version](https://github.com/Arseni1919/Simple_Implementation_of_RRT)
+- [A* Implementation - Generic Version](https://github.com/Arseni1919/A_star_Implementation)
+- [A* Simulator - Pathfinding](https://github.com/Arseni1919/A_star_simulator)
+
+
+## 🦁 🦊 🐹 MAS Algorithms
+
+1. MADDPG 
 1. MARL ... (envs: [PettingZoo](https://www.pettingzoo.ml/#))
 
-## 📝 Research
+
+## 📝 Laboratory
 
 - [Toy DCOP Max-sum Simulation](https://github.com/Arseni1919/toy_dcop_max_sum_simulation)
 - [Simulator DCOP_MST (version 1)](https://github.com/Arseni1919/simulator_dcop_mst) - implementation of _DSA_, _MGM_
 - [Simulator DCOP_MST (version 2)](https://github.com/Arseni1919/max_sum_cells_simulator) - implementation of _DSA_MST_, _CADSA_, _CAMS_, _Max-sum_MST_
 - [Simulator DCOP_MST (version 3)](https://github.com/Arseni1919/dcop_simulator_3)
+
+
+### 🚗 Robots
+
+- [ROS Package for Hamster Robots](https://github.com/Arseni1919/ROS-package-to-move-robots-with-my-code)
+- [Voronoi + A* + RRT (robot navigation)](https://github.com/matanSamina/RRT_Project_2021)
 - [Implementation of Max-Sum_MST in ROS Platform](https://github.com/Arseni1919/max_sum_ROS_implementation)
 - [Implementation of CAMS in ROS Platform](https://github.com/Arseni1919/max_sum_cells_ROS)
 
@@ -61,18 +78,6 @@ The main fields of my work are: **Multi-agent Systems**, **Search AI**, **RL**, 
 - Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
 
 ## Other Projects
-
-### 🔍  Search in AI
-
-- [RRT Implementation - Generic Version](https://github.com/Arseni1919/Simple_Implementation_of_RRT)
-- [A* Implementation - Generic Version](https://github.com/Arseni1919/A_star_Implementation)
-- [A* Simulator - Pathfinding](https://github.com/Arseni1919/A_star_simulator)
-
-
-### 🚗 Robots
-
-- [ROS Package for Hamster Robots](https://github.com/Arseni1919/ROS-package-to-move-robots-with-my-code)
-- [Voronoi + A* + RRT (robot navigation)](https://github.com/matanSamina/RRT_Project_2021)
 
 
 ### 🏛️ Skills
