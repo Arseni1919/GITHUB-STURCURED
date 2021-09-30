@@ -14,7 +14,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 
 1. MADDPG 
 2. IQL
-3. MARL ... (envs: [PettingZoo](https://www.pettingzoo.ml/#))
+3. MARL ... (envs: [PettingZoo](https://www.pettingzoo.ml/#), [Derk’s Gym](http://docs.gym.derkgame.com/#), [RWARE](https://github.com/semitable/robotic-warehouse), [Neural MMO](https://github.com/openai/neural-mmo), [Flatland](https://flatland.aicrowd.com/intro.html))
 
 
 ## 📈 ML Algorithms 
