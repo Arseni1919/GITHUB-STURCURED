@@ -13,7 +13,8 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 ## 🦁 🦊 🐹 MAS Algorithms
 
 1. MADDPG 
-1. MARL ... (envs: [PettingZoo](https://www.pettingzoo.ml/#))
+2. IQL
+3. MARL ... (envs: [PettingZoo](https://www.pettingzoo.ml/#))
 
 
 ## 📈 ML Algorithms 
