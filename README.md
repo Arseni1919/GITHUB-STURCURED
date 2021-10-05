@@ -36,6 +36,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - CatBoost
 - XGBoost
 - LightGBM
+- Graph NN ([DGL](https://docs.dgl.ai/tutorials/blitz/index.html))
 
 
 ## 🦁 RL Algorithms
