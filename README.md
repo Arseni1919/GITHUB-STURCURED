@@ -14,14 +14,24 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 
 1. MADDPG 
 2. MAPPO
-3. MASAC
-4. MATD3
-5. QMix
-6. MULTI-AGENT AUTOCURRICULA
-7. IQL
-8. ROMA
-9. SEAC
-10. MARL ... (envs: [PettingZoo](https://www.pettingzoo.ml/#), [CityFlow](https://cityflow.readthedocs.io/en/latest/), [MiniHack](https://minihack.readthedocs.io/en/latest/index.html), [Derk’s Gym](http://docs.gym.derkgame.com/#), [RWARE](https://github.com/semitable/robotic-warehouse), [Neural MMO](https://github.com/openai/neural-mmo), [Flatland](https://flatland.aicrowd.com/intro.html))
+3. QMix
+4. ROMA
+5. COMA
+6. Value Decomposition
+7. MF-Q
+8. MF-AC
+9. MAAC
+10. DBS-DQN
+11. DGN
+12. MASAC
+13. MATD3
+14. QTRAN
+15. MULTI-AGENT AUTOCURRICULA
+16. IQL
+17. TarMAC
+18. SEAC
+19. BiCNet
+20. MARL ... (envs: [PettingZoo](https://www.pettingzoo.ml/#), [CityFlow](https://cityflow.readthedocs.io/en/latest/), [MiniHack](https://minihack.readthedocs.io/en/latest/index.html), [Derk’s Gym](http://docs.gym.derkgame.com/#), [RWARE](https://github.com/semitable/robotic-warehouse), [Neural MMO](https://github.com/openai/neural-mmo), [Flatland](https://flatland.aicrowd.com/intro.html))
 
 
 ## 📈 ML Algorithms 
