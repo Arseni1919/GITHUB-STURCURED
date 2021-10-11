@@ -68,8 +68,9 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 1. [SAC](https://github.com/Arseni1919/SAC_algorithm)
 1. I2A
 1. TD3
-2. POLO
-3. AlphaGo Mu
+2. PPG
+3. POLO
+4. AlphaGo Mu
 
 ## 🔍  Search Algorithms
 
