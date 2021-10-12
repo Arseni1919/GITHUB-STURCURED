@@ -125,6 +125,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Learning Pygame 2](https://github.com/Arseni1919/Learning_pygame_2)
 - [Learning SQLite](https://github.com/Arseni1919/Learning_SQLite)
 - [Learning Gym (OpenAI)](https://github.com/Arseni1919/Learning_Gym_OpenAI)
+- [Learning PettingZoo Environments](https://github.com/Arseni1919/Learning_PettingZoo)
 - [Learning Docker](https://github.com/Arseni1919/Learning_Docker)
 
 ### 🖥️ WEB
