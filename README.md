@@ -54,7 +54,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - XGBoost
 - LightGBM
 - Graph NN ([source 1 - DGL](https://docs.dgl.ai/tutorials/blitz/index.html), [source 2](https://pytorch-lightning.readthedocs.io/en/latest/index.html))
-
+ 
 
 ## 🦁 RL Algorithms
 
