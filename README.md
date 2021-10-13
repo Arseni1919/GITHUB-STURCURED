@@ -45,7 +45,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - K-Nearest Neighbors
 - Naive Bayes
 - Support Vector Machines (SVM)
-- Monte Carlo Tree Search (MCTS)
+- Monte Carlo Tree Search (MCTS) ([source 1](https://www.youtube.com/watch?v=vDF1BYWhqL8))
 - Decision Tree
 - Random Forest
 - AdaBoost
