@@ -69,8 +69,9 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 1. I2A
 1. TD3
 2. PPG
-3. POLO
-4. MuZero
+3. HER
+4. POLO
+5. MuZero
 
 ## 🔍  Search Algorithms
 
