@@ -12,7 +12,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 
 ## 🦁 🦊 🐹 MAS Algorithms
 
-1. MADDPG 
+1. [MADDPG](https://github.com/Arseni1919/MADDPG_algorithm)
 2. MAPPO
 3. QMix
 4. ROMA
