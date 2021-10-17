@@ -98,10 +98,11 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Implementation of Max-Sum_MST in ROS Platform](https://github.com/Arseni1919/max_sum_ROS_implementation)
 - [Implementation of CAMS in ROS Platform](https://github.com/Arseni1919/max_sum_cells_ROS)
 
-## 💵 Trading (NT progress)
+## 💵 Trading 
 
 - RL Environment: [Gym Environment For Stock Trading](https://github.com/Arseni1919/gym-stocktrading)
 - Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
+- [Learning Advances in Financial ML](https://github.com/Arseni1919/Learning_AiFML)
 
 
 ## Other Projects
