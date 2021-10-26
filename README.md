@@ -159,18 +159,23 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 
 #### Teaching
 
-- WEB Course: [(former repo of the course)](https://github.com/Arseni1919/WEB_course_BGU)
-    - [Lectures and Assignments](https://github.com/Arseni1919/WEB_Course_Lectures_and_Assignments)
-    - [Flask Begginig](https://github.com/Arseni1919/WEB_course_Flask_Beggining)
-    - [Jinja2](https://github.com/Arseni1919/WEB_Course_Jinja)
-    - [Flask Requests](https://github.com/Arseni1919/WEB_Course_Flask_Requests)
-    - [MySQL](https://github.com/Arseni1919/WEB_Course_MySQL)
-    - [Blueprints](https://github.com/Arseni1919/WEB_Course_Blueprints)
-    - [REST API](https://github.com/Arseni1919/WEB_Course_REST_API)
-    - [Bootstrap](https://github.com/Arseni1919/WEB_Course_Bootstrap)
+##### WEB Course 
+
+- [Lectures and Assignments](https://github.com/Arseni1919/WEB_Course_Lectures_and_Assignments)
+- [Flask Begginig](https://github.com/Arseni1919/WEB_course_Flask_Beggining)
+- [Jinja2](https://github.com/Arseni1919/WEB_Course_Jinja)
+- [Flask Requests](https://github.com/Arseni1919/WEB_Course_Flask_Requests)
+- [MySQL](https://github.com/Arseni1919/WEB_Course_MySQL)
+- [Blueprints](https://github.com/Arseni1919/WEB_Course_Blueprints)
+- [REST API](https://github.com/Arseni1919/WEB_Course_REST_API)
+- [Bootstrap](https://github.com/Arseni1919/WEB_Course_Bootstrap)
+- [(former repo of the course)](https://github.com/Arseni1919/WEB_course_BGU)
 - [WEB Course: Flask Skeleton Project (By Barak Pinchovski)](https://github.com/Arseni1919/WEB_Course_Flask_Skeleton_Project)
 - [WEB Course: Lectures - 2021 A](https://github.com/Arseni1919/WEB_Course_2020_A_examples_flask)
 - [WEB Course: Lectures - 2021 B](https://github.com/Arseni1919/WEB_Course_2021_B_examples_flask)
+
+##### IOT Course
+
 - [IOT Course Template](https://github.com/Arseni1919/IOT_Course_Template) ([another version](https://github.com/Arseni1919/DDS_IOT_Example))
 
 
