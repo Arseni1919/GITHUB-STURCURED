@@ -10,31 +10,53 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 </p>
 
 
+
 ## 🦁 🦊 🐹 MAS Algorithms
 
-1. [MADDPG](https://github.com/Arseni1919/MADDPG_algorithm)
-2. MAPPO
-3. QMix
-4. ROMA
-5. COMA
-6. Value Decomposition
-7. MF-Q
-8. MF-AC
-9. MAAC
-10. DBS-DQN
-11. DGN
-12. MASAC
-13. MATD3
-14. QTRAN
-15. MULTI-AGENT AUTOCURRICULA
-16. IQL
-17. TarMAC
-18. SEAC
-19. BiCNet
-20. MARL ... (envs: [OpenAI Gym](https://gym.openai.com/envs/#classic_control), [PettingZoo](https://www.pettingzoo.ml/#), [CityFlow](https://cityflow.readthedocs.io/en/latest/), [MiniHack](https://minihack.readthedocs.io/en/latest/index.html), [Derk’s Gym](http://docs.gym.derkgame.com/#), [RWARE](https://github.com/semitable/robotic-warehouse), [Neural MMO](https://github.com/openai/neural-mmo), [Flatland](https://flatland.aicrowd.com/intro.html))
+1. [CAMS, Max-Sum_MST, DSA_MST, CADSA, DSSA](https://github.com/Arseni1919/dcop_simulator_3)📄
+2. MADDPG 📄 ([PPO in MA setting](https://github.com/Arseni1919/MADDPG_algorithm))
+3. MAPPO
+4. QMix
+5. ROMA
+6. COMA
+7. Value Decomposition
+8. MF-Q
+9. MF-AC
+10. MAAC
+11. DBS-DQN
+12. DGN
+13. MASAC
+14. MATD3
+15. QTRAN
+16. MULTI-AGENT AUTOCURRICULA
+17. IQL
+18. TarMAC
+19. SEAC
+20. BiCNet
+21. MARL ... (envs: [OpenAI Gym](https://gym.openai.com/envs/#classic_control), [PettingZoo](https://www.pettingzoo.ml/#), [CityFlow](https://cityflow.readthedocs.io/en/latest/), [MiniHack](https://minihack.readthedocs.io/en/latest/index.html), [Derk’s Gym](http://docs.gym.derkgame.com/#), [RWARE](https://github.com/semitable/robotic-warehouse), [Neural MMO](https://github.com/openai/neural-mmo), [Flatland](https://flatland.aicrowd.com/intro.html))
 
 
-## 📈 ML Algorithms 
+
+## 🦁 RL Algorithms
+
+- [Template for PL Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJECT)
+
+1. [DQN](https://github.com/Arseni1919/PL_DQN) ([variant 2](https://github.com/Arseni1919/DQN_implementation_from_pytorch_lightning_website), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
+1. [REINFORCE](https://github.com/Arseni1919/PL_REINFORCE) ([variant 2](https://github.com/Arseni1919/Implementation-of-REINFORCE-with-PyTorch-Lightning), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
+1. [A2C](https://github.com/Arseni1919/PL_A2C) (A3C)
+1. [PPO](https://github.com/Arseni1919/PL_PPO) ([variant 2](https://github.com/Arseni1919/PPO_implementation_variant_2))
+1. [DDPG](https://github.com/Arseni1919/PL_DDPG) ([variant 2](https://github.com/Arseni1919/Mountain_Car_DDPG))
+1. [SAC](https://github.com/Arseni1919/SAC_algorithm)
+1. I2A
+1. TD3
+2. PPG
+3. HER
+4. POLO
+5. MuZero
+
+
+
+## 📈 ML and DL Algorithms 
 
 - [Simple NN + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
 - [Simple RNN, LSTM, GRU + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
@@ -56,22 +78,6 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - Graph NN ([source 1 - DGL](https://docs.dgl.ai/tutorials/blitz/index.html), [source 2](https://pytorch-lightning.readthedocs.io/en/latest/index.html))
  
 
-## 🦁 RL Algorithms
-
-- [Template for PL Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJECT)
-
-1. [DQN](https://github.com/Arseni1919/PL_DQN) ([variant 2](https://github.com/Arseni1919/DQN_implementation_from_pytorch_lightning_website), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
-1. [REINFORCE](https://github.com/Arseni1919/PL_REINFORCE) ([variant 2](https://github.com/Arseni1919/Implementation-of-REINFORCE-with-PyTorch-Lightning), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
-1. [A2C](https://github.com/Arseni1919/PL_A2C) (A3C)
-1. [PPO](https://github.com/Arseni1919/PL_PPO) ([variant 2](https://github.com/Arseni1919/PPO_implementation_variant_2))
-1. [DDPG](https://github.com/Arseni1919/PL_DDPG) ([variant 2](https://github.com/Arseni1919/Mountain_Car_DDPG))
-1. [SAC](https://github.com/Arseni1919/SAC_algorithm)
-1. I2A
-1. TD3
-2. PPG
-3. HER
-4. POLO
-5. MuZero
 
 ## 🔍  Search Algorithms
 
@@ -88,7 +94,6 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Toy DCOP Max-sum Simulation](https://github.com/Arseni1919/toy_dcop_max_sum_simulation)
 - [Simulator DCOP_MST (version 1)](https://github.com/Arseni1919/simulator_dcop_mst) - implementation of _DSA_, _MGM_
 - [Simulator DCOP_MST (version 2)](https://github.com/Arseni1919/max_sum_cells_simulator) - implementation of _DSA_MST_, _CADSA_, _CAMS_, _Max-sum_MST_
-- [Simulator DCOP_MST (version 3)](https://github.com/Arseni1919/dcop_simulator_3)
 - [Project of Ben Rahmut](https://github.com/Arseni1919/Bens_Project)
 
 
