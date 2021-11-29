@@ -14,7 +14,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 ## 🦁 🦊 🐹 MAS Algorithms
 
 1. [CAMS, Max-Sum_MST, DSA_MST, CADSA, DSSA](https://github.com/Arseni1919/dcop_simulator_3)📄
-2. MADDPG 📄 ([PPO in MA setting](https://github.com/Arseni1919/MADDPG_algorithm))
+2. MADDPG  📄  ([PPO in MA setting](https://github.com/Arseni1919/MADDPG_algorithm))
 3. MAPPO
 4. QMix
 5. ROMA
