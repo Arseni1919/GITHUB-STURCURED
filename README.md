@@ -34,7 +34,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 19. TarMAC
 20. SEAC
 21. BiCNet
-22. MARL ... (envs: [OpenAI Gym](https://gym.openai.com/envs/#classic_control), [PettingZoo](https://www.pettingzoo.ml/#), [CityFlow](https://cityflow.readthedocs.io/en/latest/), [MiniHack](https://minihack.readthedocs.io/en/latest/index.html), [Derk’s Gym](http://docs.gym.derkgame.com/#), [RWARE](https://github.com/semitable/robotic-warehouse), [Neural MMO](https://github.com/openai/neural-mmo), [Flatland](https://flatland.aicrowd.com/intro.html))
+22. MA Environments: [OpenAI Gym](https://gym.openai.com/envs/#classic_control), [PettingZoo](https://www.pettingzoo.ml/#), [CityFlow](https://cityflow.readthedocs.io/en/latest/), [MiniHack](https://minihack.readthedocs.io/en/latest/index.html), [Derk’s Gym](http://docs.gym.derkgame.com/#), [RWARE](https://github.com/semitable/robotic-warehouse), [Neural MMO](https://github.com/openai/neural-mmo), [Flatland](https://flatland.aicrowd.com/intro.html)
 
 
 
