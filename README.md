@@ -15,25 +15,26 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 
 1. [CAMS, Max-Sum_MST, DSA_MST, CADSA, DSSA](https://github.com/Arseni1919/dcop_simulator_3)📄
 2. MADDPG  📄  ([PPO in MA setting](https://github.com/Arseni1919/MADDPG_algorithm))
-3. MAPPO
-4. QMix
-5. ROMA
-6. COMA
-7. Value Decomposition
-8. MF-Q
-9. MF-AC
-10. MAAC
-11. DBS-DQN
-12. DGN
-13. MASAC
-14. MATD3
-15. QTRAN
-16. MULTI-AGENT AUTOCURRICULA
-17. IQL
-18. TarMAC
-19. SEAC
-20. BiCNet
-21. MARL ... (envs: [OpenAI Gym](https://gym.openai.com/envs/#classic_control), [PettingZoo](https://www.pettingzoo.ml/#), [CityFlow](https://cityflow.readthedocs.io/en/latest/), [MiniHack](https://minihack.readthedocs.io/en/latest/index.html), [Derk’s Gym](http://docs.gym.derkgame.com/#), [RWARE](https://github.com/semitable/robotic-warehouse), [Neural MMO](https://github.com/openai/neural-mmo), [Flatland](https://flatland.aicrowd.com/intro.html))
+3. [FedRL](https://github.com/Arseni1919/FedRL_implementation)
+4. MAPPO
+5. QMix
+6. ROMA
+7. COMA
+8. Value Decomposition
+9. MF-Q
+10. MF-AC
+11. MAAC
+12. DBS-DQN
+13. DGN
+14. MASAC
+15. MATD3
+16. QTRAN
+17. MULTI-AGENT AUTOCURRICULA
+18. IQL
+19. TarMAC
+20. SEAC
+21. BiCNet
+22. MARL ... (envs: [OpenAI Gym](https://gym.openai.com/envs/#classic_control), [PettingZoo](https://www.pettingzoo.ml/#), [CityFlow](https://cityflow.readthedocs.io/en/latest/), [MiniHack](https://minihack.readthedocs.io/en/latest/index.html), [Derk’s Gym](http://docs.gym.derkgame.com/#), [RWARE](https://github.com/semitable/robotic-warehouse), [Neural MMO](https://github.com/openai/neural-mmo), [Flatland](https://flatland.aicrowd.com/intro.html))
 
 
 
