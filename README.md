@@ -126,6 +126,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Learning Tkinter](https://github.com/Arseni1919/Learning_Tkinter)
 - [Learning Async IO](https://github.com/Arseni1919/Learning_AsyncIO)
 - [Learning Matplotlib](https://github.com/Arseni1919/Learning_matplotlib)
+- [Learning Plotly](https://github.com/Arseni1919/Learning_plotly)
 - [Learning Pandas](https://github.com/Arseni1919/Learning_Pandas)
 - [Learning Threading in Python](https://github.com/Arseni1919/Learning_Threading_python)
 - [Learning Neptune.ai](https://github.com/Arseni1919/Neptune_Tutorials)
