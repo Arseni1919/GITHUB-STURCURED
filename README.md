@@ -141,7 +141,6 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 ### 🖥️ WEB
 
 - [Learning Flask](https://github.com/Arseni1919/arseniperchikflask)
-- [Learning Flask with asyncio](https://github.com/Arseni1919/Learning_flask_asyncio)
 - [Learning React](https://github.com/Arseni1919/arseniperchikreact)
 - [Learning Django](https://github.com/Arseni1919/Learning_Django)
 - [Learning AJAX](https://github.com/Arseni1919/Learning_AJAX)
@@ -176,6 +175,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Flask Requests](https://github.com/Arseni1919/WEB_Course_Flask_Requests)
 - [MySQL](https://github.com/Arseni1919/WEB_Course_MySQL)
 - [Blueprints](https://github.com/Arseni1919/WEB_Course_Blueprints)
+- [Flask with asyncio](https://github.com/Arseni1919/Learning_flask_asyncio)
 - [REST API](https://github.com/Arseni1919/WEB_Course_REST_API)
 - [Bootstrap](https://github.com/Arseni1919/WEB_Course_Bootstrap)
 
