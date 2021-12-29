@@ -86,9 +86,9 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [A* Implementation - Generic Version](https://github.com/Arseni1919/A_star_Implementation)
 - [A* Simulator - Pathfinding](https://github.com/Arseni1919/A_star_simulator)
 
+---
 
-
-## 📝 Laboratory
+## 📝 Lab
 
 ### Simulators
 
@@ -96,6 +96,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Simulator DCOP_MST (version 1)](https://github.com/Arseni1919/simulator_dcop_mst) - implementation of _DSA_, _MGM_
 - [Simulator DCOP_MST (version 2)](https://github.com/Arseni1919/max_sum_cells_simulator) - implementation of _DSA_MST_, _CADSA_, _CAMS_, _Max-sum_MST_
 - [Project of Ben Rahmut](https://github.com/Arseni1919/Bens_Project)
+- [MAS simulator (version 1)](https://github.com/Arseni1919/mas_simulator_1)
 
 
 ### 🚗 Robots
@@ -105,6 +106,8 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Implementation of Max-Sum_MST in ROS Platform](https://github.com/Arseni1919/max_sum_ROS_implementation)
 - [Implementation of CAMS in ROS Platform](https://github.com/Arseni1919/max_sum_cells_ROS)
 
+---
+
 ## 💵 Trading 
 
 - RL Environment: [Gym Environment For Stock Trading](https://github.com/Arseni1919/gym-stocktrading)
@@ -112,6 +115,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Learning Advances in Financial ML](https://github.com/Arseni1919/Learning_AiFML)
 - [NT Website](https://github.com/Arseni1919/NT_website)
 
+---
 
 ## Other Projects
 
