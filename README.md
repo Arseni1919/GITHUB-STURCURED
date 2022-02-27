@@ -142,6 +142,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Learning Gym (OpenAI)](https://github.com/Arseni1919/Learning_Gym_OpenAI)
 - [Learning PettingZoo Environments](https://github.com/Arseni1919/Learning_PettingZoo)
 - [Learning Docker](https://github.com/Arseni1919/Learning_Docker)
+- [Learning PyTorch Geometric](https://github.com/Arseni1919/Learning_PyG)
 
 ### 🖥️ WEB
 
