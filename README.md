@@ -98,6 +98,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Simulator DCOP_MST (version 2)](https://github.com/Arseni1919/max_sum_cells_simulator) - implementation of _DSA_MST_, _CADSA_, _CAMS_, _Max-sum_MST_
 - [Project of Ben Rahmut](https://github.com/Arseni1919/Bens_Project)
 - [MAS simulator (version 1)](https://github.com/Arseni1919/mas_simulator_1)
+- [MAPF simulator](https://github.com/Arseni1919/MAPF_Simulator)
 
 
 ### 🚗 Robots
