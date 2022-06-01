@@ -178,6 +178,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Greedy Algorithm, Construction Heuristic, Simulated Annealing, Local Search, Genetic Algorithm](https://github.com/Arseni1919/computational_intelligence_course_task)
 - [CSP problems](https://github.com/Arseni1919/AI-course-in-BGU-assignment-1---Centralised-CSP)
 - [Stanford cs321n](https://github.com/Arseni1919/cs321n)
+- [Multi-variate Statistics Course (2022)](https://github.com/Arseni1919/Learning_MultiVariateStatistics)
 
 #### Teaching
 
