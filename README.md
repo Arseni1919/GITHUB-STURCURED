@@ -152,6 +152,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 
 - [Learning CSS](https://github.com/Arseni1919/Learning_CSS)
 - [Learning CSS Grid](https://github.com/Arseni1919/Learning_CSS_Grid)
+- [Learning Flexbox](https://github.com/Arseni1919/Learning_Flexbox)
 - [Learning CSS Animation](https://github.com/Arseni1919/Learning_CSS_Animation)
 - [Learning Flask](https://github.com/Arseni1919/arseniperchikflask)
 - [Learning React](https://github.com/Arseni1919/arseniperchikreact)
