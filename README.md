@@ -163,8 +163,8 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Learning To Deploy Flask App To Heroku](https://github.com/Arseni1919/Learnig_Deploy_Flask_to_Heroku)
 - [Learning To Deploy Flask App With DB To Heroku](https://github.com/Arseni1919/Deploy_flask_with_DB_to_Heroku)
 - [Learning Dash](https://github.com/Arseni1919/Learning_Dash) ([source 1](https://dash.plotly.com/installation))
-- [Learning MongoDB](https://github.com/Arseni1919/Learning_mongodb)
 - [Learning React + Flask + MongpDB](https://github.com/Arseni1919/learning_react_flask_mongodb)
+- [Learning MongoDB](https://github.com/Arseni1919/Learning_mongodb)
 
 ### 🎓 Other University Projects
 
