@@ -33,7 +33,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 1. [PPO](https://github.com/Arseni1919/PL_PPO) ([variant 2](https://github.com/Arseni1919/PPO_implementation_variant_2))
 1. [DDPG](https://github.com/Arseni1919/PL_DDPG) ([variant 2](https://github.com/Arseni1919/Mountain_Car_DDPG))
 1. [SAC](https://github.com/Arseni1919/SAC_algorithm)
-1. `TODO`: I2A, TD3, PPG, HER, POLO, MuZero
+1. `TODO:` I2A, TD3, PPG, HER, POLO, MuZero
 
 
 
@@ -41,7 +41,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 
 - [Simple NN + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
 - [Simple RNN, LSTM, GRU + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
-- `TODO`: Genetic Algorithms, GANs, Regression, Logistic Regression, K-Nearest Neighbors, Naive Bayes, Support Vector Machines (SVM), Monte Carlo Tree Search (MCTS) ([source 1](https://www.youtube.com/watch?v=vDF1BYWhqL8)), Decision Tree, Random Forest, AdaBoost, Gradient Boost, CatBoost, XGBoost, LightGBM, Graph NN ([source 1 - DGL](https://docs.dgl.ai/tutorials/blitz/index.html), [source 2](https://pytorch-lightning.readthedocs.io/en/latest/index.html))
+- `TODO:` Genetic Algorithms, GANs, Regression, Logistic Regression, K-Nearest Neighbors, Naive Bayes, Support Vector Machines (SVM), Monte Carlo Tree Search (MCTS) ([source 1](https://www.youtube.com/watch?v=vDF1BYWhqL8)), Decision Tree, Random Forest, AdaBoost, Gradient Boost, CatBoost, XGBoost, LightGBM, Graph NN ([source 1 - DGL](https://docs.dgl.ai/tutorials/blitz/index.html), [source 2](https://pytorch-lightning.readthedocs.io/en/latest/index.html))
  
 
 
