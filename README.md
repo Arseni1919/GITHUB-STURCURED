@@ -83,6 +83,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Learning Advances in Financial ML](https://github.com/Arseni1919/Learning_AiFML)
 - [NT Website - version 1](https://github.com/Arseni1919/NT_website)
 - [NT Website - version 2](https://github.com/Arseni1919/NT_website_v2)
+- [Implementing NN on Stocks](https://github.com/Arseni1919/Implementing_NN_Stocks)
 
 ---
 
