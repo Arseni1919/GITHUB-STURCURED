@@ -31,7 +31,7 @@ MA Environments: [OpenAI Gym](https://gym.openai.com/envs/#classic_control), [Pe
 
 1. [Learning Multi-Armed Bandits](https://github.com/Arseni1919/Learning_Multi_Armed_Bandits)
 1. [Learning Dynamic Programming (Policy Iteration, Value Iteration)](https://github.com/Arseni1919/Learning_Policy_Iteration)
-1. [Learning Monte Carlo RL](https://github.com/Arseni1919/Learning_Monte_Carlo_RL)
+1. [Learning Monte-Carlo RL](https://github.com/Arseni1919/Learning_Monte_Carlo_RL)
 1. [DQN](https://github.com/Arseni1919/PL_DQN) ([variant 2](https://github.com/Arseni1919/DQN_implementation_from_pytorch_lightning_website), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
 1. [REINFORCE](https://github.com/Arseni1919/PL_REINFORCE) ([variant 2](https://github.com/Arseni1919/Implementation-of-REINFORCE-with-PyTorch-Lightning), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym))
 1. [A2C](https://github.com/Arseni1919/PL_A2C) (A3C)
