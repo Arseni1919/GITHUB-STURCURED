@@ -40,6 +40,8 @@ MA Environments: [OpenAI Gym](https://www.gymlibrary.dev/), [PettingZoo](https:/
 1. [DDPG](https://github.com/Arseni1919/PL_DDPG) ([variant 2](https://github.com/Arseni1919/Mountain_Car_DDPG))
 1. [SAC](https://github.com/Arseni1919/SAC_algorithm)
 
+- [Gather Game](https://github.com/Arseni1919/Gather_Game)
+
 `TODO:` I2A, TD3, PPG, HER, POLO, MuZero
 
 
