@@ -69,12 +69,12 @@ MA Environments: [OpenAI Gym](https://www.gymlibrary.dev/), [PettingZoo](https:/
 ### Simulators
 
 - [Toy DCOP Max-sum Simulation](https://github.com/Arseni1919/toy_dcop_max_sum_simulation)
-- [Simulator DCOP_MST (version 1)](https://github.com/Arseni1919/simulator_dcop_mst) - implementation of _DSA_, _MGM_
+- [Simulator DCOP_MST](https://github.com/Arseni1919/simulator_dcop_mst) - implementation of _DSA_, _MGM_
 - [Simulator DCOP_MST (version 2)](https://github.com/Arseni1919/max_sum_cells_simulator) 
 - [Simulator DCOP_MST (version 3)](https://github.com/Arseni1919/dcop_simulator_3)
 - [Simulator DCOP_MST (version 4)](https://github.com/Arseni1919/dcop_simulator_4)
 - [Project of Ben Rahmut](https://github.com/Arseni1919/Bens_Project)
-- [MAS simulator (version 1)](https://github.com/Arseni1919/mas_simulator_1)
+- [MAS simulator](https://github.com/Arseni1919/mas_simulator_1)
 - [MAPF simulator](https://github.com/Arseni1919/MAPF_Simulator)
 - [MAPF simulator (version 2)](https://github.com/Arseni1919/MAPF_Simulator_2)
 
