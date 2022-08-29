@@ -64,7 +64,7 @@ MA Environments: [OpenAI Gym](https://www.gymlibrary.dev/), [PettingZoo](https:/
 
 ---
 
-## 📝 Lab
+## 📝 Research
 
 ### Simulators
 
@@ -76,6 +76,7 @@ MA Environments: [OpenAI Gym](https://www.gymlibrary.dev/), [PettingZoo](https:/
 - [Project of Ben Rahmut](https://github.com/Arseni1919/Bens_Project)
 - [MAS simulator (version 1)](https://github.com/Arseni1919/mas_simulator_1)
 - [MAPF simulator](https://github.com/Arseni1919/MAPF_Simulator)
+- [MAPF simulator (version 2)](https://github.com/Arseni1919/MAPF_Simulator_2)
 
 
 ### 🚗 Robots
