@@ -105,7 +105,7 @@ MA Environments: [OpenAI Gym](https://www.gymlibrary.dev/), [PettingZoo](https:/
 
 - [Learning Git and GitHub](https://github.com/Arseni1919/Learning_git)
 - [Learning Python](https://github.com/Arseni1919/Learning_Python)
-- [Learning Seed in Python](https://github.com/Arseni1919/Learning_Seed_Python/blob/main/README.md)
+- [Learning Seed in Python](https://github.com/Arseni1919/Learning_Seed_Python)
 - [Learning Python Tricks](https://github.com/Arseni1919/Python-Tricks-book-examples)
 - [Learning PyTorch](https://github.com/Arseni1919/pytorch_tutorials)
 - [Learning ROS Essentials](https://github.com/Arseni1919/ROS-essentianls)
