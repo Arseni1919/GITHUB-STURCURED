@@ -61,6 +61,7 @@ MA Environments: [OpenAI Gym](https://www.gymlibrary.dev/), [PettingZoo](https:/
 - [RRT Implementation - Generic Version](https://github.com/Arseni1919/Simple_Implementation_of_RRT)
 - [A* Implementation - Generic Version](https://github.com/Arseni1919/A_star_Implementation)
 - [A* Simulator - Pathfinding](https://github.com/Arseni1919/A_star_simulator)
+- [Learning Topological Sorting](https://github.com/Arseni1919/Learning_Topological_Sorting)
 
 ---
 
