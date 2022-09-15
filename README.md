@@ -97,6 +97,7 @@ MA Environments: [OpenAI Gym](https://www.gymlibrary.dev/), [PettingZoo](https:/
 - [NT Website - version 1](https://github.com/Arseni1919/NT_website)
 - [NT Website - version 2](https://github.com/Arseni1919/NT_website_v2)
 - [Implementing NN on Stocks](https://github.com/Arseni1919/Implementing_NN_Stocks)
+- [Stocks Simulator (version 1)](https://github.com/Arseni1919/Stocks_Simulator_1)
 
 ---
 
