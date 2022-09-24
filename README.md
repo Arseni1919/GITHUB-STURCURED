@@ -42,23 +42,6 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 
 `TODO:` I2A, TD3, PPG, HER, POLO, MuZero
 
-## 💻 RL amd MARL Environments (Existing In A World)
-- [OpenAI Gym](https://www.gymlibrary.dev/)
-- [PettingZoo](https://www.pettingzoo.ml/#)
-- [CityFlow](https://cityflow.readthedocs.io/en/latest/)
-- [MiniHack](https://minihack.readthedocs.io/en/latest/index.html)
-- [Derk’s Gym](http://docs.gym.derkgame.com/#)
-- [RWARE](https://github.com/semitable/robotic-warehouse)
-- [Neural MMO](https://github.com/openai/neural-mmo)
-- [Flatland](https://flatland.aicrowd.com/intro.html)
-- [highway-env](https://highway-env.readthedocs.io/en/latest/index.html)
-- [Deep RTS](https://github.com/cair/deep-rts)
-- [Gym-μRTS (pronounced "gym-micro-RTS")](https://github.com/Farama-Foundation/Gym-MicroRTS)
-- [Nocturne](https://github.com/facebookresearch/nocturne)
-- [CyberBattleSim](https://github.com/microsoft/CyberBattleSim)
-- [AI Economist - An Economic Simulation Framework](https://github.com/salesforce/ai-economist)
-- [Neural MMO](https://neuralmmo.github.io/build/html/rst/landing.html)
-
 
 ## 📈 ML and DL Algorithms 
 
@@ -229,6 +212,24 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 > GitHub Pages Docs | [link](https://docs.github.com/categories/github-pages-basics/)
 > Budges in GitHub README | [link](https://shields.io/)
 
+---
+
+## 💻 RL amd MARL Environments (Existing In A World)
+- [OpenAI Gym](https://www.gymlibrary.dev/)
+- [PettingZoo](https://www.pettingzoo.ml/#)
+- [CityFlow](https://cityflow.readthedocs.io/en/latest/)
+- [MiniHack](https://minihack.readthedocs.io/en/latest/index.html)
+- [Derk’s Gym](http://docs.gym.derkgame.com/#)
+- [RWARE](https://github.com/semitable/robotic-warehouse)
+- [Neural MMO](https://github.com/openai/neural-mmo)
+- [Flatland](https://flatland.aicrowd.com/intro.html)
+- [highway-env](https://highway-env.readthedocs.io/en/latest/index.html)
+- [Deep RTS](https://github.com/cair/deep-rts)
+- [Gym-μRTS (pronounced "gym-micro-RTS")](https://github.com/Farama-Foundation/Gym-MicroRTS)
+- [Nocturne](https://github.com/facebookresearch/nocturne)
+- [CyberBattleSim](https://github.com/microsoft/CyberBattleSim)
+- [AI Economist - An Economic Simulation Framework](https://github.com/salesforce/ai-economist)
+- [Neural MMO](https://neuralmmo.github.io/build/html/rst/landing.html)
 
 <!--```markdown
 Syntax highlighted code block 
