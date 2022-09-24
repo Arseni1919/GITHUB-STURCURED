@@ -200,8 +200,9 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Forked: Smart Home Simulator - FinalProject](https://github.com/Arseni1919/FinalProject)
 - [Forked: Smart Home Simulator - FinalProjectWrapping](https://github.com/Arseni1919/FinalProjectWrapping)
 
-## Help-Links and Markdown
+---
 
+## Help-Links and Markdown
 
 > Usefull Links | 🌐
 > ------------ | -------------
@@ -212,7 +213,6 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 > GitHub Pages Docs | [link](https://docs.github.com/categories/github-pages-basics/)
 > Budges in GitHub README | [link](https://shields.io/)
 
----
 
 ## 💻 RL amd MARL Environments (Existing In A World)
 - [OpenAI Gym](https://www.gymlibrary.dev/)
