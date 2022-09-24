@@ -21,22 +21,6 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 
 `TODO:` MAPPO, QMix, ROMA, COMA, Value Decomposition, MF-Q, MF-AC, MAAC, DBS-DQN, DGN, MASAC, MATD3, QTRAN, MULTI-AGENT AUTOCURRICULA, IQL, TarMAC, SEAC, BiCNet
 
-RL amd MARL Environments: 
-- [OpenAI Gym](https://www.gymlibrary.dev/)
-- [PettingZoo](https://www.pettingzoo.ml/#)
-- [CityFlow](https://cityflow.readthedocs.io/en/latest/)
-- [MiniHack](https://minihack.readthedocs.io/en/latest/index.html)
-- [Derk’s Gym](http://docs.gym.derkgame.com/#)
-- [RWARE](https://github.com/semitable/robotic-warehouse)
-- [Neural MMO](https://github.com/openai/neural-mmo)
-- [Flatland](https://flatland.aicrowd.com/intro.html)
-- [highway-env](https://highway-env.readthedocs.io/en/latest/index.html)
-- [Deep RTS](https://github.com/cair/deep-rts)
-- [Gym-μRTS (pronounced "gym-micro-RTS")](https://github.com/Farama-Foundation/Gym-MicroRTS)
-- [Nocturne](https://github.com/facebookresearch/nocturne)
-- [CyberBattleSim](https://github.com/microsoft/CyberBattleSim)
-- [AI Economist - An Economic Simulation Framework](https://github.com/salesforce/ai-economist)
-
 
 
 ## 🦁 RL Algorithms
@@ -58,6 +42,21 @@ RL amd MARL Environments:
 
 `TODO:` I2A, TD3, PPG, HER, POLO, MuZero
 
+### 💻 RL amd MARL Environments
+- [OpenAI Gym](https://www.gymlibrary.dev/)
+- [PettingZoo](https://www.pettingzoo.ml/#)
+- [CityFlow](https://cityflow.readthedocs.io/en/latest/)
+- [MiniHack](https://minihack.readthedocs.io/en/latest/index.html)
+- [Derk’s Gym](http://docs.gym.derkgame.com/#)
+- [RWARE](https://github.com/semitable/robotic-warehouse)
+- [Neural MMO](https://github.com/openai/neural-mmo)
+- [Flatland](https://flatland.aicrowd.com/intro.html)
+- [highway-env](https://highway-env.readthedocs.io/en/latest/index.html)
+- [Deep RTS](https://github.com/cair/deep-rts)
+- [Gym-μRTS (pronounced "gym-micro-RTS")](https://github.com/Farama-Foundation/Gym-MicroRTS)
+- [Nocturne](https://github.com/facebookresearch/nocturne)
+- [CyberBattleSim](https://github.com/microsoft/CyberBattleSim)
+- [AI Economist - An Economic Simulation Framework](https://github.com/salesforce/ai-economist)
 
 
 ## 📈 ML and DL Algorithms 
