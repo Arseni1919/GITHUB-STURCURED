@@ -57,6 +57,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Nocturne](https://github.com/facebookresearch/nocturne)
 - [CyberBattleSim](https://github.com/microsoft/CyberBattleSim)
 - [AI Economist - An Economic Simulation Framework](https://github.com/salesforce/ai-economist)
+- [Neural MMO](https://neuralmmo.github.io/build/html/rst/landing.html)
 
 
 ## 📈 ML and DL Algorithms 
