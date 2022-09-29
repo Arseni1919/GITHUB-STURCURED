@@ -129,6 +129,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 
 ### 🖥️ WEB
 
+- [Learning HTML](https://github.com/Arseni1919/Learning_HTML)
 - [Learning CSS](https://github.com/Arseni1919/Learning_CSS)
 - [Learning CSS Grid](https://github.com/Arseni1919/Learning_CSS_Grid)
 - [Learning Flexbox](https://github.com/Arseni1919/Learning_Flexbox)
