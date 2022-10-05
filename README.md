@@ -217,8 +217,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 
 
 ## 💻 RL amd MARL Environments (Existing In A World)
-- [OpenAI Gym](https://www.gymlibrary.dev/)
-- [PettingZoo](https://www.pettingzoo.ml/#)
+- [OpenAI Gym / PettingZoo / MiniGrid](https://farama.org/)
 - [CityFlow](https://cityflow.readthedocs.io/en/latest/)
 - [MiniHack](https://minihack.readthedocs.io/en/latest/index.html)
 - [Derk’s Gym](http://docs.gym.derkgame.com/#)
