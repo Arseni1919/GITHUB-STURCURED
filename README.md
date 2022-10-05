@@ -126,6 +126,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Learning Docker](https://github.com/Arseni1919/Learning_Docker)
 - [Learning PyTorch Geometric](https://github.com/Arseni1919/Learning_PyG)
 - [Learning to save files in python](https://github.com/Arseni1919/Learning_To_Save)
+- [Learning Electron](https://github.com/Arseni1919/Learning_Electron)
 
 ### 🖥️ WEB
 
