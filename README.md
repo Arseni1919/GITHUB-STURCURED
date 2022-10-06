@@ -106,6 +106,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Learning Python](https://github.com/Arseni1919/Learning_Python)
 - [Learning Seed in Python](https://github.com/Arseni1919/Learning_Seed_Python)
 - [Learning Python Tricks](https://github.com/Arseni1919/Python-Tricks-book-examples)
+- [Learning cProfile](https://github.com/Arseni1919/Learning_cProfile)
 - [Learning PyTorch](https://github.com/Arseni1919/pytorch_tutorials)
 - [Learning ROS Essentials](https://github.com/Arseni1919/ROS-essentianls)
 - [Learning PL](https://github.com/Arseni1919/PyTorch_Lightning_example)
