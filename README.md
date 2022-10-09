@@ -107,6 +107,8 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Learning Seed in Python](https://github.com/Arseni1919/Learning_Seed_Python)
 - [Learning Python Tricks](https://github.com/Arseni1919/Python-Tricks-book-examples)
 - [Learning cProfile](https://github.com/Arseni1919/Learning_cProfile)
+- [Learning Threading in Python](https://github.com/Arseni1919/Learning_Threading_python)
+- [Learning to save files in python](https://github.com/Arseni1919/Learning_To_Save)
 - [Learning PyTorch](https://github.com/Arseni1919/pytorch_tutorials)
 - [Learning ROS Essentials](https://github.com/Arseni1919/ROS-essentianls)
 - [Learning PL](https://github.com/Arseni1919/PyTorch_Lightning_example)
@@ -116,7 +118,6 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Learning Matplotlib](https://github.com/Arseni1919/Learning_matplotlib)
 - [Learning Plotly](https://github.com/Arseni1919/Learning_plotly)
 - [Learning Pandas](https://github.com/Arseni1919/Learning_Pandas)
-- [Learning Threading in Python](https://github.com/Arseni1919/Learning_Threading_python)
 - [Learning Neptune.ai](https://github.com/Arseni1919/Neptune_Tutorials)
 - [Learning Gradio.app](https://github.com/Arseni1919/Learning_Gradio)
 - [Learning Pygame 1](https://github.com/Arseni1919/pygame_example)
@@ -126,7 +127,6 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Learning PettingZoo Environments](https://github.com/Arseni1919/Learning_PettingZoo)
 - [Learning Docker](https://github.com/Arseni1919/Learning_Docker)
 - [Learning PyTorch Geometric](https://github.com/Arseni1919/Learning_PyG)
-- [Learning to save files in python](https://github.com/Arseni1919/Learning_To_Save)
 - [Learning Electron](https://github.com/Arseni1919/Learning_Electron)
 
 ### 🖥️ WEB
