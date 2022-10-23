@@ -184,9 +184,10 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [WEB Course: Flask Skeleton Project (By Barak Pinchovski)](https://github.com/Arseni1919/WEB_Course_Flask_Skeleton_Project)
 - [WEB Course: Lectures - 2021 A](https://github.com/Arseni1919/WEB_Course_2020_A_examples_flask)
 - [WEB Course: Lectures - 2021 B](https://github.com/Arseni1919/WEB_Course_2021_B_examples_flask)
-- [WEB Course: Lectures - 2022 A - 1 group](https://github.com/Arseni1919/WEB_live_lectures_2022A_1)
-- [WEB Course: Lectures - 2022 A - 2 group](https://github.com/Arseni1919/WEB_live_lectures_2022A_2)
+- [WEB Course: Lectures - 2022 A - group 1](https://github.com/Arseni1919/WEB_live_lectures_2022A_1)
+- [WEB Course: Lectures - 2022 A - group 2](https://github.com/Arseni1919/WEB_live_lectures_2022A_2)
 - [WEB Course: Lectures - 2022 B](https://github.com/Arseni1919/WEB_live_lectures_2022_B)
+- [WEB Course: Lectures - 2023 A - group 1](https://github.com/Arseni1919/WEB_live_lectures_2023_A_1)
 
 ##### IOT Course
 
