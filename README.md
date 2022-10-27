@@ -237,6 +237,10 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Neural MMO](https://neuralmmo.github.io/build/html/rst/landing.html)
 - [Bigpig4396/Multi-Agent-Reinforcement-Learning-Environment](https://github.com/Bigpig4396/Multi-Agent-Reinforcement-Learning-Environment)
 
+## 🗺 MAPF Benchmarks amd Envs
+
+- [MAPF Benchmarks](https://movingai.com/benchmarks/mapf/index.html)
+
 <!--```markdown
 Syntax highlighted code block 
 [Link](url) and ![Image](src)
