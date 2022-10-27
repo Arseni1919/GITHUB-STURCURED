@@ -235,6 +235,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [CyberBattleSim](https://github.com/microsoft/CyberBattleSim)
 - [AI Economist - An Economic Simulation Framework](https://github.com/salesforce/ai-economist)
 - [Neural MMO](https://neuralmmo.github.io/build/html/rst/landing.html)
+- [Bigpig4396/Multi-Agent-Reinforcement-Learning-Environment](https://github.com/Bigpig4396/Multi-Agent-Reinforcement-Learning-Environment)
 
 <!--```markdown
 Syntax highlighted code block 
