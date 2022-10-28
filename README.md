@@ -129,6 +129,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Learning PyTorch Geometric](https://github.com/Arseni1919/Learning_PyG)
 - [Learning Electron](https://github.com/Arseni1919/Learning_Electron)
 - [Learning C++](https://github.com/Arseni1919/Learning_C_plus_plus)
+- [Learning Streamlit](https://github.com/Arseni1919/Learning_Streamlit)
 
 ### 🖥️ WEB
 
