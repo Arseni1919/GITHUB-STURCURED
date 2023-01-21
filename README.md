@@ -241,7 +241,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [AI Economist - An Economic Simulation Framework](https://github.com/salesforce/ai-economist)
 - [Neural MMO](https://neuralmmo.github.io/build/html/rst/landing.html)
 - [Bigpig4396/Multi-Agent-Reinforcement-Learning-Environment](https://github.com/Bigpig4396/Multi-Agent-Reinforcement-Learning-Environment)
-- [PyBullet](https://pybullet.org/wordpress/) (doesn't work)
+- [PyBullet](https://pybullet.org/wordpress/) (no)
 
 ## 🗺 MAPF Benchmarks amd Envs
 
