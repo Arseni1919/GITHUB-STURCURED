@@ -95,8 +95,8 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [NT Website - version 2](https://github.com/Arseni1919/NT_website_v2)
 - [Implementing NN on Stocks](https://github.com/Arseni1919/Implementing_NN_Stocks)
 - [Stocks Simulator (version 1)](https://github.com/Arseni1919/Stocks_Simulator_1)
-- [Stocks Simulator (version 2)](https://github.com/Arseni1919/Stocks_Simulator_v2)
-- [Market Analyzer](https://github.com/Arseni1919/Market_Analyzer)
+- [Market Analyzer (version 1)](https://github.com/Arseni1919/Market_Analyzer)
+- [Market Analyzer (version 2)](https://github.com/Arseni1919/Stocks_Simulator_v2)
 
 ---
 
