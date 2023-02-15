@@ -75,6 +75,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [MAS simulator](https://github.com/Arseni1919/mas_simulator_1)
 - [MAPF simulator](https://github.com/Arseni1919/MAPF_Simulator)
 - [MAPF simulator (version 2)](https://github.com/Arseni1919/MAPF_Simulator_2)
+- [DCOP-MDP Simulator](https://github.com/Arseni1919/DCOP_MDP_Model)
 
 
 ### 🚗 Robots
