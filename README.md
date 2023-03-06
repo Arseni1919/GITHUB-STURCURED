@@ -135,6 +135,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Learning Streamlit](https://github.com/Arseni1919/Learning_Streamlit)
 - [Learning FFT](https://github.com/Arseni1919/Learning_FFT)
 - [Learning GPT with Karpathy](https://github.com/Arseni1919/GPT_with_Karpathy)
+- [Learning Datetime](https://github.com/Arseni1919/Learning_Datetime)
 
 ### 🖥️ WEB
 
@@ -154,7 +155,6 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Learning Dash](https://github.com/Arseni1919/Learning_Dash) ([source 1](https://dash.plotly.com/installation))
 - [Learning React + Flask + MongpDB](https://github.com/Arseni1919/learning_react_flask_mongodb)
 - [Learning MongoDB](https://github.com/Arseni1919/Learning_mongodb)
-- [Learning Datetime](https://github.com/Arseni1919/Learning_Datetime)
 
 ### 🎓 Other University Projects
 
