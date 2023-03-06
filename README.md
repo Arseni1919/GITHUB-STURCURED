@@ -154,6 +154,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Learning Dash](https://github.com/Arseni1919/Learning_Dash) ([source 1](https://dash.plotly.com/installation))
 - [Learning React + Flask + MongpDB](https://github.com/Arseni1919/learning_react_flask_mongodb)
 - [Learning MongoDB](https://github.com/Arseni1919/Learning_mongodb)
+- [Learning Datetime](https://github.com/Arseni1919/Learning_Datetime)
 
 ### 🎓 Other University Projects
 
