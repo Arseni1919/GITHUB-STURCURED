@@ -197,6 +197,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [WEB Course: Lectures - 2022 B](https://github.com/Arseni1919/WEB_live_lectures_2022_B)
 - [WEB Course: Lectures - 2023 A - group 1](https://github.com/Arseni1919/WEB_live_lectures_2023_A_1)
 - [WEB Course: Lectures - 2023 A - group 2](https://github.com/Arseni1919/WEB_live_lectures_2023_A_2)
+- [WEB Course: Lectures - 2023 B](https://github.com/Arseni1919/WEB_live_lectures_2023_B)
 
 ##### IOT Course
 
