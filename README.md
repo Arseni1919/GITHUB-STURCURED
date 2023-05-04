@@ -231,7 +231,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 > Budges in GitHub README | [link](https://shields.io/)
 
 
-## 💻 RL amd MARL Environments (Existing In A World)
+## 💻 RL amd MARL Environments (Existing In The World)
 - [OpenAI Gym / PettingZoo / MiniGrid](https://farama.org/)
 - [CityFlow](https://cityflow.readthedocs.io/en/latest/)
 - [MiniHack](https://minihack.readthedocs.io/en/latest/index.html)
