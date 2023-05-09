@@ -139,6 +139,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Learning FFT](https://github.com/Arseni1919/Learning_FFT)
 - [Learning GPT with Karpathy](https://github.com/Arseni1919/GPT_with_Karpathy)
 - [Learning Datetime](https://github.com/Arseni1919/Learning_Datetime)
+- [Learning Pogema](https://github.com/Arseni1919/Learning_Pogema)
 
 ### 🖥️ WEB
 
@@ -248,6 +249,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Neural MMO](https://neuralmmo.github.io/build/html/rst/landing.html)
 - [Bigpig4396/Multi-Agent-Reinforcement-Learning-Environment](https://github.com/Bigpig4396/Multi-Agent-Reinforcement-Learning-Environment)
 - [PyBullet](https://pybullet.org/wordpress/) (no)
+- [Pogema](https://github.com/AIRI-Institute/pogema)
 
 ## 🗺 MAPF Benchmarks amd Envs
 
