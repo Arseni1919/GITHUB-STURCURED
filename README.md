@@ -13,11 +13,12 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 
 ## 🦁 🦊 🐹 MAS Algorithms
 
-1. [CAMS, Max-Sum_MST, DSA_MST, CADSA, DSSA](https://github.com/Arseni1919/dcop_simulator_3)📄
-2. MADDPG  📄  ([PPO in MA setting](https://github.com/Arseni1919/MADDPG_algorithm))
-3. [FedRL](https://github.com/Arseni1919/FedRL_implementation)
-4. [ae_comm](https://github.com/Arseni1919/Implementation_of_AE_COMM)
-5. [CA*, CBS, DSA_MAPF, MGM_MAPF](https://github.com/Arseni1919/MAPF_Simulator)
+1. [DCOP | CAMS, Max-Sum_MST, DSA_MST, CADSA, DSSA](https://github.com/Arseni1919/dcop_simulator_3)📄
+2. MARL | MADDPG  📄  ([PPO in MA setting](https://github.com/Arseni1919/MADDPG_algorithm))
+3. [MARL | FedRL](https://github.com/Arseni1919/FedRL_implementation)
+4. [MARL | ae_comm](https://github.com/Arseni1919/Implementation_of_AE_COMM)
+5. [MAPF | CA*, CBS, DSA_MAPF, MGM_MAPF](https://github.com/Arseni1919/MAPF_Simulator)
+
 
 `TODO:` MAPPO, QMix, ROMA, COMA, Value Decomposition, MF-Q, MF-AC, MAAC, DBS-DQN, DGN, MASAC, MATD3, QTRAN, MULTI-AGENT AUTOCURRICULA, IQL, TarMAC, SEAC, BiCNet
 
@@ -79,6 +80,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [DCOP-MDP Simulator](https://github.com/Arseni1919/DCOP_MDP_Model)
 - [Async-DCOP_MST Simulator (not correct)](https://github.com/Arseni1919/Async_DCOP_MST_Simulator)
 - [Async-DCOP_MST Simulator version 2 (with Ben)](https://github.com/benrachmut/CA_DCOP_MST)
+- [MAPF | Gentleman_Algorithm](https://github.com/Arseni1919/Gentleman_Algorithm_MAPF)
 
 
 ### 🚗 Robots
