@@ -81,6 +81,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Async-DCOP_MST Simulator (not correct)](https://github.com/Arseni1919/Async_DCOP_MST_Simulator)
 - [Async-DCOP_MST Simulator version 2 (with Ben)](https://github.com/benrachmut/CA_DCOP_MST)
 - [MAPF | Gentleman_Algorithm](https://github.com/Arseni1919/Gentleman_Algorithm_MAPF)
+- [MAPF | Aviod Crowd_Algorithm](https://github.com/Arseni1919/AvoidCrowdAlgorithm)
 
 
 ### 🚗 Robots
