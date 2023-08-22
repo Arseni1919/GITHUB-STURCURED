@@ -113,18 +113,11 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 ### 🏛️ Skills
 
 - [Learning Git and GitHub](https://github.com/Arseni1919/Learning_git)
-- [Learning Python](https://github.com/Arseni1919/Learning_Python)
-- [Learning Seed in Python](https://github.com/Arseni1919/Learning_Seed_Python)
-- [Learning Python Tricks](https://github.com/Arseni1919/Python-Tricks-book-examples)
-- [Learning cProfile](https://github.com/Arseni1919/Learning_cProfile)
-- [Learning Threading in Python](https://github.com/Arseni1919/Learning_Threading_python)
-- [Learning to save files in python](https://github.com/Arseni1919/Learning_To_Save)
 - [Learning PyTorch](https://github.com/Arseni1919/pytorch_tutorials)
 - [Learning ROS Essentials](https://github.com/Arseni1919/ROS-essentianls)
 - [Learning PL](https://github.com/Arseni1919/PyTorch_Lightning_example)
 - [Learning SimPy](https://github.com/Arseni1919/Learning_SimPy)
 - [Learning Tkinter](https://github.com/Arseni1919/Learning_Tkinter)
-- [Learning Async IO](https://github.com/Arseni1919/Learning_AsyncIO)
 - [Learning Matplotlib](https://github.com/Arseni1919/Learning_matplotlib)
 - [Learning Plotly](https://github.com/Arseni1919/Learning_plotly)
 - [Learning Pandas](https://github.com/Arseni1919/Learning_Pandas)
@@ -142,8 +135,17 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Learning Streamlit](https://github.com/Arseni1919/Learning_Streamlit)
 - [Learning FFT](https://github.com/Arseni1919/Learning_FFT)
 - [Learning GPT with Karpathy](https://github.com/Arseni1919/GPT_with_Karpathy)
-- [Learning Datetime](https://github.com/Arseni1919/Learning_Datetime)
 - [Learning Pogema](https://github.com/Arseni1919/Learning_Pogema)
+
+### 🐍 Python
+- [Learning Python](https://github.com/Arseni1919/Learning_Python)
+- [Learning Seed in Python](https://github.com/Arseni1919/Learning_Seed_Python)
+- [Learning Python Tricks](https://github.com/Arseni1919/Python-Tricks-book-examples)
+- [Learning cProfile](https://github.com/Arseni1919/Learning_cProfile)
+- [Learning Threading in Python](https://github.com/Arseni1919/Learning_Threading_python)
+- [Learning to save files in python](https://github.com/Arseni1919/Learning_To_Save)
+- [Learning Datetime](https://github.com/Arseni1919/Learning_Datetime)
+- [Learning Async IO](https://github.com/Arseni1919/Learning_AsyncIO)
 
 ### 🖥️ WEB
 
