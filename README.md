@@ -241,7 +241,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 
 ## 💻 RL amd MARL Environments (Existing In The World)
 - [OpenAI Gym / PettingZoo / MiniGrid](https://farama.org/)
-- [VMAS - VectorizedMultiAgentSimulator (yes)](https://github.com/proroklab/VectorizedMultiAgentSimulator/tree/main)
+- [VMAS - VectorizedMultiAgentSimulator](https://github.com/proroklab/VectorizedMultiAgentSimulator/tree/main) (yes)
 - [CityFlow](https://cityflow.readthedocs.io/en/latest/)
 - [MiniHack](https://minihack.readthedocs.io/en/latest/index.html)
 - [Derk’s Gym](http://docs.gym.derkgame.com/#)
