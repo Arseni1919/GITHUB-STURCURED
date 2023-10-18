@@ -95,11 +95,10 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 
 ## 💵 Trading 
 
-- Data: [Gathering Data](https://github.com/Arseni1919/Trading_model_first_trying)
+- [Stocks Simulator](https://github.com/Arseni1919/Stocks_Simulator_1)
 - [Learning Advances in Financial ML](https://github.com/Arseni1919/Learning_AiFML)
-- [Implementing NN on Stocks](https://github.com/Arseni1919/Implementing_NN_Stocks)
-- [Stocks Simulator (version 1)](https://github.com/Arseni1919/Stocks_Simulator_1)
-- [(prev 1)](https://github.com/Arseni1919/Stocks_Simulator_v2), [(prev 2)](https://github.com/Arseni1919/Market_Analyzer), [(website - flask)](https://github.com/Arseni1919/NT_website), [(website - react)](https://github.com/Arseni1919/NT_website_v2), [Stocks Gym Env](https://github.com/Arseni1919/gym-stocktrading)
+- [Learning to implement NN on Stocks](https://github.com/Arseni1919/Implementing_NN_Stocks)
+- [(Trading_model_first_trying)](https://github.com/Arseni1919/Trading_model_first_trying), [(prev 1)](https://github.com/Arseni1919/Stocks_Simulator_v2), [(prev 2)](https://github.com/Arseni1919/Market_Analyzer), [(website - flask)](https://github.com/Arseni1919/NT_website), [(website - react)](https://github.com/Arseni1919/NT_website_v2), [(Stocks Gym Env)](https://github.com/Arseni1919/gym-stocktrading)
 
 ---
 
