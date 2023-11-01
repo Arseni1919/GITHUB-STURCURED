@@ -80,10 +80,10 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 
 ### 🚗 Robots
 
-- [ROS Package for Hamster Robots](https://github.com/Arseni1919/ROS-package-to-move-robots-with-my-code)
-- [Voronoi + A* + RRT (robot navigation)](https://github.com/matanSamina/RRT_Project_2021)
-- [Implementation of Max-Sum_MST in ROS Platform](https://github.com/Arseni1919/max_sum_ROS_implementation)
-- [Implementation of CAMS in ROS Platform](https://github.com/Arseni1919/max_sum_cells_ROS)
+- [ROS | ROS Package for Hamster Robots](https://github.com/Arseni1919/ROS-package-to-move-robots-with-my-code)
+- [Search | Voronoi + A* + RRT (robot navigation)](https://github.com/matanSamina/RRT_Project_2021)
+- [DCOP | Implementation of Max-Sum_MST in ROS Platform](https://github.com/Arseni1919/max_sum_ROS_implementation)
+- [DCOP | Implementation of CAMS in ROS Platform](https://github.com/Arseni1919/max_sum_cells_ROS)
 
 ---
 
