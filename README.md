@@ -255,6 +255,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Bigpig4396/Multi-Agent-Reinforcement-Learning-Environment](https://github.com/Bigpig4396/Multi-Agent-Reinforcement-Learning-Environment)
 - [PyBullet](https://pybullet.org/wordpress/) (no)
 - [Pogema](https://github.com/AIRI-Institute/pogema)
+- [Duckietown Gym Env](https://github.com/duckietown/gym-duckietown)
 
 ## 🗺 MAPF Benchmarks amd Envs
 
