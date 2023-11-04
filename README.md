@@ -251,6 +251,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [PyBullet](https://pybullet.org/wordpress/) (no)
 - [Pogema](https://github.com/AIRI-Institute/pogema)
 - [Duckietown Gym Env](https://github.com/duckietown/gym-duckietown)
+- [Automatic Parallel Parking: Path Planning, Path Tracking & Control](https://github.com/Pandas-Team/Automatic-Parking)
 
 ## 🗺 MAPF Benchmarks amd Envs
 
