@@ -238,7 +238,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [MiniHack](https://minihack.readthedocs.io/en/latest/index.html)
 - [Derk’s Gym](http://docs.gym.derkgame.com/#)
 - [RWARE](https://github.com/semitable/robotic-warehouse)
-- [Neural MMO](https://github.com/openai/neural-mmo)
+- [Neural MMO 2.0](https://neuralmmo.github.io/beta/_build/html/rst/landing.html) (Prev: [1.0](https://github.com/openai/neural-mmo))
 - [Flatland](https://flatland.aicrowd.com/intro.html)
 - [highway-env](https://highway-env.readthedocs.io/en/latest/index.html)
 - [Deep RTS](https://github.com/cair/deep-rts)
