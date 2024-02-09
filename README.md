@@ -141,6 +141,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Learning Async IO](https://github.com/Arseni1919/Learning_AsyncIO)
 - [Learning Python Decorators](https://github.com/Arseni1919/Learning_Python_Decorators)
 - [Learning f-strings](https://github.com/Arseni1919/Learning_f_strings)
+- [Learning Dataclasses](https://github.com/Arseni1919/Learning_dataclasses)
 
 ### 🖥️ WEB
 
