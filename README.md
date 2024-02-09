@@ -162,7 +162,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Learning React + Flask + MongpDB](https://github.com/Arseni1919/learning_react_flask_mongodb)
 - [Learning MongoDB](https://github.com/Arseni1919/Learning_mongodb)
 
-### 🎓 Other University Projects
+### 🎓 University Projects
 
 #### Studying
 
@@ -192,7 +192,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [REST API](https://github.com/Arseni1919/WEB_Course_REST_API)
 - [Bootstrap](https://github.com/Arseni1919/WEB_Course_Bootstrap)
 
-###### Help Material
+###### Lectures
 - [(former repo of the course)](https://github.com/Arseni1919/WEB_course_BGU)
 - [WEB Course: Flask Skeleton Project (By Barak Pinchovski)](https://github.com/Arseni1919/WEB_Course_Flask_Skeleton_Project)
 - [WEB Course: Lectures - 2021 A](https://github.com/Arseni1919/WEB_Course_2020_A_examples_flask)
