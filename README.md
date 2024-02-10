@@ -146,6 +146,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Learning Magic Methods in Python](https://github.com/Arseni1919/Learning_Magic_Methods)
 - [Learning Collections](https://github.com/Arseni1919/Learning_Collections)
 - [Learning @property](https://github.com/Arseni1919/Learning_Property_Python)
+- [Learning Regexes](https://github.com/Arseni1919/Learning_Regexes)
 
 ### 🖥️ WEB
 
