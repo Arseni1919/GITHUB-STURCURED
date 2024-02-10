@@ -136,12 +136,13 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Learning Python Tricks](https://github.com/Arseni1919/Python-Tricks-book-examples)
 - [Learning cProfile](https://github.com/Arseni1919/Learning_cProfile)
 - [Learning Threading in Python](https://github.com/Arseni1919/Learning_Threading_python)
-- [Learning to save files in python](https://github.com/Arseni1919/Learning_To_Save)
+- [Learning to save files in Python](https://github.com/Arseni1919/Learning_To_Save)
 - [Learning Datetime](https://github.com/Arseni1919/Learning_Datetime)
 - [Learning Async IO](https://github.com/Arseni1919/Learning_AsyncIO)
 - [Learning Python Decorators](https://github.com/Arseni1919/Learning_Python_Decorators)
 - [Learning f-strings](https://github.com/Arseni1919/Learning_f_strings)
 - [Learning Dataclasses](https://github.com/Arseni1919/Learning_dataclasses)
+- [Learning Type-Checking in Python](https://github.com/Arseni1919/Learning_Type_Checking_Python)
 
 ### 🖥️ WEB
 
