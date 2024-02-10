@@ -143,6 +143,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Learning f-strings](https://github.com/Arseni1919/Learning_f_strings)
 - [Learning Dataclasses](https://github.com/Arseni1919/Learning_dataclasses)
 - [Learning Type-Checking in Python](https://github.com/Arseni1919/Learning_Type_Checking_Python)
+- [Learning Magic Methods in Python](https://github.com/Arseni1919/Learning_Magic_Methods)
 
 ### 🖥️ WEB
 
