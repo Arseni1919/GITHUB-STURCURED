@@ -1,7 +1,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 
 My name is [Arseni Perchik](https://arseni1919.github.io/PORTFOLIO/) and this page presents my GitHub projects in a structured way. 
-The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **RL**, **ROS**, MARL, ML,  WEB, IOT. The projects are divided to  sections for the sake of convenience.
+The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **RL**, **ROS**, MARL, ML,  WEB, IOT. The projects are divided into sections for the sake of convenience.
 
 <p align="center">
     <a href="#" alt=""><img src="https://img.shields.io/github/last-commit/Arseni1919/GITHUB-STURCURED?style=social" /></a>
@@ -244,7 +244,7 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 > Budges in GitHub README | [link](https://shields.io/)
 
 
-## 💻 RL amd MARL Environments (Existing In The World)
+## 💻 RL and MARL Environments (Existing In The World)
 - [OpenAI Gym / PettingZoo / MiniGrid](https://farama.org/)
 - [VMAS - VectorizedMultiAgentSimulator](https://github.com/proroklab/VectorizedMultiAgentSimulator/tree/main) (yes)
 - [CityFlow](https://cityflow.readthedocs.io/en/latest/)
@@ -267,8 +267,11 @@ The main fields of my work are: **Multi-agent Systems (MAS)**, **Search AI**, **
 - [Automatic Parallel Parking: Path Planning, Path Tracking & Control](https://github.com/Pandas-Team/Automatic-Parking)
 - [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
 - [Jumanji](https://instadeepai.github.io/jumanji/)
+- [PGX](https://github.com/sotetsuk/pgx)
+- [FinRL: Financial Reinforcement Learning](https://github.com/AI4Finance-Foundation/FinRL)
+- [RLCard: A Toolkit for Reinforcement Learning in Card Games](https://rlcard.org/)
 
-## 🗺 MAPF Benchmarks amd Envs
+## 🗺 MAPF Benchmarks and Envs
 
 - [MAPF Benchmarks](https://movingai.com/benchmarks/mapf/index.html)
 
