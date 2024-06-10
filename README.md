@@ -278,6 +278,7 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 ## 🗺 MAPF Benchmarks and Envs
 
 - [MAPF Benchmarks](https://movingai.com/benchmarks/mapf/index.html)
+- [Tracking Progress in MAPF](https://tracker.pathfinding.ai/)
 
 <!--```markdown
 Syntax highlighted code block 
