@@ -272,6 +272,8 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 - [FinRL: Financial Reinforcement Learning](https://github.com/AI4Finance-Foundation/FinRL)
 - [RLCard: A Toolkit for Reinforcement Learning in Card Games](https://rlcard.org/)
 - [JaxMARL](https://github.com/FLAIROx/JaxMARL)
+- [Airlift Challenge v2.0](https://airliftchallenge.com/chapters/main.html)
+- [Unity ML-Agents Toolkit](https://unity-technologies.github.io/ml-agents/)
 
 ## 🗺 MAPF Benchmarks and Envs
 
