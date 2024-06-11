@@ -96,6 +96,7 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 - [Learning Advances in Financial ML](https://github.com/Arseni1919/Learning_AiFML)
 - [Learning to implement NN on Stocks](https://github.com/Arseni1919/Implementing_NN_Stocks)
 - [GA in stocks](https://github.com/kirilgravis/GA_Invest)
+- [Learning from "ML for Trading" book](https://github.com/Arseni1919/ML_For_Trading_Book_Codedrafts)
 
 ### Previous Projects
 
