@@ -93,7 +93,8 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 
 ## 💵 Trading 
 
-- Current: [Stocks Simulator (Streamlit + Matplotlib)](https://github.com/Arseni1919/Stocks_Simulator_1)
+- Current: [ML For Trading - Drafts](https://github.com/Arseni1919/ML_For_Trading_Drafts)
+- [Stocks Simulator (Streamlit + Matplotlib)](https://github.com/Arseni1919/Stocks_Simulator_1)
 - [Learning to implement NN on Stocks](https://github.com/Arseni1919/Implementing_NN_Stocks)
 - [GA in stocks](https://github.com/kirilgravis/GA_Invest)
 - [Learning from "Advances in Financial ML" book](https://github.com/Arseni1919/Learning_AiFML)
