@@ -277,6 +277,8 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 - [JaxMARL](https://github.com/FLAIROx/JaxMARL)
 - [Airlift Challenge v2.0](https://airliftchallenge.com/chapters/main.html)
 - [Unity ML-Agents Toolkit](https://unity-technologies.github.io/ml-agents/)
+- [overcooked_ai](https://github.com/HumanCompatibleAI/overcooked_ai)
+- [gym-cooking](https://github.com/rosewang2008/gym-cooking)
 
 ## 🗺 MAPF Benchmarks and Envs
 
