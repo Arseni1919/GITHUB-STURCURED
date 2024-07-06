@@ -1,6 +1,6 @@
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 
-My name is [Arseni Perchik](https://arseni1919.github.io/PORTFOLIO/) and this page presents my GitHub projects in a structured way. 
+My name is [Arseniy Pertzovsky](https://arseni1919.github.io/PORTFOLIO/) and this page presents my GitHub projects in a structured way. 
 The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **RL**, **ROS**, MARL, ML,  WEB, IOT. The projects are divided into sections for the sake of convenience.
 
 <p align="center">
