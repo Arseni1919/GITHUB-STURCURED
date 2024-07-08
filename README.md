@@ -60,7 +60,7 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 - [A* Implementation - Generic Version](https://github.com/Arseni1919/A_star_Implementation)
 - [A* Simulator - Pathfinding](https://github.com/Arseni1919/A_star_simulator)
 - [Learning Topological Sorting](https://github.com/Arseni1919/Learning_Topological_Sorting)
-- [SIPPS Implementation in Python](https://github.com/Arseni1919/SIPPS_Python_Implementation)
+- [SIPPS, PrP (+SIPPS), MAPF-LNS2 (+SIPPS) Implementations in Python](https://github.com/Arseni1919/SIPPS_Python_Implementation)
 
 ---
 
