@@ -76,11 +76,11 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 - [DCOP | DCOP-MDP Simulator](https://github.com/Arseni1919/DCOP_MDP_Model)
 - [DCOP | Async-DCOP_MST Simulator version 2 (with Ben)](https://github.com/benrachmut/CA_DCOP_MST) (prev: [(version 1 - incorrect)](https://github.com/Arseni1919/Async_DCOP_MST_Simulator))
 - [MAPF | MAPF simulator (version 2)](https://github.com/Arseni1919/MAPF_Simulator_2) (prev: [(version 1)](https://github.com/Arseni1919/MAPF_Simulator))
-- [MAPF | Gentleman_Algorithm](https://github.com/Arseni1919/Gentleman_Algorithm_MAPF)
-- [MAPF | Potential Fields in MAPF](https://github.com/Arseni1919/AvoidCrowdAlgorithm)
-- [MAPF & LMAPF | Artificial Potential Fields in MAPF and Lifelong MAPF (version 2)](https://github.com/Arseni1919/APFs_for_MAPF_Implementation_v2) (prev: [version 1](https://github.com/Arseni1919/PotentialFields_in_Lifelong-MAPF))
-- [SACG & LMAPF | Corridor-Generating Algorithm](https://github.com/Arseni1919/Corridor_Generating_Algorithm)
-- [MAPF & LMAPF | Corridor-Generating Algorithm for Multi-Agent Path-Finding Problem](https://github.com/Arseni1919/CGA_MAPF_Implementation_v2)(prev: [version 1](https://github.com/Arseni1919/CGA_MAPF_Algorithm))
+- [Gentleman_Algorithm (MAPF)](https://github.com/Arseni1919/Gentleman_Algorithm_MAPF)
+- [Vanila APFs for MAPF | Potential Fields in MAPF](https://github.com/Arseni1919/AvoidCrowdAlgorithm)
+- [APFs for MAPF & LMAPF | Artificial Potential Fields in MAPF and Lifelong MAPF (version 2)](https://github.com/Arseni1919/APFs_for_MAPF_Implementation_v2) (prev: [version 1](https://github.com/Arseni1919/PotentialFields_in_Lifelong-MAPF))
+- [CGA, SACG, CGA-LMAPF | Corridor-Generating Algorithm](https://github.com/Arseni1919/Corridor_Generating_Algorithm)
+- [CGA-MAPF | Corridor-Generating Algorithm for Multi-Agent Path-Finding Problem (version 2)](https://github.com/Arseni1919/CGA_MAPF_Implementation_v2)(prev: [version 1](https://github.com/Arseni1919/CGA_MAPF_Algorithm))
 
 
 ### 🚗 Robots
