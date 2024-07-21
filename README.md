@@ -80,7 +80,7 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 - [MAPF | Potential Fields in MAPF](https://github.com/Arseni1919/AvoidCrowdAlgorithm)
 - [MAPF & LMAPF | Artificial Potential Fields in MAPF and Lifelong MAPF (version 2)](https://github.com/Arseni1919/APFs_for_MAPF_Implementation_v2) (prev: [version 1](https://github.com/Arseni1919/PotentialFields_in_Lifelong-MAPF))
 - [SACG & LMAPF | Corridor-Generating Algorithm](https://github.com/Arseni1919/Corridor_Generating_Algorithm)
-- [MAPF & LMAPF | Corridor-Generating Algorithm for Multi-Agent Path-Finding Problem](https://github.com/Arseni1919/CGA_MAPF_Algorithm)
+- [MAPF & LMAPF | Corridor-Generating Algorithm for Multi-Agent Path-Finding Problem](https://github.com/Arseni1919/CGA_MAPF_Implementation_v2)(prev: [version 1](https://github.com/Arseni1919/CGA_MAPF_Algorithm))
 
 
 ### 🚗 Robots
