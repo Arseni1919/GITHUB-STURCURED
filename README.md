@@ -280,6 +280,7 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 - [Unity ML-Agents Toolkit](https://unity-technologies.github.io/ml-agents/)
 - [overcooked_ai](https://github.com/HumanCompatibleAI/overcooked_ai)
 - [gym-cooking](https://github.com/rosewang2008/gym-cooking)
+- [Aerial Gym Simulator](https://ntnu-arl.github.io/aerial_gym_simulator/)
 
 ## 🗺 MAPF Benchmarks and Envs
 
