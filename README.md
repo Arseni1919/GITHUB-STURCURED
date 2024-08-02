@@ -281,6 +281,7 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 - [overcooked_ai](https://github.com/HumanCompatibleAI/overcooked_ai)
 - [gym-cooking](https://github.com/rosewang2008/gym-cooking)
 - [Aerial Gym Simulator](https://ntnu-arl.github.io/aerial_gym_simulator/)
+- [Google Research Football](https://github.com/google-research/football)
 
 ## 🗺 MAPF Benchmarks and Envs
 
