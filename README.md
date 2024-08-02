@@ -282,6 +282,14 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 - [gym-cooking](https://github.com/rosewang2008/gym-cooking)
 - [Aerial Gym Simulator](https://ntnu-arl.github.io/aerial_gym_simulator/)
 - [Google Research Football](https://github.com/google-research/football)
+- [Griddly](https://github.com/Bam4d/Griddly)
+- [IMP-MARL: a Suite of Environments for Large-scale Infrastructure Management Planning via MARL](https://github.com/moratodpg/imp_marl/tree/main)
+- [LBF](https://github.com/uoe-agents/lb-foraging)
+- [MATE: the Multi-Agent Tracking Environment](https://github.com/XuehaiPan/mate)
+- [Melting Pot](https://github.com/google-deepmind/meltingpot)
+- [Multi-Car Racing Gym Environment](https://github.com/igilitschenski/multi_car_racing)
+- [Nocturne - partially observed, driving simulator](https://github.com/facebookresearch/nocturne)
+
 
 ## 🗺 MAPF Benchmarks and Envs
 
