@@ -254,6 +254,7 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 - SOTA RL envs - [minigrid](https://minigrid.farama.org/environments/minigrid/)
 - SOTA MARL envs - [MAgent2](https://magent2.farama.org/)
 - SOTA RL and MARL envs - [Unity ML-Agents Toolkit](https://unity-technologies.github.io/ml-agents/)
+- [SOTA Baselines3](https://stable-baselines3.readthedocs.io/en/master/index.html#)
 - [OpenAI Gym / PettingZoo / MiniGrid](https://farama.org/)
 - [VMAS - VectorizedMultiAgentSimulator](https://github.com/proroklab/VectorizedMultiAgentSimulator/tree/main) (yes)
 - [CityFlow](https://cityflow.readthedocs.io/en/latest/)
