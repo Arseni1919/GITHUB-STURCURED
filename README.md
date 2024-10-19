@@ -298,6 +298,9 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 - [MAPF Benchmarks](https://movingai.com/benchmarks/mapf/index.html)
 - [Tracking Progress in MAPF](https://tracker.pathfinding.ai/)
 
+## 🎥 Important Videos
+- [Entropy, Cross-Entropy, and KL-Divergence](https://www.youtube.com/watch?v=ErfnhcEV1O8)
+
 <!--```markdown
 Syntax highlighted code block 
 [Link](url) and ![Image](src)
