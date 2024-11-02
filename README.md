@@ -291,6 +291,7 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 - [Melting Pot](https://github.com/google-deepmind/meltingpot)
 - [Multi-Car Racing Gym Environment](https://github.com/igilitschenski/multi_car_racing)
 - [Nocturne - partially observed, driving simulator](https://github.com/facebookresearch/nocturne)
+- [OGBench: Benchmarking Offline Goal-Conditioned RL](https://seohong.me/projects/ogbench/)
 
 
 ## 🗺 MAPF Benchmarks and Envs
