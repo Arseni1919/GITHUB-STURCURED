@@ -40,6 +40,7 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 1. [SAC](https://github.com/Arseni1919/SAC_algorithm)
 
 - [Gather Game](https://github.com/Arseni1919/Gather_Game)
+- [Learning DRL: DQN, Double-DQN, REINFORCE, Actor-Critic, A2C, DDPG, TD3, PPO, SAC](https://github.com/Arseni1919/Learning_DRL)
 
 `TODO:` I2A, TD3, PPG, HER, POLO, MuZero
 
@@ -218,6 +219,8 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 - [WEB Course: Lectures - 2024 A - group 1](https://github.com/Arseni1919/WEB_course_2024_A_1)
 - [WEB Course: Lectures - 2024 A - group 2](https://github.com/Arseni1919/WEB_course_2024_A_2)
 - [WEB Course: Lectures - 2024 B](https://github.com/Arseni1919/WEB_course_2024_B)
+- [WEB Course: Lectures - 2025 A - group 1](https://github.com/Arseni1919/WEB_course_2025_A_1)
+- [WEB Course: Lectures - 2025 A - group 2](https://github.com/Arseni1919/WEB_course_2025_A_2)
 
 ##### IOT Course
 
