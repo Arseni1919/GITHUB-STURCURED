@@ -26,23 +26,23 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 
 ## 🦁 RL Algorithms
 
-- [Template for PL Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJECT)
 
-1. [Learning Multi-Armed Bandits](https://github.com/Arseni1919/Learning_Multi_Armed_Bandits)
+1. [Template for PL Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJECT)
+2. [Gather Game](https://github.com/Arseni1919/Gather_Game)
+3. [Learning Multi-Armed Bandits](https://github.com/Arseni1919/Learning_Multi_Armed_Bandits)
 1. [Learning Dynamic Programming (Policy Iteration, Value Iteration)](https://github.com/Arseni1919/Learning_Policy_Iteration)
 1. [Learning Monte-Carlo RL](https://github.com/Arseni1919/Learning_Monte_Carlo_RL)
 1. [Learning TD-Learning](https://github.com/Arseni1919/Learning_TD_Learning)
 2. [Learning DRL: DQN, Double-DQN, REINFORCE, Actor-Critic, A2C, DDPG, TD3, PPO, SAC](https://github.com/Arseni1919/Learning_DRL)
 
-Prev: 
+### Previous Projects
+
 [DQN](https://github.com/Arseni1919/PL_DQN) ([variant 2](https://github.com/Arseni1919/DQN_implementation_from_pytorch_lightning_website), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym)) | 
 [REINFORCE](https://github.com/Arseni1919/PL_REINFORCE) ([variant 2](https://github.com/Arseni1919/Implementation-of-REINFORCE-with-PyTorch-Lightning), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym)) |
 [A2C](https://github.com/Arseni1919/PL_A2C) (A3C) |
 [PPO](https://github.com/Arseni1919/PL_PPO) ([variant 2](https://github.com/Arseni1919/PPO_implementation_variant_2)) |
 [DDPG](https://github.com/Arseni1919/PL_DDPG) ([variant 2](https://github.com/Arseni1919/Mountain_Car_DDPG)) |
 [SAC](https://github.com/Arseni1919/SAC_algorithm) 
-
-- [Gather Game](https://github.com/Arseni1919/Gather_Game)
 
 `TODO:` I2A, TD3, PPG, HER, POLO, MuZero
 
