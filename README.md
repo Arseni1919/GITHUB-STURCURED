@@ -297,6 +297,8 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 - [Multi-Car Racing Gym Environment](https://github.com/igilitschenski/multi_car_racing)
 - [Nocturne - partially observed, driving simulator](https://github.com/facebookresearch/nocturne)
 - [OGBench: Benchmarking Offline Goal-Conditioned RL](https://seohong.me/projects/ogbench/)
+- [SMAC-v1 - StarCraft Multi-Agent Challenge](https://github.com/oxwhirl/smac/tree/master)
+- [SMAC-v2](https://github.com/oxwhirl/smacv2)
 
 
 ## 🗺 MAPF Benchmarks and Envs
