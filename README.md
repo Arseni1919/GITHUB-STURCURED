@@ -256,7 +256,7 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 
 ## 💻 RL and MARL Environments (Existing In The World)
 - Toy envs - [OpenAI Gym](https://gymnasium.farama.org/)
-- SOTA RL envs - [minigrid](https://minigrid.farama.org/environments/minigrid/)
+- SOTA RL envs - [OpenAI Gym](https://gymnasium.farama.org/), [minigrid](https://minigrid.farama.org/environments/minigrid/)
 - SOTA MARL envs - [MAgent2](https://magent2.farama.org/), [Derk’s Gym](http://docs.gym.derkgame.com/#), [VMAS](https://github.com/proroklab/VectorizedMultiAgentSimulator/tree/main)
 - SOTA RL and MARL envs - [Unity ML-Agents Toolkit](https://unity-technologies.github.io/ml-agents/)
 
