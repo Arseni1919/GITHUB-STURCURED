@@ -20,7 +20,7 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 5. [MAPF | CA*, CBS, DSA_MAPF, MGM_MAPF](https://github.com/Arseni1919/MAPF_Simulator)
 
 
-`TODO:` MAPPO, QMix, ROMA, COMA, Value Decomposition, MF-Q, MF-AC, MAAC, DBS-DQN, DGN, MASAC, MATD3, QTRAN, MULTI-AGENT AUTOCURRICULA, IQL, TarMAC, SEAC, BiCNet
+`TODO:` IQL, VDN, QMix, QPlex, MAPPO, IPPO, Belief.-PPO, MASAC, ISAC, MADDPG, IDDPG, SHAQ, DGN,  IAC, ROMA, PRIMAL
 
 
 
@@ -43,8 +43,6 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 [PPO](https://github.com/Arseni1919/PL_PPO) ([variant 2](https://github.com/Arseni1919/PPO_implementation_variant_2)) |
 [DDPG](https://github.com/Arseni1919/PL_DDPG) ([variant 2](https://github.com/Arseni1919/Mountain_Car_DDPG)) |
 [SAC](https://github.com/Arseni1919/SAC_algorithm) 
-
-`TODO:` I2A, TD3, PPG, HER, POLO, MuZero
 
 
 ## 📈 ML and DL Algorithms 
