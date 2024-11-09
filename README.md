@@ -260,7 +260,7 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 - SOTA MARL envs - [MAgent2](https://magent2.farama.org/), [Derk’s Gym](http://docs.gym.derkgame.com/#), [VMAS](https://github.com/proroklab/VectorizedMultiAgentSimulator/tree/main)
 - SOTA RL and MARL envs - [Unity ML-Agents Toolkit](https://unity-technologies.github.io/ml-agents/)
 
-### Single-Agent RL
+#### Single-Agent RL
 - [OpenAI Gym](https://gymnasium.farama.org/)
 - [minigrid](https://minigrid.farama.org/environments/minigrid/)
 - [MiniHack](https://minihack.readthedocs.io/en/latest/index.html)
@@ -273,7 +273,7 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 - [Aerial Gym Simulator](https://ntnu-arl.github.io/aerial_gym_simulator/)
 - [OGBench: Benchmarking Offline Goal-Conditioned RL](https://seohong.me/projects/ogbench/)
 
-### Multi-Agent RL
+#### Multi-Agent RL
 - [MAgent2](https://magent2.farama.org/)
 - [Derk’s Gym](http://docs.gym.derkgame.com/#)
 - [VMAS](https://github.com/proroklab/VectorizedMultiAgentSimulator/tree/main)
@@ -299,7 +299,7 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 - [SMAC-v1 - StarCraft Multi-Agent Challenge](https://github.com/oxwhirl/smac/tree/master)
 - [SMAC-v2](https://github.com/oxwhirl/smacv2)
 
-### Mixed
+#### Mixed
 - [OpenAI Gym / PettingZoo / MiniGrid](https://farama.org/)
 - [Unity ML-Agents Toolkit](https://unity-technologies.github.io/ml-agents/)
 - [Deep RTS](https://github.com/cair/deep-rts)
@@ -308,7 +308,7 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 - [RLCard: A Toolkit for Reinforcement Learning in Card Games](https://rlcard.org/)
 - [Griddly](https://github.com/Bam4d/Griddly)
 
-### Others
+#### Others
 - [SOTA Baselines3](https://stable-baselines3.readthedocs.io/en/master/index.html#)
 - [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
 
