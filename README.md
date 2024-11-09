@@ -261,6 +261,8 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 - SOTA RL and MARL envs - [Unity ML-Agents Toolkit](https://unity-technologies.github.io/ml-agents/)
 
 ### Single-Agent RL
+- [OpenAI Gym](https://gymnasium.farama.org/)
+- [minigrid](https://minigrid.farama.org/environments/minigrid/)
 - [MiniHack](https://minihack.readthedocs.io/en/latest/index.html)
 - [CyberBattleSim](https://github.com/microsoft/CyberBattleSim)
 - [PyBullet](https://pybullet.org/wordpress/)
@@ -272,6 +274,9 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 - [OGBench: Benchmarking Offline Goal-Conditioned RL](https://seohong.me/projects/ogbench/)
 
 ### Multi-Agent RL
+- [MAgent2](https://magent2.farama.org/)
+- [Derk’s Gym](http://docs.gym.derkgame.com/#)
+- [VMAS](https://github.com/proroklab/VectorizedMultiAgentSimulator/tree/main)
 - [CityFlow](https://cityflow.readthedocs.io/en/latest/)
 - [RWARE](https://github.com/semitable/robotic-warehouse)
 - [Neural MMO 2.0](https://neuralmmo.github.io/beta/_build/html/rst/landing.html) (Prev: [1.0](https://github.com/openai/neural-mmo))
@@ -296,6 +301,7 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 
 ### Mixed
 - [OpenAI Gym / PettingZoo / MiniGrid](https://farama.org/)
+- [Unity ML-Agents Toolkit](https://unity-technologies.github.io/ml-agents/)
 - [Deep RTS](https://github.com/cair/deep-rts)
 - [Gym-μRTS (pronounced "gym-micro-RTS")](https://github.com/Farama-Foundation/Gym-MicroRTS)
 - [PGX](https://github.com/sotetsuk/pgx)
