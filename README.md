@@ -270,6 +270,7 @@ The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **R
 - [FinRL: Financial Reinforcement Learning](https://github.com/AI4Finance-Foundation/FinRL)
 - [Aerial Gym Simulator](https://ntnu-arl.github.io/aerial_gym_simulator/)
 - [OGBench: Benchmarking Offline Goal-Conditioned RL](https://seohong.me/projects/ogbench/)
+- [Kinetix](https://github.com/FlairOx/Kinetix/)
 
 #### Multi-Agent RL
 - [MAgent2](https://magent2.farama.org/)
