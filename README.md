@@ -1,7 +1,8 @@
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 
-My name is [Arseniy Pertzovsky](https://arseni1919.github.io/PORTFOLIO/) and this page presents my GitHub projects in a structured way. 
-The main fields of my work are **Multi-agent Systems (MAS)**, **Search AI**, **RL**, **ROS**, MARL, ML,  WEB, IOT. The projects are divided into sections for the sake of convenience.
+Hello! I’m **Arseniy Pertzovsky**, and welcome to my GitHub page, where you can explore my projects organized for your convenience.
+My primary areas of expertise include Multi-Agent Systems (MAS), Search and Planning in AI, Reinforcement Learning (RL), Multi-Agent Reinforcement Learning (MARL), Robot Operating System (ROS), Machine Learning (ML), Web Development, and the Internet of Things (IoT). 
+Each project is categorized into sections to enhance your browsing experience. Thank you for visiting!
 
 <p align="center">
     <a href="#" alt=""><img src="https://img.shields.io/github/last-commit/Arseni1919/GITHUB-STURCURED?style=social" /></a>
