@@ -277,6 +277,7 @@ Each project is categorized into sections to enhance your browsing experience. T
 - [MAgent2](https://magent2.farama.org/)
 - [Derk’s Gym](http://docs.gym.derkgame.com/#)
 - [VMAS](https://github.com/proroklab/VectorizedMultiAgentSimulator/tree/main)
+- [PettingZoo](https://pettingzoo.farama.org/)
 - [CityFlow](https://cityflow.readthedocs.io/en/latest/)
 - [RWARE](https://github.com/semitable/robotic-warehouse)
 - [Neural MMO 2.0](https://neuralmmo.github.io/beta/_build/html/rst/landing.html) (Prev: [1.0](https://github.com/openai/neural-mmo))
