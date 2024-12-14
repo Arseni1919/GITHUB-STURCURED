@@ -308,6 +308,7 @@ Each project is categorized into sections to enhance your browsing experience. T
 - [PGX](https://github.com/sotetsuk/pgx)
 - [RLCard: A Toolkit for Reinforcement Learning in Card Games](https://rlcard.org/)
 - [Griddly](https://github.com/Bam4d/Griddly)
+- [PufferLib](https://puffer.ai/index.html)
 
 #### Others
 - [SOTA Baselines3](https://stable-baselines3.readthedocs.io/en/master/index.html#)
