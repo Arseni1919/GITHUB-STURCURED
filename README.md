@@ -272,6 +272,7 @@ Each project is categorized into sections to enhance your browsing experience. T
 - [Aerial Gym Simulator](https://ntnu-arl.github.io/aerial_gym_simulator/)
 - [OGBench: Benchmarking Offline Goal-Conditioned RL](https://seohong.me/projects/ogbench/)
 - [Kinetix](https://github.com/FlairOx/Kinetix/)
+- [MuJoCo Playground](https://playground.mujoco.org/)
 
 #### Multi-Agent RL
 - [MAgent2](https://magent2.farama.org/)
