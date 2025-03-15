@@ -310,6 +310,7 @@ Each project is categorized into sections to enhance your browsing experience. T
 - [RLCard: A Toolkit for Reinforcement Learning in Card Games](https://rlcard.org/)
 - [Griddly](https://github.com/Bam4d/Griddly)
 - [PufferLib](https://puffer.ai/index.html)
+- [IR-SIM](https://ir-sim.readthedocs.io/en/latest/index.html#)
 
 #### Others
 - [SOTA Baselines3](https://stable-baselines3.readthedocs.io/en/master/index.html#)
