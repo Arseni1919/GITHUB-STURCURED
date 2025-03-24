@@ -28,13 +28,13 @@ Each project is categorized into sections to enhance your browsing experience. T
 ## 🦁 RL Algorithms
 
 
-1. [Template for PL Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJECT)
-2. [Gather Game](https://github.com/Arseni1919/Gather_Game)
-3. [Learning Multi-Armed Bandits](https://github.com/Arseni1919/Learning_Multi_Armed_Bandits)
-1. [Learning Dynamic Programming (Policy Iteration, Value Iteration)](https://github.com/Arseni1919/Learning_Policy_Iteration)
-1. [Learning Monte-Carlo RL](https://github.com/Arseni1919/Learning_Monte_Carlo_RL)
-1. [Learning TD-Learning](https://github.com/Arseni1919/Learning_TD_Learning)
-2. [Learning DRL: DQN, Double-DQN, REINFORCE, Actor-Critic, A2C, DDPG, TD3, PPO, SAC](https://github.com/Arseni1919/Learning_DRL)
+1. [Learning RL & MARL](https://github.com/Arseni1919/Learning_DRL)
+2. [Learning Multi-Armed Bandits](https://github.com/Arseni1919/Learning_Multi_Armed_Bandits)
+3. [Learning Dynamic Programming (Policy Iteration, Value Iteration)](https://github.com/Arseni1919/Learning_Policy_Iteration)
+4. [Learning Monte-Carlo RL](https://github.com/Arseni1919/Learning_Monte_Carlo_RL)
+5. [Learning TD-Learning](https://github.com/Arseni1919/Learning_TD_Learning)
+6. [Gather Game](https://github.com/Arseni1919/Gather_Game)
+7. [Template for PL Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJECT)
 
 ### Previous Projects
 
