@@ -255,9 +255,8 @@ Each project is categorized into sections to enhance your browsing experience. T
 
 ## 💻 RL and MARL Environments (Existing In The World)
 - Toy envs - [OpenAI Gym](https://gymnasium.farama.org/)
-- SOTA RL envs - [OpenAI Gym](https://gymnasium.farama.org/), [minigrid](https://minigrid.farama.org/environments/minigrid/)
-- SOTA MARL envs - [VMAS](https://github.com/proroklab/VectorizedMultiAgentSimulator/tree/main), [MAgent2](https://magent2.farama.org/), [SMAC-v1](https://github.com/oxwhirl/smac/blob/master/docs/smac.md), [Derk’s Gym](http://docs.gym.derkgame.com/#)
-- SOTA RL and MARL envs - [Unity ML-Agents Toolkit](https://unity-technologies.github.io/ml-agents/)
+- SOTA RL envs - [OpenAI Gym](https://gymnasium.farama.org/), [minigrid](https://minigrid.farama.org/environments/minigrid/), [Unity ML-Agents Toolkit](https://unity-technologies.github.io/ml-agents/)
+- SOTA MARL envs - [VMAS](https://github.com/proroklab/VectorizedMultiAgentSimulator/tree/main), [MAgent2](https://magent2.farama.org/), [SMAC-v1](https://github.com/oxwhirl/smac/blob/master/docs/smac.md), [Derk’s Gym](http://docs.gym.derkgame.com/#), [Unity ML-Agents Toolkit](https://unity-technologies.github.io/ml-agents/)
 - SOTA SafeRL [Safety-Gymnasium](https://safety-gymnasium.readthedocs.io/en/latest/index.html)
 
 #### Single-Agent RL
