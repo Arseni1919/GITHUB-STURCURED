@@ -258,6 +258,7 @@ Each project is categorized into sections to enhance your browsing experience. T
 - SOTA RL envs - [OpenAI Gym](https://gymnasium.farama.org/), [minigrid](https://minigrid.farama.org/environments/minigrid/)
 - SOTA MARL envs - [VMAS](https://github.com/proroklab/VectorizedMultiAgentSimulator/tree/main), [MAgent2](https://magent2.farama.org/), [SMAC-v1](https://github.com/oxwhirl/smac/blob/master/docs/smac.md), [Derk’s Gym](http://docs.gym.derkgame.com/#)
 - SOTA RL and MARL envs - [Unity ML-Agents Toolkit](https://unity-technologies.github.io/ml-agents/)
+- SOTA SafeRL [Safety-Gymnasium](https://safety-gymnasium.readthedocs.io/en/latest/index.html)
 
 #### Single-Agent RL
 - [OpenAI Gym](https://gymnasium.farama.org/)
@@ -311,6 +312,7 @@ Each project is categorized into sections to enhance your browsing experience. T
 - [Griddly](https://github.com/Bam4d/Griddly)
 - [PufferLib](https://puffer.ai/index.html)
 - [IR-SIM](https://ir-sim.readthedocs.io/en/latest/index.html#)
+- [Safety-Gymnasium](https://safety-gymnasium.readthedocs.io/en/latest/index.html)
 
 #### Others
 - [SOTA Baselines3](https://stable-baselines3.readthedocs.io/en/master/index.html#)
