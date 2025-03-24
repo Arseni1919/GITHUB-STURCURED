@@ -273,6 +273,7 @@ Each project is categorized into sections to enhance your browsing experience. T
 - [OGBench: Benchmarking Offline Goal-Conditioned RL](https://seohong.me/projects/ogbench/)
 - [Kinetix](https://github.com/FlairOx/Kinetix/)
 - [MuJoCo Playground](https://playground.mujoco.org/)
+- [MetaDrive](https://metadrive-simulator.readthedocs.io/en/latest/)
 
 #### Multi-Agent RL
 - [MAgent2](https://magent2.farama.org/)
