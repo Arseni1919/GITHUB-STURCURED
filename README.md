@@ -302,7 +302,7 @@ Each project is categorized into sections to enhance your browsing experience. T
 - [SMAC-v1 - StarCraft Multi-Agent Challenge](https://github.com/oxwhirl/smac/tree/master)
 - [SMAC-v2](https://github.com/oxwhirl/smacv2)
 
-#### Mixed
+#### Mixed & Others
 - [OpenAI Gym / PettingZoo / MiniGrid](https://farama.org/)
 - [Unity ML-Agents Toolkit](https://unity-technologies.github.io/ml-agents/)
 - [Deep RTS](https://github.com/cair/deep-rts)
@@ -313,6 +313,7 @@ Each project is categorized into sections to enhance your browsing experience. T
 - [PufferLib](https://puffer.ai/index.html)
 - [IR-SIM](https://ir-sim.readthedocs.io/en/latest/index.html#)
 - [Safety-Gymnasium](https://safety-gymnasium.readthedocs.io/en/latest/index.html)
+- [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
 
 ## 💎 RL and MARL Implementations (Existing in the World)
 
@@ -322,11 +323,6 @@ Each project is categorized into sections to enhance your browsing experience. T
 - [BenchMARL](https://benchmarl.readthedocs.io/en/latest/index.html)
 - [JaxMARL](https://jaxmarl.foersterlab.com/)
 - [MARLlib: A Multi-agent Reinforcement Learning Library](https://marllib.readthedocs.io/en/latest/index.html)
-
-
-#### Others
-- [SOTA Baselines3](https://stable-baselines3.readthedocs.io/en/master/index.html#)
-- [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
 
 
 ## 🗺 MAPF Benchmarks and Envs
