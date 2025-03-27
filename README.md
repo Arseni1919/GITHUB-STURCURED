@@ -253,7 +253,7 @@ Each project is categorized into sections to enhance your browsing experience. T
 > Budges in GitHub README | [link](https://shields.io/)
 
 
-## 💻 RL and MARL Environments (Existing In The World)
+## 💻 RL and MARL Environments (Existing in the World)
 - Toy envs - [OpenAI Gym](https://gymnasium.farama.org/)
 - SOTA RL envs - [OpenAI Gym](https://gymnasium.farama.org/), [minigrid](https://minigrid.farama.org/environments/minigrid/), [Unity ML-Agents Toolkit](https://unity-technologies.github.io/ml-agents/)
 - SOTA MARL envs - [VMAS](https://github.com/proroklab/VectorizedMultiAgentSimulator/tree/main), [MAgent2](https://magent2.farama.org/), [SMAC-v1](https://github.com/oxwhirl/smac/blob/master/docs/smac.md), [Derk’s Gym](http://docs.gym.derkgame.com/#), [Unity ML-Agents Toolkit](https://unity-technologies.github.io/ml-agents/)
@@ -314,7 +314,7 @@ Each project is categorized into sections to enhance your browsing experience. T
 - [IR-SIM](https://ir-sim.readthedocs.io/en/latest/index.html#)
 - [Safety-Gymnasium](https://safety-gymnasium.readthedocs.io/en/latest/index.html)
 
-## 💎 RL and MARL implementations (Existing in the World)
+## 💎 RL and MARL Implementations (Existing in the World)
 
 - [Stable-Baselines3](https://stable-baselines3.readthedocs.io/en/master/index.html) 🔥🔥🔥
 - [CleanRL](https://docs.cleanrl.dev/) 🔥🔥
