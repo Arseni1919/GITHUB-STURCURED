@@ -314,6 +314,16 @@ Each project is categorized into sections to enhance your browsing experience. T
 - [IR-SIM](https://ir-sim.readthedocs.io/en/latest/index.html#)
 - [Safety-Gymnasium](https://safety-gymnasium.readthedocs.io/en/latest/index.html)
 
+## 💎 RL and MARL implementations (Existing in the World)
+
+- [Stable-Baselines3](https://stable-baselines3.readthedocs.io/en/master/index.html) 🔥🔥🔥
+- [CleanRL](https://docs.cleanrl.dev/) 🔥🔥
+- [RLlib: Industry-Grade, Scalable Reinforcement Learning](https://docs.ray.io/en/latest/rllib/index.html)
+- [BenchMARL](https://benchmarl.readthedocs.io/en/latest/index.html)
+- [JaxMARL](https://jaxmarl.foersterlab.com/)
+- [MARLlib: A Multi-agent Reinforcement Learning Library](https://marllib.readthedocs.io/en/latest/index.html)
+
+
 #### Others
 - [SOTA Baselines3](https://stable-baselines3.readthedocs.io/en/master/index.html#)
 - [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
