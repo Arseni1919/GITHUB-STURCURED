@@ -1,6 +1,6 @@
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 
-<img src="pics/bg_1.png" width="900">
+<img src="bg_1.png" width="900">
 
 
 Hello! I’m **Arseniy Pertzovsky**, and welcome to my GitHub page, where you can explore my projects organized for your convenience.
