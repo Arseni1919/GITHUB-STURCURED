@@ -9,6 +9,10 @@ My primary areas of expertise include Multi-Agent Systems (MAS), Search and Plan
 Each project is categorized into sections to enhance your browsing experience. Thank you for visiting!
 </div>
 
+<div align="justify">
+</div>
+
+
 
 <p align="center">
     <a href="#" alt=""><img src="https://img.shields.io/github/last-commit/Arseni1919/GITHUB-STURCURED?style=social" /></a>
