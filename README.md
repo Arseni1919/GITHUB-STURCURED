@@ -68,7 +68,7 @@ Each project is categorized into sections to enhance your browsing experience. T
 
 ## 📝 Research
 
-### Simulators
+### Simulation-Based Algorithms
 
 - [MAS simulator](https://github.com/Arseni1919/mas_simulator_1)
 - [DCOP | Toy DCOP Max-sum Simulation](https://github.com/Arseni1919/toy_dcop_max_sum_simulation)
@@ -84,7 +84,7 @@ Each project is categorized into sections to enhance your browsing experience. T
 - [CGA-MAPF | Corridor-Generating Algorithm for MAPF (version 2)](https://github.com/Arseni1919/CGA_MAPF_Implementation_v2)(prev: [version 1](https://github.com/Arseni1919/CGA_MAPF_Algorithm))
 
 
-### 🚗 Robotic Algorithms
+### 🚗 Robotics Algorithms
 
 - [ROS | ROS Package for Hamster Robots](https://github.com/Arseni1919/ROS-package-to-move-robots-with-my-code)
 - [Search | Voronoi + A* + RRT (robot navigation)](https://github.com/matanSamina/RRT_Project_2021)
