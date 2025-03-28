@@ -2,6 +2,8 @@
 
 <img src="bg_1.png" width="900">
 
+![](bg_1.png)
+
 
 Hello! I’m **Arseniy Pertzovsky**, and welcome to my GitHub page, where you can explore my projects organized for your convenience.
 My primary areas of expertise include Multi-Agent Systems (MAS), Search and Planning in AI, Reinforcement Learning (RL), Multi-Agent Reinforcement Learning (MARL), Robot Operating System (ROS), Machine Learning (ML), Web Development, and the Internet of Things (IoT). 
