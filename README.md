@@ -2,9 +2,9 @@
 
 ![](bg_1.png)
 
-
-Hello! I’m **Arseniy Pertzovsky**, and welcome to my GitHub page, where you can explore my projects organized for your convenience.
-My primary areas of expertise include Multi-Agent Systems (MAS), Search and Planning in AI, Reinforcement Learning (RL), Multi-Agent Reinforcement Learning (MARL), Robot Operating System (ROS), Machine Learning (ML), Web Development, and the Internet of Things (IoT). 
+Hello! I’m **Arseniy Pertzovsky**, a PhD graduate from Ben-Gurion University of the Negev. 
+Welcome to my GitHub homepage, where you can explore my projects that are organized for your convenience.
+My primary areas of expertise include Multi-Agent Systems (MAS), Search and Planning in AI, deep Reinforcement Learning (RL), Multi-Agent Reinforcement Learning (MARL), Robot Operating System (ROS), Machine Learning (ML), Web Development, and the Internet of Things (IoT). 
 Each project is categorized into sections to enhance your browsing experience. Thank you for visiting!
 
 <p align="center">
@@ -14,9 +14,7 @@ Each project is categorized into sections to enhance your browsing experience. T
 </p>
 
 
-
 ## 🦁🏆🚔 RL Algorithms
-
 
 1. [Learning RL & MARL](https://github.com/Arseni1919/Learning_DRL)
 2. [Learning Multi-Armed Bandits](https://github.com/Arseni1919/Learning_Multi_Armed_Bandits)
@@ -25,31 +23,23 @@ Each project is categorized into sections to enhance your browsing experience. T
 5. [Learning TD-Learning](https://github.com/Arseni1919/Learning_TD_Learning)
 6. [Gather Game](https://github.com/Arseni1919/Gather_Game)
 7. [Template for PL Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJECT)
+8. [DQN](https://github.com/Arseni1919/PL_DQN) ([variant 2](https://github.com/Arseni1919/DQN_implementation_from_pytorch_lightning_website), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym)) 
+9. [REINFORCE](https://github.com/Arseni1919/PL_REINFORCE) ([variant 2](https://github.com/Arseni1919/Implementation-of-REINFORCE-with-PyTorch-Lightning), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym)) 
+10. [A2C](https://github.com/Arseni1919/PL_A2C) (A3C)
+11. [PPO](https://github.com/Arseni1919/PL_PPO) ([variant 2](https://github.com/Arseni1919/PPO_implementation_variant_2))
+12. [DDPG](https://github.com/Arseni1919/PL_DDPG) ([variant 2](https://github.com/Arseni1919/Mountain_Car_DDPG))
+13. [SAC](https://github.com/Arseni1919/SAC_algorithm) 
 
 ## 🔠🧬💡 LLM Algorithms 
 1. [Learning LLMs](https://github.com/Arseni1919/Learning_LLMs)
 
 ## 🦁🦊🐹 MAS Algorithms
 
-1. [DCOP | CAMS, Max-Sum_MST, DSA_MST, CADSA, DSSA](https://github.com/Arseni1919/dcop_simulator_3)📄
-2. MARL | MADDPG  📄  ([PPO in MA setting](https://github.com/Arseni1919/MADDPG_algorithm))
-3. [MARL | FedRL](https://github.com/Arseni1919/FedRL_implementation)
-4. [MARL | ae_comm](https://github.com/Arseni1919/Implementation_of_AE_COMM)
-5. [MAPF | CA*, CBS, DSA_MAPF, MGM_MAPF](https://github.com/Arseni1919/MAPF_Simulator)
-
-
-`TODO:` IQL, VDN, QMix, QPlex, MAPPO, IPPO, Belief.-PPO, MASAC, ISAC, MADDPG, IDDPG, SHAQ, DGN,  IAC, ROMA, PRIMAL
-
-
-### Previous Projects
-
-[DQN](https://github.com/Arseni1919/PL_DQN) ([variant 2](https://github.com/Arseni1919/DQN_implementation_from_pytorch_lightning_website), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym)) | 
-[REINFORCE](https://github.com/Arseni1919/PL_REINFORCE) ([variant 2](https://github.com/Arseni1919/Implementation-of-REINFORCE-with-PyTorch-Lightning), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym)) |
-[A2C](https://github.com/Arseni1919/PL_A2C) (A3C) |
-[PPO](https://github.com/Arseni1919/PL_PPO) ([variant 2](https://github.com/Arseni1919/PPO_implementation_variant_2)) |
-[DDPG](https://github.com/Arseni1919/PL_DDPG) ([variant 2](https://github.com/Arseni1919/Mountain_Car_DDPG)) |
-[SAC](https://github.com/Arseni1919/SAC_algorithm) 
-
+1. [DCOP | CAMS, Max-Sum_MST, DSA_MST, CADSA, DSSA](https://github.com/Arseni1919/dcop_simulator_3)
+2. [MAPF | CA*, CBS, DSA_MAPF, MGM_MAPF](https://github.com/Arseni1919/MAPF_Simulator)
+3. [MARL | PPO in MA setting](https://github.com/Arseni1919/MADDPG_algorithm)
+4. [MARL | FedRL](https://github.com/Arseni1919/FedRL_implementation)
+5. [MARL | ae_comm](https://github.com/Arseni1919/Implementation_of_AE_COMM)
 
 ## 📈 ML and DL Algorithms 
 
@@ -60,8 +50,7 @@ Each project is categorized into sections to enhance your browsing experience. T
 `TODO:` Genetic Algorithms, GANs, Regression, Logistic Regression, K-Nearest Neighbors, Naive Bayes, Support Vector Machines (SVM), Monte Carlo Tree Search (MCTS) ([source 1](https://www.youtube.com/watch?v=vDF1BYWhqL8)), Decision Tree, Random Forest, AdaBoost, Gradient Boost, CatBoost, XGBoost, LightGBM, Graph NN ([source 1 - DGL](https://docs.dgl.ai/tutorials/blitz/index.html), [source 2](https://pytorch-lightning.readthedocs.io/en/latest/index.html))
  
 
-
-## 🔍  Search Algorithms
+## 🔍  Classical Search & MAPF Algorithms
 
 - [RRT Implementation - Generic Version](https://github.com/Arseni1919/Simple_Implementation_of_RRT)
 - [A* Implementation - Generic Version](https://github.com/Arseni1919/A_star_Implementation)
@@ -90,7 +79,7 @@ Each project is categorized into sections to enhance your browsing experience. T
 - [CGA-MAPF | Corridor-Generating Algorithm for MAPF (version 2)](https://github.com/Arseni1919/CGA_MAPF_Implementation_v2)(prev: [version 1](https://github.com/Arseni1919/CGA_MAPF_Algorithm))
 
 
-### 🚗 Robots
+### 🚗 Robotic Algorithms
 
 - [ROS | ROS Package for Hamster Robots](https://github.com/Arseni1919/ROS-package-to-move-robots-with-my-code)
 - [Search | Voronoi + A* + RRT (robot navigation)](https://github.com/matanSamina/RRT_Project_2021)
