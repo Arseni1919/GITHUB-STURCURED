@@ -12,6 +12,20 @@ Each project is categorized into sections to enhance your browsing experience. T
 
 
 
+## 🦁 RL Algorithms
+
+
+1. [Learning RL & MARL](https://github.com/Arseni1919/Learning_DRL)
+2. [Learning Multi-Armed Bandits](https://github.com/Arseni1919/Learning_Multi_Armed_Bandits)
+3. [Learning Dynamic Programming (Policy Iteration, Value Iteration)](https://github.com/Arseni1919/Learning_Policy_Iteration)
+4. [Learning Monte-Carlo RL](https://github.com/Arseni1919/Learning_Monte_Carlo_RL)
+5. [Learning TD-Learning](https://github.com/Arseni1919/Learning_TD_Learning)
+6. [Gather Game](https://github.com/Arseni1919/Gather_Game)
+7. [Template for PL Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJECT)
+
+## 🔠🧬💡 LLM Algorithms 
+1. [Learning LLMs](https://github.com/Arseni1919/Learning_LLMs)
+
 ## 🦁 🦊 🐹 MAS Algorithms
 
 1. [DCOP | CAMS, Max-Sum_MST, DSA_MST, CADSA, DSSA](https://github.com/Arseni1919/dcop_simulator_3)📄
@@ -23,18 +37,6 @@ Each project is categorized into sections to enhance your browsing experience. T
 
 `TODO:` IQL, VDN, QMix, QPlex, MAPPO, IPPO, Belief.-PPO, MASAC, ISAC, MADDPG, IDDPG, SHAQ, DGN,  IAC, ROMA, PRIMAL
 
-
-
-## 🦁 RL Algorithms
-
-
-1. [Learning RL & MARL](https://github.com/Arseni1919/Learning_DRL)
-2. [Learning Multi-Armed Bandits](https://github.com/Arseni1919/Learning_Multi_Armed_Bandits)
-3. [Learning Dynamic Programming (Policy Iteration, Value Iteration)](https://github.com/Arseni1919/Learning_Policy_Iteration)
-4. [Learning Monte-Carlo RL](https://github.com/Arseni1919/Learning_Monte_Carlo_RL)
-5. [Learning TD-Learning](https://github.com/Arseni1919/Learning_TD_Learning)
-6. [Gather Game](https://github.com/Arseni1919/Gather_Game)
-7. [Template for PL Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJECT)
 
 ### Previous Projects
 
