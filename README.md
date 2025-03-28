@@ -1,5 +1,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 
+
+
 Hello! I’m **Arseniy Pertzovsky**, and welcome to my GitHub page, where you can explore my projects organized for your convenience.
 My primary areas of expertise include Multi-Agent Systems (MAS), Search and Planning in AI, Reinforcement Learning (RL), Multi-Agent Reinforcement Learning (MARL), Robot Operating System (ROS), Machine Learning (ML), Web Development, and the Internet of Things (IoT). 
 Each project is categorized into sections to enhance your browsing experience. Thank you for visiting!
@@ -12,7 +14,7 @@ Each project is categorized into sections to enhance your browsing experience. T
 
 
 
-## 🦁 RL Algorithms
+## 🦁🏆🚔 RL Algorithms
 
 
 1. [Learning RL & MARL](https://github.com/Arseni1919/Learning_DRL)
@@ -26,7 +28,7 @@ Each project is categorized into sections to enhance your browsing experience. T
 ## 🔠🧬💡 LLM Algorithms 
 1. [Learning LLMs](https://github.com/Arseni1919/Learning_LLMs)
 
-## 🦁 🦊 🐹 MAS Algorithms
+## 🦁🦊🐹 MAS Algorithms
 
 1. [DCOP | CAMS, Max-Sum_MST, DSA_MST, CADSA, DSSA](https://github.com/Arseni1919/dcop_simulator_3)📄
 2. MARL | MADDPG  📄  ([PPO in MA setting](https://github.com/Arseni1919/MADDPG_algorithm))
