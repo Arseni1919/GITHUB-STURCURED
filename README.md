@@ -1,7 +1,5 @@
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 
-<img src="bg_1.png" width="900">
-
 ![](bg_1.png)
 
 
