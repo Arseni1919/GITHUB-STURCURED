@@ -11,14 +11,13 @@ Each project is categorized into sections to enhance your browsing experience. T
 
 ---
 
-
-
 <p align="center">
     <a href="#" alt=""><img src="https://img.shields.io/github/last-commit/Arseni1919/GITHUB-STURCURED?style=social" /></a>
     <a href="https://twitter.com/AiArseni" alt=""><img src="https://img.shields.io/twitter/follow/AIArseni?label=Follow%20me%20on%20Twitter&style=social" /></a>
     <a href="https://github.com/Arseni1919" alt="Follow"><img src="https://img.shields.io/github/followers/Arseni1919?label=Follow%20me%20on%20GitHub&style=social" /></a>
 </p>
 
+---
 
 ## 🦁🏆🚔 RL Algorithms
 
