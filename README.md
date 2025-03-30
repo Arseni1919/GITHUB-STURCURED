@@ -3,7 +3,7 @@
 ![](bg_1.png)
 
 <div align="justify">
-Hello! I’m **Arseniy Pertzovsky**, a PhD graduate from Ben-Gurion University of the Negev. 
+Hello! I’m <bold>Arseniy Pertzovsky</bold>, a PhD graduate from Ben-Gurion University of the Negev. 
 Welcome to my GitHub homepage, where you can explore my projects that are organized for your convenience.
 My primary areas of expertise include Multi-Agent Systems (MAS), Search and Planning in AI, deep Reinforcement Learning (RL), Multi-Agent Reinforcement Learning (MARL), Robot Operating System (ROS), Machine Learning (ML), Web Development, and the Internet of Things (IoT). 
 Each project is categorized into sections to enhance your browsing experience. Thank you for visiting!
