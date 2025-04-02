@@ -36,7 +36,7 @@ Each project is categorized into sections to enhance your browsing experience. T
 13. [SAC](https://github.com/Arseni1919/SAC_algorithm) 
 
 ## 🔠🧬💡 LLM Algorithms 
-1. [Learning LLMs](https://github.com/Arseni1919/Learning_LLMs)
+1. [Learning LLMs 🤗](https://github.com/Arseni1919/Learning_LLMs)
 
 ## 🦁🦊🐹 MAS Algorithms
 
