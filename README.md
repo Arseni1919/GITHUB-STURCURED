@@ -19,7 +19,8 @@ Each project is categorized into sections to enhance your browsing experience. T
 
 ---
 
-## 🦁🏆🚔 RL Algorithms
+
+## 🦁🏆🚔 Reinforcement Learning (RL)
 
 1. [Learning RL & MARL](https://github.com/Arseni1919/Learning_DRL)
 2. [Learning Multi-Armed Bandits](https://github.com/Arseni1919/Learning_Multi_Armed_Bandits)
@@ -35,11 +36,13 @@ Each project is categorized into sections to enhance your browsing experience. T
 12. [DDPG](https://github.com/Arseni1919/PL_DDPG) ([variant 2](https://github.com/Arseni1919/Mountain_Car_DDPG))
 13. [SAC](https://github.com/Arseni1919/SAC_algorithm) 
 
-## 🔠🧬💡 LLM Algorithms 
+
+## 🔠🧬💡 Large Language Models (LLMs)
 1. [🤗 Learning LLMs](https://github.com/Arseni1919/Learning_LLMs)
 2. [Learning Stanford CS224N: NLP with Deep Learning](https://github.com/Arseni1919/Learning_CS224N)
 
-## 🦁🦊🐹 MAS Algorithms
+
+## 🦁🦊🐹 Multi-Agent Systems (MAS)
 
 1. [DCOP | CAMS, Max-Sum_MST, DSA_MST, CADSA, DSSA](https://github.com/Arseni1919/dcop_simulator_3)
 2. [MAPF | CA*, CBS, DSA_MAPF, MGM_MAPF](https://github.com/Arseni1919/MAPF_Simulator)
@@ -47,16 +50,17 @@ Each project is categorized into sections to enhance your browsing experience. T
 4. [MARL | FedRL](https://github.com/Arseni1919/FedRL_implementation)
 5. [MARL | ae_comm](https://github.com/Arseni1919/Implementation_of_AE_COMM)
 
-## 📈 ML and DL Algorithms 
+
+## 📈 Machine Learning (ML) and Deep Learning (DL) 
 
 - [Simple NN + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
 - [Simple RNN, LSTM, GRU + Stocks Usecase](https://github.com/Arseni1919/NT_sandbox)
 - [Learning LSTM](https://github.com/Arseni1919/Learning_LSTM)
 
 `TODO:` Genetic Algorithms, GANs, Regression, Logistic Regression, K-Nearest Neighbors, Naive Bayes, Support Vector Machines (SVM), Monte Carlo Tree Search (MCTS) ([source 1](https://www.youtube.com/watch?v=vDF1BYWhqL8)), Decision Tree, Random Forest, AdaBoost, Gradient Boost, CatBoost, XGBoost, LightGBM, Graph NN ([source 1 - DGL](https://docs.dgl.ai/tutorials/blitz/index.html), [source 2](https://pytorch-lightning.readthedocs.io/en/latest/index.html))
- 
 
-## 🔍  Classical Search & MAPF Algorithms
+
+## 🔍  Classical Search & Multi-Agent Path Finding (MAPF)
 
 - [RRT Implementation - Generic Version](https://github.com/Arseni1919/Simple_Implementation_of_RRT)
 - [A* Implementation - Generic Version](https://github.com/Arseni1919/A_star_Implementation)
@@ -65,27 +69,8 @@ Each project is categorized into sections to enhance your browsing experience. T
 - [MAPF-LNS2 (+SIPPS), PrP (+SIPPS), SIPPS Implementations in Python](https://github.com/Arseni1919/SIPPS_Python_Implementation)
 - [LaCAM (+PIBT), LaCAM* (+PIBT), PIBT Implementations in Python](https://github.com/Arseni1919/LaCAM_PIBT_Python_Implementation)
 
----
 
-## 📝 Research
-
-### Simulation-Based Algorithms
-
-- [MAS simulator](https://github.com/Arseni1919/mas_simulator_1)
-- [DCOP | Toy DCOP Max-sum Simulation](https://github.com/Arseni1919/toy_dcop_max_sum_simulation)
-- [DCOP | Simulator DCOP_MST (version 5)](https://github.com/Arseni1919/dcop_simulator_5) (prev: [(version 1)](https://github.com/Arseni1919/simulator_dcop_mst), [(version 2)](https://github.com/Arseni1919/max_sum_cells_simulator). [(version 3)](https://github.com/Arseni1919/dcop_simulator_3), [(version 4)](https://github.com/Arseni1919/dcop_simulator_4))
-- [DCOP | Project of Ben Rahmut](https://github.com/Arseni1919/Bens_Project)
-- [DCOP | DCOP-MDP Simulator](https://github.com/Arseni1919/DCOP_MDP_Model)
-- [DCOP | Async-DCOP_MST Simulator version 2 (with Ben)](https://github.com/benrachmut/CA_DCOP_MST) (prev: [(version 1 - incorrect)](https://github.com/Arseni1919/Async_DCOP_MST_Simulator))
-- [MAPF | MAPF simulator (version 2)](https://github.com/Arseni1919/MAPF_Simulator_2) (prev: [(version 1)](https://github.com/Arseni1919/MAPF_Simulator))
-- [Gentleman_Algorithm (MAPF)](https://github.com/Arseni1919/Gentleman_Algorithm_MAPF)
-- [Vanila APFs for MAPF | Potential Fields in MAPF](https://github.com/Arseni1919/AvoidCrowdAlgorithm)
-- [APFs for MAPF & LMAPF | Artificial Potential Fields in MAPF and Lifelong MAPF (version 2)](https://github.com/Arseni1919/APFs_for_MAPF_Implementation_v2) (prev: [version 1](https://github.com/Arseni1919/PotentialFields_in_Lifelong-MAPF))
-- [CGA, SACG, CGA-LMAPF | Corridor-Generating Algorithm and Single-Agent Corridor-Generating problem](https://github.com/Arseni1919/Corridor_Generating_Algorithm)
-- [CGA-MAPF | Corridor-Generating Algorithm for MAPF (version 2)](https://github.com/Arseni1919/CGA_MAPF_Implementation_v2)(prev: [version 1](https://github.com/Arseni1919/CGA_MAPF_Algorithm))
-
-
-### 🚗 Robotics Algorithms
+## 🚗 Robotics
 
 - [ROS | ROS Package for Hamster Robots](https://github.com/Arseni1919/ROS-package-to-move-robots-with-my-code)
 - [Search | Voronoi + A* + RRT (robot navigation)](https://github.com/matanSamina/RRT_Project_2021)
@@ -106,6 +91,24 @@ Each project is categorized into sections to enhance your browsing experience. T
 ### Previous Projects
 
 - [(Trading_model_first_trying)](https://github.com/Arseni1919/Trading_model_first_trying), [(streamlit app 1)](https://github.com/Arseni1919/Stocks_Simulator_v2), [(streamlit app 2)](https://github.com/Arseni1919/Market_Analyzer), [(website - flask)](https://github.com/Arseni1919/NT_website), [(website - react)](https://github.com/Arseni1919/NT_website_v2), [(Stocks Gym Env)](https://github.com/Arseni1919/gym-stocktrading)
+
+
+---
+
+## 📝 Research Projects
+
+- [MACGA | Corridor-Generating Algorithm for MAPF (version 2)](https://github.com/Arseni1919/CGA_MAPF_Implementation_v2)(prev: [version 1](https://github.com/Arseni1919/CGA_MAPF_Algorithm))
+- [APFs for MAPF & LMAPF | Artificial Potential Fields in MAPF and Lifelong MAPF (version 2)](https://github.com/Arseni1919/APFs_for_MAPF_Implementation_v2) (prev: [version 1](https://github.com/Arseni1919/PotentialFields_in_Lifelong-MAPF))
+- [CGA, SACG, CGA-LMAPF | Corridor-Generating Algorithm and Single-Agent Corridor-Generating problem](https://github.com/Arseni1919/Corridor_Generating_Algorithm)
+- [DCOP | Simulator DCOP_MST (version 5)](https://github.com/Arseni1919/dcop_simulator_5) (prev: [(version 1)](https://github.com/Arseni1919/simulator_dcop_mst), [(version 2)](https://github.com/Arseni1919/max_sum_cells_simulator). [(version 3)](https://github.com/Arseni1919/dcop_simulator_3), [(version 4)](https://github.com/Arseni1919/dcop_simulator_4))
+- [MAS simulator](https://github.com/Arseni1919/mas_simulator_1)
+- [DCOP | Toy DCOP Max-sum Simulation](https://github.com/Arseni1919/toy_dcop_max_sum_simulation)
+- [DCOP | Project of Ben Rahmut](https://github.com/Arseni1919/Bens_Project)
+- [DCOP | DCOP-MDP Simulator](https://github.com/Arseni1919/DCOP_MDP_Model)
+- [DCOP | Async-DCOP_MST Simulator version 2 (with Ben)](https://github.com/benrachmut/CA_DCOP_MST) (prev: [(version 1 - incorrect)](https://github.com/Arseni1919/Async_DCOP_MST_Simulator))
+- [MAPF | MAPF simulator (version 2)](https://github.com/Arseni1919/MAPF_Simulator_2) (prev: [(version 1)](https://github.com/Arseni1919/MAPF_Simulator))
+- [Gentleman_Algorithm (MAPF)](https://github.com/Arseni1919/Gentleman_Algorithm_MAPF)
+- [Vanila APFs for MAPF | Potential Fields in MAPF](https://github.com/Arseni1919/AvoidCrowdAlgorithm)
 
 ---
 
