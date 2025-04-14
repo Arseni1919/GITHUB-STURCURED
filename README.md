@@ -39,8 +39,9 @@ Each project is categorized into sections to enhance your browsing experience. T
 
 ## 🔠🧬💡 Large Language Models (LLMs)
 1. [🤗 Learning LLMs](https://github.com/Arseni1919/Learning_LLMs)
-2. [🤗 Space: _Table of Contents_ Builder for a big `README.md` file](https://huggingface.co/spaces/ArseniyPerchik/Table_of_Contents_Builder)
-3. [Learning Stanford CS224N: NLP with Deep Learning](https://github.com/Arseni1919/Learning_CS224N)
+2. [🤗 Space: Locate All Necessary Addresses on the Google Map By Couple Clicks](https://huggingface.co/spaces/ArseniyPerchik/Package_Pickup_Organizer)
+3. [🤗 Space: _Table of Contents_ Builder for a big `README.md` file](https://huggingface.co/spaces/ArseniyPerchik/Table_of_Contents_Builder)
+4. [Learning Stanford CS224N: NLP with Deep Learning](https://github.com/Arseni1919/Learning_CS224N)
 
 Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik/my_first_draft))
 
