@@ -325,6 +325,8 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 ## 💎 RL and MARL Implementations (Existing in the World)
 
 - [Stable-Baselines3](https://stable-baselines3.readthedocs.io/en/master/index.html) 🔥🔥🔥
+- [Stable-Baselines3-Contrib](https://sb3-contrib.readthedocs.io/en/master/index.html)
+- [RL Baselines3 Zoo - A Training Framework for Stable Baselines3](https://rl-baselines3-zoo.readthedocs.io/en/master/)
 - [CleanRL](https://docs.cleanrl.dev/) 🔥🔥
 - [RLlib: Industry-Grade, Scalable Reinforcement Learning](https://docs.ray.io/en/latest/rllib/index.html)
 - [BenchMARL](https://benchmarl.readthedocs.io/en/latest/index.html)
