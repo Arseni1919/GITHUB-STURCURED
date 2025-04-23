@@ -40,7 +40,8 @@ Each project is categorized into sections to enhance your browsing experience. T
 
 ## 🔠🧬💡 Large Language Models (LLMs)
 1. [🤗 Learning LLMs](https://github.com/Arseni1919/Learning_LLMs)
-2. [Learning Stanford CS224N: NLP with Deep Learning](https://github.com/Arseni1919/Learning_CS224N)
+2. [🤗 Learning Agents](https://github.com/Arseni1919/Learning_LLM_Agents)
+3. [Learning Stanford CS224N: NLP with Deep Learning](https://github.com/Arseni1919/Learning_CS224N)
 
 ### 🤗🎮⛹️‍♀️ Spaces
 
