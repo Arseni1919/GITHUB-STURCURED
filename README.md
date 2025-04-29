@@ -24,24 +24,27 @@ Each project is categorized into sections to enhance your browsing experience. T
 
 1. [Learning RL & MARL](https://github.com/Arseni1919/Learning_DRL)
 2. [Learning SB3](https://github.com/Arseni1919/Learning_SB3)
-3. [Learning Multi-Armed Bandits](https://github.com/Arseni1919/Learning_Multi_Armed_Bandits)
-4. [Learning Dynamic Programming (Policy Iteration, Value Iteration)](https://github.com/Arseni1919/Learning_Policy_Iteration)
-5. [Learning Monte-Carlo RL](https://github.com/Arseni1919/Learning_Monte_Carlo_RL)
-6. [Learning TD-Learning](https://github.com/Arseni1919/Learning_TD_Learning)
-7. [Gather Game](https://github.com/Arseni1919/Gather_Game)
-8. [Template for PL Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJECT)
-9. [DQN](https://github.com/Arseni1919/PL_DQN) ([variant 2](https://github.com/Arseni1919/DQN_implementation_from_pytorch_lightning_website), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym)) 
-10. [REINFORCE](https://github.com/Arseni1919/PL_REINFORCE) ([variant 2](https://github.com/Arseni1919/Implementation-of-REINFORCE-with-PyTorch-Lightning), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym)) 
-11. [A2C](https://github.com/Arseni1919/PL_A2C) (A3C)
-12. [PPO](https://github.com/Arseni1919/PL_PPO) ([variant 2](https://github.com/Arseni1919/PPO_implementation_variant_2))
-13. [DDPG](https://github.com/Arseni1919/PL_DDPG) ([variant 2](https://github.com/Arseni1919/Mountain_Car_DDPG))
-14. [SAC](https://github.com/Arseni1919/SAC_algorithm) 
+3. [Learning Gym (OpenAI)](https://github.com/Arseni1919/Learning_Gym_OpenAI)
+4. [Learning PettingZoo Environments](https://github.com/Arseni1919/Learning_PettingZoo)
+5. [Learning Multi-Armed Bandits](https://github.com/Arseni1919/Learning_Multi_Armed_Bandits)
+6. [Learning Dynamic Programming (Policy Iteration, Value Iteration)](https://github.com/Arseni1919/Learning_Policy_Iteration)
+7. [Learning Monte-Carlo RL](https://github.com/Arseni1919/Learning_Monte_Carlo_RL)
+8. [Learning TD-Learning](https://github.com/Arseni1919/Learning_TD_Learning)
+9. [Gather Game](https://github.com/Arseni1919/Gather_Game)
+10. [Template for PL Project](https://github.com/Arseni1919/PL_TEMPLATE_PROJECT)
+11. [DQN](https://github.com/Arseni1919/PL_DQN) ([variant 2](https://github.com/Arseni1919/DQN_implementation_from_pytorch_lightning_website), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym)) 
+12. [REINFORCE](https://github.com/Arseni1919/PL_REINFORCE) ([variant 2](https://github.com/Arseni1919/Implementation-of-REINFORCE-with-PyTorch-Lightning), [variant 3](https://github.com/Arseni1919/Deep-RL-implementations-with-gym)) 
+13. [A2C](https://github.com/Arseni1919/PL_A2C) (A3C)
+14. [PPO](https://github.com/Arseni1919/PL_PPO) ([variant 2](https://github.com/Arseni1919/PPO_implementation_variant_2))
+15. [DDPG](https://github.com/Arseni1919/PL_DDPG) ([variant 2](https://github.com/Arseni1919/Mountain_Car_DDPG))
+16. [SAC](https://github.com/Arseni1919/SAC_algorithm) 
 
 
 ## 🔠🧬💡 Large Language Models (LLMs)
 1. [🤗 Learning LLMs](https://github.com/Arseni1919/Learning_LLMs)
 2. [🤗 Learning Agents](https://github.com/Arseni1919/Learning_LLM_Agents)
 3. [Learning Stanford CS224N: NLP with Deep Learning](https://github.com/Arseni1919/Learning_CS224N)
+4. [Learning GPT with Karpathy](https://github.com/Arseni1919/GPT_with_Karpathy)
 
 ### 🤗🎮⛹️‍♀️ Spaces
 
@@ -86,6 +89,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 - [Search | Voronoi + A* + RRT (robot navigation)](https://github.com/matanSamina/RRT_Project_2021)
 - [DCOP | Implementation of Max-Sum_MST in ROS Platform](https://github.com/Arseni1919/max_sum_ROS_implementation)
 - [DCOP | Implementation of CAMS in ROS Platform](https://github.com/Arseni1919/max_sum_cells_ROS)
+- [Learning ROS Essentials](https://github.com/Arseni1919/ROS-essentianls)
 
 ---
 
@@ -124,11 +128,15 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 
 ## Other Projects
 
+### 🔥🐍🔥 PyTorch
+
+- [Learning PyTorch](https://github.com/Arseni1919/pytorch_tutorials)
+- [Learning PyTorch Geometric](https://github.com/Arseni1919/Learning_PyG)
+
+
 ### 🏛️ Skills
 
 - [Learning Git and GitHub](https://github.com/Arseni1919/Learning_git)
-- [Learning PyTorch](https://github.com/Arseni1919/pytorch_tutorials)
-- [Learning ROS Essentials](https://github.com/Arseni1919/ROS-essentianls)
 - [Learning PL](https://github.com/Arseni1919/PyTorch_Lightning_example)
 - [Learning SimPy](https://github.com/Arseni1919/Learning_SimPy)
 - [Learning Tkinter](https://github.com/Arseni1919/Learning_Tkinter)
@@ -140,15 +148,11 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 - [Learning Pygame 1](https://github.com/Arseni1919/pygame_example)
 - [Learning Pygame 2](https://github.com/Arseni1919/Learning_pygame_2)
 - [Learning SQLite](https://github.com/Arseni1919/Learning_SQLite)
-- [Learning Gym (OpenAI)](https://github.com/Arseni1919/Learning_Gym_OpenAI)
-- [Learning PettingZoo Environments](https://github.com/Arseni1919/Learning_PettingZoo)
 - [Learning Docker](https://github.com/Arseni1919/Learning_Docker)
-- [Learning PyTorch Geometric](https://github.com/Arseni1919/Learning_PyG)
 - [Learning Electron](https://github.com/Arseni1919/Learning_Electron)
 - [Learning C++](https://github.com/Arseni1919/Learning_C_plus_plus)
 - [Learning Streamlit](https://github.com/Arseni1919/Learning_Streamlit)
 - [Learning FFT](https://github.com/Arseni1919/Learning_FFT)
-- [Learning GPT with Karpathy](https://github.com/Arseni1919/GPT_with_Karpathy)
 - [Learning Pogema](https://github.com/Arseni1919/Learning_Pogema)
 
 ### 🐍 Python
