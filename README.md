@@ -111,6 +111,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 
 ## 📝 Research Projects
 
+- [MAPF-DO: MAPF with Dynamic Obstacles](https://github.com/Arseni1919/MAPF_DO_Project_v1)
 - [MACGA | Corridor-Generating Algorithm for MAPF (version 2)](https://github.com/Arseni1919/CGA_MAPF_Implementation_v2)(prev: [version 1](https://github.com/Arseni1919/CGA_MAPF_Algorithm))
 - [APFs for MAPF & LMAPF | Artificial Potential Fields in MAPF and Lifelong MAPF (version 2)](https://github.com/Arseni1919/APFs_for_MAPF_Implementation_v2) (prev: [version 1](https://github.com/Arseni1919/PotentialFields_in_Lifelong-MAPF))
 - [CGA, SACG, CGA-LMAPF | Corridor-Generating Algorithm and Single-Agent Corridor-Generating problem](https://github.com/Arseni1919/Corridor_Generating_Algorithm)
