@@ -333,6 +333,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 - [IR-SIM](https://ir-sim.readthedocs.io/en/latest/index.html#)
 - [Safety-Gymnasium](https://safety-gymnasium.readthedocs.io/en/latest/index.html)
 - [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
+- [RoboVerse](https://roboverse.wiki/)
 
 ## 💎 RL and MARL Implementations (Existing in the World)
 
