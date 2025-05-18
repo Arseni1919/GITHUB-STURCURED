@@ -355,6 +355,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 
 ## 🎥 Important Videos
 - [Entropy, Cross-Entropy, and KL-Divergence](https://www.youtube.com/watch?v=ErfnhcEV1O8)
+- [Illusions of Competence](https://www.coursera.org/lecture/learning-how-to-learn/illusions-of-competence-BuFzf)
 
 <!--```markdown
 Syntax highlighted code block 
