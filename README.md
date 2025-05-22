@@ -321,6 +321,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 - [Multi-Car Racing Gym Environment](https://github.com/igilitschenski/multi_car_racing)
 - [SMAC-v1 - StarCraft Multi-Agent Challenge](https://github.com/oxwhirl/smac/tree/master)
 - [SMAC-v2](https://github.com/oxwhirl/smacv2)
+- [HIVEX](https://github.com/hivex-research/hivex)
 
 #### Mixed & Others
 - [OpenAI Gym / PettingZoo / MiniGrid](https://farama.org/)
