@@ -115,7 +115,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 - [MACGA | Corridor-Generating Algorithm for MAPF (version 2)](https://github.com/Arseni1919/CGA_MAPF_Implementation_v2)(prev: [version 1](https://github.com/Arseni1919/CGA_MAPF_Algorithm))
 - [APFs for MAPF & LMAPF | Artificial Potential Fields in MAPF and Lifelong MAPF (version 2)](https://github.com/Arseni1919/APFs_for_MAPF_Implementation_v2) (prev: [version 1](https://github.com/Arseni1919/PotentialFields_in_Lifelong-MAPF))
 - [CGA, SACG, CGA-LMAPF | Corridor-Generating Algorithm and Single-Agent Corridor-Generating problem](https://github.com/Arseni1919/Corridor_Generating_Algorithm)
-- [DCOP | Simulator DCOP_MST (version 5)](https://github.com/Arseni1919/dcop_simulator_5) (prev: [(version 1)](https://github.com/Arseni1919/simulator_dcop_mst), [(version 2)](https://github.com/Arseni1919/max_sum_cells_simulator). [(version 3)](https://github.com/Arseni1919/dcop_simulator_3), [(version 4)](https://github.com/Arseni1919/dcop_simulator_4))
+- [DCOP | Simulator DCOP_MST (version 5)](https://github.com/Arseni1919/dcop_simulator_5) (prev: [(version 1)](https://github.com/Arseni1919/simulator_dcop_mst), [(version 2)](https://github.com/Arseni1919/max_sum_cells_simulator), [(version 3)](https://github.com/Arseni1919/dcop_simulator_3), [(version 4)](https://github.com/Arseni1919/dcop_simulator_4))
 - [MAS simulator](https://github.com/Arseni1919/mas_simulator_1)
 - [DCOP | Toy DCOP Max-sum Simulation](https://github.com/Arseni1919/toy_dcop_max_sum_simulation)
 - [DCOP | Project of Ben Rahmut](https://github.com/Arseni1919/Bens_Project)
