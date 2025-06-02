@@ -51,6 +51,7 @@ Each project is categorized into sections to enhance your browsing experience. T
 1. [🤗 Space: Agent Control with Language](https://huggingface.co/spaces/ArseniyPerchik/Agent_Control_with_Language)
 2. [🤗 Space: Locate All Necessary Addresses on the Google Map By Couple Clicks](https://huggingface.co/spaces/ArseniyPerchik/Package_Pickup_Organizer)
 3. [🤗 Space: _Table of Contents_ Builder for a big `README.md` file](https://huggingface.co/spaces/ArseniyPerchik/Table_of_Contents_Builder)
+4. [🤗 Space: My first simple RAG agent](https://huggingface.co/spaces/ArseniyPerchik/RAG_Agent)
 
 Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik/my_first_draft))
 
