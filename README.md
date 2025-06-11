@@ -77,7 +77,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 `TODO:` Genetic Algorithms, GANs, Regression, Logistic Regression, K-Nearest Neighbors, Naive Bayes, Support Vector Machines (SVM), Monte Carlo Tree Search (MCTS) ([source 1](https://www.youtube.com/watch?v=vDF1BYWhqL8)), Decision Tree, Random Forest, AdaBoost, Gradient Boost, CatBoost, XGBoost, LightGBM, Graph NN ([source 1 - DGL](https://docs.dgl.ai/tutorials/blitz/index.html), [source 2](https://pytorch-lightning.readthedocs.io/en/latest/index.html))
 
 
-## 🔍  Classical Search & Multi-Agent Path Finding (MAPF)
+## 🔍  Classical Search/Planning & Multi-Agent Path Finding (MAPF)
 
 - [RRT Implementation - Generic Version](https://github.com/Arseni1919/Simple_Implementation_of_RRT)
 - [A* Implementation - Generic Version](https://github.com/Arseni1919/A_star_Implementation)
