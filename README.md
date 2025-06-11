@@ -40,7 +40,7 @@ Each project is categorized into sections to enhance your browsing experience. T
 16. [SAC](https://github.com/Arseni1919/SAC_algorithm) 
 
 
-## 🔠🧬💡 Large Language Models (LLMs)
+## 🔠🧬💡 Large Language Models (LLMs) + Transformers
 
 1. [🦜🔗 Learning LangGraph](https://github.com/Arseni1919/Learning_LangGraph)
 2. [🤗 Learning Agents](https://github.com/Arseni1919/Learning_LLM_Agents)
