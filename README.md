@@ -44,7 +44,7 @@ Each project is categorized into sections to enhance your browsing experience. T
 
 1. [🦜🔗 Learning LangGraph](https://github.com/Arseni1919/Learning_LangGraph)
 2. [🤗 Learning Agents](https://github.com/Arseni1919/Learning_LLM_Agents)
-3. [🤗 Learning LLMs](https://github.com/Arseni1919/Learning_LLMs)
+3. [🤗 Learning LLMs (papers in wiki)](https://github.com/Arseni1919/Learning_LLMs)
 4. [Learning Stanford CS224N: NLP with Deep Learning](https://github.com/Arseni1919/Learning_CS224N)
 5. [Learning GPT with Karpathy](https://github.com/Arseni1919/GPT_with_Karpathy)
 
