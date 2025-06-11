@@ -59,13 +59,28 @@ Each project is categorized into sections to enhance your browsing experience. T
 Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik/my_first_draft))
 
 
-## 🦁🦊🐹 Multi-Agent Systems (MAS)
+## 🦁🦊🐹 Multi-Agent Systems (MAS) & Multi-Agent Path Finding (MAPF)
 
-1. [DCOP | CAMS, Max-Sum_MST, DSA_MST, CADSA, DSSA](https://github.com/Arseni1919/dcop_simulator_3)
-2. [MAPF | CA*, CBS, DSA_MAPF, MGM_MAPF](https://github.com/Arseni1919/MAPF_Simulator)
-3. [MARL | PPO in MA setting](https://github.com/Arseni1919/MADDPG_algorithm)
-4. [MARL | FedRL](https://github.com/Arseni1919/FedRL_implementation)
-5. [MARL | ae_comm](https://github.com/Arseni1919/Implementation_of_AE_COMM)
+- [MACGA | Corridor-Generating Algorithm for MAPF (version 2)](https://github.com/Arseni1919/CGA_MAPF_Implementation_v2)(prev: [version 1](https://github.com/Arseni1919/CGA_MAPF_Algorithm))
+- [APFs for MAPF & LMAPF | Artificial Potential Fields in MAPF and Lifelong MAPF (version 2)](https://github.com/Arseni1919/APFs_for_MAPF_Implementation_v2) (prev: [version 1](https://github.com/Arseni1919/PotentialFields_in_Lifelong-MAPF))
+- [CGA, SACG, CGA-LMAPF | Corridor-Generating Algorithm and Single-Agent Corridor-Generating problem](https://github.com/Arseni1919/Corridor_Generating_Algorithm)
+- [MAPF-LNS2 (+SIPPS), PrP (+SIPPS), SIPPS Implementations in Python](https://github.com/Arseni1919/SIPPS_Python_Implementation)
+- [LaCAM (+PIBT), LaCAM* (+PIBT), PIBT Implementations in Python](https://github.com/Arseni1919/LaCAM_PIBT_Python_Implementation)
+- [DCOP | Simulator DCOP_MST (version 5)](https://github.com/Arseni1919/dcop_simulator_5) (prev: [(version 1)](https://github.com/Arseni1919/simulator_dcop_mst), [(version 2)](https://github.com/Arseni1919/max_sum_cells_simulator), [(version 3)](https://github.com/Arseni1919/dcop_simulator_3), [(version 4)](https://github.com/Arseni1919/dcop_simulator_4))
+- [DCOP | CAMS, Max-Sum_MST, DSA_MST, CADSA, DSSA](https://github.com/Arseni1919/dcop_simulator_3)
+- [MAPF | CA*, CBS, DSA_MAPF, MGM_MAPF](https://github.com/Arseni1919/MAPF_Simulator)
+- [MARL | PPO in MA setting](https://github.com/Arseni1919/MADDPG_algorithm)
+- [MARL | FedRL](https://github.com/Arseni1919/FedRL_implementation)
+- [MARL | ae_comm](https://github.com/Arseni1919/Implementation_of_AE_COMM)
+- [MAPF-DO: MAPF with Dynamic Obstacles](https://github.com/Arseni1919/MAPF_DO_Project_v1)
+- [MAS simulator](https://github.com/Arseni1919/mas_simulator_1)
+- [DCOP | Toy DCOP Max-sum Simulation](https://github.com/Arseni1919/toy_dcop_max_sum_simulation)
+- [DCOP | Project of Ben Rahmut](https://github.com/Arseni1919/Bens_Project)
+- [DCOP | DCOP-MDP Simulator](https://github.com/Arseni1919/DCOP_MDP_Model)
+- [DCOP | Async-DCOP_MST Simulator version 2 (with Ben)](https://github.com/benrachmut/CA_DCOP_MST) (prev: [(version 1 - incorrect)](https://github.com/Arseni1919/Async_DCOP_MST_Simulator))
+- [MAPF | MAPF simulator (version 2)](https://github.com/Arseni1919/MAPF_Simulator_2) (prev: [(version 1)](https://github.com/Arseni1919/MAPF_Simulator))
+- [MAPF | Gentleman_Algorithm](https://github.com/Arseni1919/Gentleman_Algorithm_MAPF)
+- [MAPF | Vanila APFs for MAPF | Potential Fields in MAPF](https://github.com/Arseni1919/AvoidCrowdAlgorithm)
 
 
 ## 📈 Machine Learning (ML) and Deep Learning (DL) 
@@ -77,14 +92,12 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 `TODO:` Genetic Algorithms, GANs, Regression, Logistic Regression, K-Nearest Neighbors, Naive Bayes, Support Vector Machines (SVM), Monte Carlo Tree Search (MCTS) ([source 1](https://www.youtube.com/watch?v=vDF1BYWhqL8)), Decision Tree, Random Forest, AdaBoost, Gradient Boost, CatBoost, XGBoost, LightGBM, Graph NN ([source 1 - DGL](https://docs.dgl.ai/tutorials/blitz/index.html), [source 2](https://pytorch-lightning.readthedocs.io/en/latest/index.html))
 
 
-## 🔍  Classical Search/Planning & Multi-Agent Path Finding (MAPF)
+## 🔍  Classical Search/Planning
 
 - [RRT Implementation - Generic Version](https://github.com/Arseni1919/Simple_Implementation_of_RRT)
 - [A* Implementation - Generic Version](https://github.com/Arseni1919/A_star_Implementation)
 - [A* Simulator - Pathfinding](https://github.com/Arseni1919/A_star_simulator)
 - [Learning Topological Sorting](https://github.com/Arseni1919/Learning_Topological_Sorting)
-- [MAPF-LNS2 (+SIPPS), PrP (+SIPPS), SIPPS Implementations in Python](https://github.com/Arseni1919/SIPPS_Python_Implementation)
-- [LaCAM (+PIBT), LaCAM* (+PIBT), PIBT Implementations in Python](https://github.com/Arseni1919/LaCAM_PIBT_Python_Implementation)
 
 
 ## 🚗 Robotics
@@ -94,8 +107,6 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 - [DCOP | Implementation of Max-Sum_MST in ROS Platform](https://github.com/Arseni1919/max_sum_ROS_implementation)
 - [DCOP | Implementation of CAMS in ROS Platform](https://github.com/Arseni1919/max_sum_cells_ROS)
 - [Learning ROS Essentials](https://github.com/Arseni1919/ROS-essentianls)
-
----
 
 ## 💵 Trading 
 
@@ -109,25 +120,6 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 ### Previous Projects
 
 - [(Trading_model_first_trying)](https://github.com/Arseni1919/Trading_model_first_trying), [(streamlit app 1)](https://github.com/Arseni1919/Stocks_Simulator_v2), [(streamlit app 2)](https://github.com/Arseni1919/Market_Analyzer), [(website - flask)](https://github.com/Arseni1919/NT_website), [(website - react)](https://github.com/Arseni1919/NT_website_v2), [(Stocks Gym Env)](https://github.com/Arseni1919/gym-stocktrading)
-
-
----
-
-## 📝 Research Projects
-
-- [MAPF-DO: MAPF with Dynamic Obstacles](https://github.com/Arseni1919/MAPF_DO_Project_v1)
-- [MACGA | Corridor-Generating Algorithm for MAPF (version 2)](https://github.com/Arseni1919/CGA_MAPF_Implementation_v2)(prev: [version 1](https://github.com/Arseni1919/CGA_MAPF_Algorithm))
-- [APFs for MAPF & LMAPF | Artificial Potential Fields in MAPF and Lifelong MAPF (version 2)](https://github.com/Arseni1919/APFs_for_MAPF_Implementation_v2) (prev: [version 1](https://github.com/Arseni1919/PotentialFields_in_Lifelong-MAPF))
-- [CGA, SACG, CGA-LMAPF | Corridor-Generating Algorithm and Single-Agent Corridor-Generating problem](https://github.com/Arseni1919/Corridor_Generating_Algorithm)
-- [DCOP | Simulator DCOP_MST (version 5)](https://github.com/Arseni1919/dcop_simulator_5) (prev: [(version 1)](https://github.com/Arseni1919/simulator_dcop_mst), [(version 2)](https://github.com/Arseni1919/max_sum_cells_simulator), [(version 3)](https://github.com/Arseni1919/dcop_simulator_3), [(version 4)](https://github.com/Arseni1919/dcop_simulator_4))
-- [MAS simulator](https://github.com/Arseni1919/mas_simulator_1)
-- [DCOP | Toy DCOP Max-sum Simulation](https://github.com/Arseni1919/toy_dcop_max_sum_simulation)
-- [DCOP | Project of Ben Rahmut](https://github.com/Arseni1919/Bens_Project)
-- [DCOP | DCOP-MDP Simulator](https://github.com/Arseni1919/DCOP_MDP_Model)
-- [DCOP | Async-DCOP_MST Simulator version 2 (with Ben)](https://github.com/benrachmut/CA_DCOP_MST) (prev: [(version 1 - incorrect)](https://github.com/Arseni1919/Async_DCOP_MST_Simulator))
-- [MAPF | MAPF simulator (version 2)](https://github.com/Arseni1919/MAPF_Simulator_2) (prev: [(version 1)](https://github.com/Arseni1919/MAPF_Simulator))
-- [Gentleman_Algorithm (MAPF)](https://github.com/Arseni1919/Gentleman_Algorithm_MAPF)
-- [Vanila APFs for MAPF | Potential Fields in MAPF](https://github.com/Arseni1919/AvoidCrowdAlgorithm)
 
 ---
 
