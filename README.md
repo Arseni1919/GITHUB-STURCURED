@@ -22,7 +22,7 @@ Each project is categorized into sections to enhance your browsing experience. T
 
 ## 🦁🏆🚔 Reinforcement Learning (RL)
 
-1. [Learning RL & MARL](https://github.com/Arseni1919/Learning_DRL)
+1. [Learning RL & MARL (papers in wiki)](https://github.com/Arseni1919/Learning_DRL)
 2. [Learning SB3](https://github.com/Arseni1919/Learning_SB3)
 3. [Learning Gym (OpenAI)](https://github.com/Arseni1919/Learning_Gym_OpenAI)
 4. [Learning PettingZoo Environments](https://github.com/Arseni1919/Learning_PettingZoo)
