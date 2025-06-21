@@ -42,7 +42,7 @@ Each project is categorized into sections to enhance your browsing experience. T
 
 ## 🔠🧬💡 Large Language Models (LLMs) + Transformers
 
-1.[🤗 Learning MCP](https://github.com/Arseni1919/Learning_MCP)
+1. [🤗 Learning MCP](https://github.com/Arseni1919/Learning_MCP)
 2. [🦜🔗 Learning LangGraph](https://github.com/Arseni1919/Learning_LangGraph)
 3. [🤗 Learning Agents](https://github.com/Arseni1919/Learning_LLM_Agents)
 4. [🤗 Learning LLMs (papers in wiki)](https://github.com/Arseni1919/Learning_LLMs)
