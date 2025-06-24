@@ -51,11 +51,12 @@ Each project is categorized into sections to enhance your browsing experience. T
 
 ### 🤗🎮⛹️‍♀️ Spaces
 
-1. [🤗 Space: Agent Control with Language](https://huggingface.co/spaces/ArseniyPerchik/Agent_Control_with_Language)
-2. [🤗 Space: Locate All Necessary Addresses on the Google Map By Couple Clicks](https://huggingface.co/spaces/ArseniyPerchik/Package_Pickup_Organizer)
-3. [🤗 Space: _Table of Contents_ Builder for a big `README.md` file](https://huggingface.co/spaces/ArseniyPerchik/Table_of_Contents_Builder)
-4. [🤗 Space: My first simple RAG agent](https://huggingface.co/spaces/ArseniyPerchik/RAG_Agent)
-5. [🤗 Space: Final Assignment of the HuggingFace's Agent Course](https://huggingface.co/spaces/ArseniyPerchik/Final_Assignment_Template/tree/main)
+1. [🤗 Space: LLM Assistant for MAPF](https://huggingface.co/spaces/ArseniyPerchik/MAPF_Solver)
+2. [🤗 Space: Agent Control with Language](https://huggingface.co/spaces/ArseniyPerchik/Agent_Control_with_Language)
+3. [🤗 Space: Locate All Necessary Addresses on the Google Map By Couple Clicks](https://huggingface.co/spaces/ArseniyPerchik/Package_Pickup_Organizer)
+4. [🤗 Space: _Table of Contents_ Builder for a big `README.md` file](https://huggingface.co/spaces/ArseniyPerchik/Table_of_Contents_Builder)
+5. [🤗 Space: My first simple RAG agent](https://huggingface.co/spaces/ArseniyPerchik/RAG_Agent)
+6. [🤗 Space: Final Assignment of the HuggingFace's Agent Course](https://huggingface.co/spaces/ArseniyPerchik/Final_Assignment_Template/tree/main)
 
 Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik/my_first_draft))
 
