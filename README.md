@@ -138,6 +138,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 ### 🏛️ Skills
 
 - [Learning Gradio.app](https://github.com/Arseni1919/Learning_Gradio)
+- [Learning Pydantic](https://github.com/Arseni1919/Learning_Pydantic)
 - [Learning Matplotlib Animation](https://github.com/Arseni1919/Learning_Matplotlib_Animation)
 - [Learning Git and GitHub](https://github.com/Arseni1919/Learning_git)
 - [Learning PL](https://github.com/Arseni1919/PyTorch_Lightning_example)
