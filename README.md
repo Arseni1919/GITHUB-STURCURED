@@ -138,6 +138,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 ### 🏛️ Skills
 
 - [Learning Gradio.app](https://github.com/Arseni1919/Learning_Gradio)
+- [Learning Matplotlib Animation](https://github.com/Arseni1919/Learning_Matplotlib_Animation)
 - [Learning Git and GitHub](https://github.com/Arseni1919/Learning_git)
 - [Learning PL](https://github.com/Arseni1919/PyTorch_Lightning_example)
 - [Learning SimPy](https://github.com/Arseni1919/Learning_SimPy)
@@ -173,7 +174,6 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 - [Learning Collections](https://github.com/Arseni1919/Learning_Collections)
 - [Learning @property](https://github.com/Arseni1919/Learning_Property_Python)
 - [Learning Regexes](https://github.com/Arseni1919/Learning_Regexes)
-- [Learning Matplotlib Animation](https://github.com/Arseni1919/Learning_Matplotlib_Animation)
 
 ### 🖥️ WEB
 
