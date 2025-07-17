@@ -106,6 +106,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 
 ## 🚗 Robotics
 
+- [Learning ROS2](https://github.com/Arseni1919/Learning_ROS2)
 - [ROS | ROS Package for Hamster Robots](https://github.com/Arseni1919/ROS-package-to-move-robots-with-my-code)
 - [Search | Voronoi + A* + RRT (robot navigation)](https://github.com/matanSamina/RRT_Project_2021)
 - [DCOP | Implementation of Max-Sum_MST in ROS Platform](https://github.com/Arseni1919/max_sum_ROS_implementation)
