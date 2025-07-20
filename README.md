@@ -96,7 +96,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 `TODO:` Genetic Algorithms, GANs, Regression, Logistic Regression, K-Nearest Neighbors, Naive Bayes, Support Vector Machines (SVM), Monte Carlo Tree Search (MCTS) ([source 1](https://www.youtube.com/watch?v=vDF1BYWhqL8)), Decision Tree, Random Forest, AdaBoost, Gradient Boost, CatBoost, XGBoost, LightGBM, Graph NN ([source 1 - DGL](https://docs.dgl.ai/tutorials/blitz/index.html), [source 2](https://pytorch-lightning.readthedocs.io/en/latest/index.html))
 
 
-## 🔍  Classical Search/Planning
+## 🔍 Classical Search/Planning
 
 - [RRT Implementation - Generic Version](https://github.com/Arseni1919/Simple_Implementation_of_RRT)
 - [A* Implementation - Generic Version](https://github.com/Arseni1919/A_star_Implementation)
@@ -121,6 +121,9 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 - [GA in stocks](https://github.com/kirilgravis/GA_Invest)
 - [Learning from "Advances in Financial ML" book](https://github.com/Arseni1919/Learning_AiFML)
 - [Learning from "ML for Trading" book](https://github.com/Arseni1919/ML_For_Trading_Book_Codedrafts)
+
+## 🧑‍💼🤖💵 Xtend Robotics
+- [Learning Xtend Robots](https://github.com/Arseni1919/Learning_Xtend_Robots)
 
 ### Previous Projects
 
