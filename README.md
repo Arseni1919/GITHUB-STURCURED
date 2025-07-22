@@ -125,6 +125,10 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 ## 🧑‍💼🤖💵 Xtend Robotics
 - [Learning Xtend Robots](https://github.com/Arseni1919/Learning_Xtend_Robots)
 
+## 💻👩‍❤️‍👨💰 Building Products / Businesses / Companies
+
+- [BASE123](https://github.com/Arseni1919/Building_BASE123)
+
 ### Previous Projects
 
 - [(Trading_model_first_trying)](https://github.com/Arseni1919/Trading_model_first_trying), [(streamlit app 1)](https://github.com/Arseni1919/Stocks_Simulator_v2), [(streamlit app 2)](https://github.com/Arseni1919/Market_Analyzer), [(website - flask)](https://github.com/Arseni1919/NT_website), [(website - react)](https://github.com/Arseni1919/NT_website_v2), [(Stocks Gym Env)](https://github.com/Arseni1919/gym-stocktrading)
