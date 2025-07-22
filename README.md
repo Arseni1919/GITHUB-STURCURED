@@ -122,16 +122,14 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 - [Learning from "Advances in Financial ML" book](https://github.com/Arseni1919/Learning_AiFML)
 - [Learning from "ML for Trading" book](https://github.com/Arseni1919/ML_For_Trading_Book_Codedrafts)
 
+---
+
 ## 🧑‍💼🤖💵 Xtend Robotics
 - [Learning Xtend Robots](https://github.com/Arseni1919/Learning_Xtend_Robots)
 
 ## 💻👩‍❤️‍👨💰 Building Products / Businesses / Companies
 
 - [BASE123](https://github.com/Arseni1919/Building_BASE123)
-
-### Previous Projects
-
-- [(Trading_model_first_trying)](https://github.com/Arseni1919/Trading_model_first_trying), [(streamlit app 1)](https://github.com/Arseni1919/Stocks_Simulator_v2), [(streamlit app 2)](https://github.com/Arseni1919/Market_Analyzer), [(website - flask)](https://github.com/Arseni1919/NT_website), [(website - react)](https://github.com/Arseni1919/NT_website_v2), [(Stocks Gym Env)](https://github.com/Arseni1919/gym-stocktrading)
 
 ---
 
@@ -267,6 +265,12 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 - [Forked: Smart Home Simulator - FinalProject](https://github.com/Arseni1919/FinalProject)
 - [Forked: Smart Home Simulator - FinalProjectWrapping](https://github.com/Arseni1919/FinalProjectWrapping)
 - [Interview Questions at Mentee Robotics](https://github.com/Arseni1919/Mentee_Interview)
+- [(Trading_model_first_trying)](https://github.com/Arseni1919/Trading_model_first_trying)
+- [(streamlit app 1)](https://github.com/Arseni1919/Stocks_Simulator_v2)
+- [(streamlit app 2)](https://github.com/Arseni1919/Market_Analyzer)
+- [(website - flask)](https://github.com/Arseni1919/NT_website)
+- [(website - react)](https://github.com/Arseni1919/NT_website_v2)
+- [(Stocks Gym Env)](https://github.com/Arseni1919/gym-stocktrading)
 
 ---
 
