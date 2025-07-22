@@ -165,24 +165,6 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 - [Learning FFT](https://github.com/Arseni1919/Learning_FFT)
 - [Learning Pogema](https://github.com/Arseni1919/Learning_Pogema)
 
-### 🐍 Python
-- [Learning Python](https://github.com/Arseni1919/Learning_Python)
-- [Learning Seed in Python](https://github.com/Arseni1919/Learning_Seed_Python)
-- [Learning Python Tricks](https://github.com/Arseni1919/Python-Tricks-book-examples)
-- [Learning cProfile](https://github.com/Arseni1919/Learning_cProfile)
-- [Learning Threading in Python](https://github.com/Arseni1919/Learning_Threading_python)
-- [Learning to save files in Python](https://github.com/Arseni1919/Learning_To_Save)
-- [Learning Datetime](https://github.com/Arseni1919/Learning_Datetime)
-- [Learning Async IO](https://github.com/Arseni1919/Learning_AsyncIO)
-- [Learning Python Decorators](https://github.com/Arseni1919/Learning_Python_Decorators)
-- [Learning f-strings](https://github.com/Arseni1919/Learning_f_strings)
-- [Learning Dataclasses](https://github.com/Arseni1919/Learning_dataclasses)
-- [Learning Type-Checking in Python](https://github.com/Arseni1919/Learning_Type_Checking_Python)
-- [Learning Magic Methods in Python](https://github.com/Arseni1919/Learning_Magic_Methods)
-- [Learning Collections](https://github.com/Arseni1919/Learning_Collections)
-- [Learning @property](https://github.com/Arseni1919/Learning_Property_Python)
-- [Learning Regexes](https://github.com/Arseni1919/Learning_Regexes)
-
 ### 🖥️ WEB
 
 - [Learning HTML](https://github.com/Arseni1919/Learning_HTML)
@@ -201,6 +183,25 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 - [Learning Dash](https://github.com/Arseni1919/Learning_Dash) ([source 1](https://dash.plotly.com/installation))
 - [Learning React + Flask + MongpDB](https://github.com/Arseni1919/learning_react_flask_mongodb)
 - [Learning MongoDB](https://github.com/Arseni1919/Learning_mongodb)
+
+### 🐍 Python
+- [Learning Python](https://github.com/Arseni1919/Learning_Python)
+- [Learning Seed in Python](https://github.com/Arseni1919/Learning_Seed_Python)
+- [Learning Python Tricks](https://github.com/Arseni1919/Python-Tricks-book-examples)
+- [Learning cProfile](https://github.com/Arseni1919/Learning_cProfile)
+- [Learning Threading in Python](https://github.com/Arseni1919/Learning_Threading_python)
+- [Learning to save files in Python](https://github.com/Arseni1919/Learning_To_Save)
+- [Learning Datetime](https://github.com/Arseni1919/Learning_Datetime)
+- [Learning Async IO](https://github.com/Arseni1919/Learning_AsyncIO)
+- [Learning Python Decorators](https://github.com/Arseni1919/Learning_Python_Decorators)
+- [Learning f-strings](https://github.com/Arseni1919/Learning_f_strings)
+- [Learning Dataclasses](https://github.com/Arseni1919/Learning_dataclasses)
+- [Learning Type-Checking in Python](https://github.com/Arseni1919/Learning_Type_Checking_Python)
+- [Learning Magic Methods in Python](https://github.com/Arseni1919/Learning_Magic_Methods)
+- [Learning Collections](https://github.com/Arseni1919/Learning_Collections)
+- [Learning @property](https://github.com/Arseni1919/Learning_Property_Python)
+- [Learning Regexes](https://github.com/Arseni1919/Learning_Regexes)
+
 
 ### 🎓 University Projects
 
