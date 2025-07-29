@@ -106,6 +106,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 
 ## 🚗 Robotics
 
+- [Converter of PGM+YAML files to SDF format (Gazebo)](https://github.com/Arseni1919/Converter_PGM_to_SDF)
 - [Learning ROS2](https://github.com/Arseni1919/Learning_ROS2)
 - [ROS | ROS Package for Hamster Robots](https://github.com/Arseni1919/ROS-package-to-move-robots-with-my-code)
 - [Search | Voronoi + A* + RRT (robot navigation)](https://github.com/matanSamina/RRT_Project_2021)
