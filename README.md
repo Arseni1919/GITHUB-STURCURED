@@ -126,6 +126,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 ---
 
 ## 🧑‍💼🤖💵 Xtend Robotics
+- [Cassini Robot v1](https://github.com/Arseni1919/Cassini_Robot_v1)
 - [Learning Xtend Robots](https://github.com/Arseni1919/Learning_Xtend_Robots)
 
 ## 💻👩‍❤️‍👨💰 Building Products / Businesses / Companies
