@@ -262,13 +262,17 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 
 - [ ] [Forked: NeurIPS 2020 - Procgen Starter Kit](https://github.com/Arseni1919/neurips2020-procgen-starter-kit)
 
+### 📝 Interview Questions / Assignmenets / Tasks
+
+- [AutoFleet Task](https://github.com/Arseni1919/AutoFleetHomeTask)
+- [Interview Questions at Mentee Robotics](https://github.com/Arseni1919/Mentee_Interview)
+
 ### 📍 Others
 
 - [My Portfolio](https://arseni1919.github.io/PORTFOLIO/)
 - [Porftrofilo Template](https://github.com/Arseni1919/PORTFOLIO_Samle)
 - [Forked: Smart Home Simulator - FinalProject](https://github.com/Arseni1919/FinalProject)
 - [Forked: Smart Home Simulator - FinalProjectWrapping](https://github.com/Arseni1919/FinalProjectWrapping)
-- [Interview Questions at Mentee Robotics](https://github.com/Arseni1919/Mentee_Interview)
 - [(Trading_model_first_trying)](https://github.com/Arseni1919/Trading_model_first_trying)
 - [(streamlit app 1)](https://github.com/Arseni1919/Stocks_Simulator_v2)
 - [(streamlit app 2)](https://github.com/Arseni1919/Market_Analyzer)
