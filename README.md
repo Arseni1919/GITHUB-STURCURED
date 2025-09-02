@@ -42,7 +42,7 @@ Each project is categorized into sections to enhance your browsing experience. T
 
 ## 🔠🧬💡 Large Language Models (LLMs) + Transformers
 
-1. [🦜🔗 Learning deep research agents](https://github.com/Arseni1919/deep_research_from_scratch)
+1. [🦜🔗 Learning Deep Research Agents](https://github.com/Arseni1919/deep_research_from_scratch)
 2. [Learning MCP + LangGraph](https://github.com/Arseni1919/Learning_MCP_in_LangGraph)
 3. [🦜🔗 Learning Ambient Agents with LangGraph](https://github.com/Arseni1919/Learning_Ambient_Agents_with_LangGraph)
 4. [🤗 Learning MCP](https://github.com/Arseni1919/Learning_MCP)
