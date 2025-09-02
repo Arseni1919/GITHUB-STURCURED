@@ -42,14 +42,15 @@ Each project is categorized into sections to enhance your browsing experience. T
 
 ## 🔠🧬💡 Large Language Models (LLMs) + Transformers
 
-1. [Learning MCP + LangGraph](https://github.com/Arseni1919/Learning_MCP_in_LangGraph)
-2. [🦜🔗 Learning Ambient Agents with LangGraph](https://github.com/Arseni1919/Learning_Ambient_Agents_with_LangGraph)
-3. [🤗 Learning MCP](https://github.com/Arseni1919/Learning_MCP)
-4. [🦜🔗 Learning LangGraph](https://github.com/Arseni1919/Learning_LangGraph)
-5. [🤗 Learning Agents](https://github.com/Arseni1919/Learning_LLM_Agents)
-6. [🤗 Learning LLMs (papers in wiki)](https://github.com/Arseni1919/Learning_LLMs)
-7. [Learning Stanford CS224N: NLP with Deep Learning](https://github.com/Arseni1919/Learning_CS224N)
-8. [Learning GPT with Karpathy](https://github.com/Arseni1919/GPT_with_Karpathy)
+1. [🦜🔗 Learning deep research agents](https://github.com/Arseni1919/deep_research_from_scratch)
+2. [Learning MCP + LangGraph](https://github.com/Arseni1919/Learning_MCP_in_LangGraph)
+3. [🦜🔗 Learning Ambient Agents with LangGraph](https://github.com/Arseni1919/Learning_Ambient_Agents_with_LangGraph)
+4. [🤗 Learning MCP](https://github.com/Arseni1919/Learning_MCP)
+5. [🦜🔗 Learning LangGraph](https://github.com/Arseni1919/Learning_LangGraph)
+6. [🤗 Learning Agents](https://github.com/Arseni1919/Learning_LLM_Agents)
+7. [🤗 Learning LLMs (papers in wiki)](https://github.com/Arseni1919/Learning_LLMs)
+8. [Learning Stanford CS224N: NLP with Deep Learning](https://github.com/Arseni1919/Learning_CS224N)
+9. [Learning GPT with Karpathy](https://github.com/Arseni1919/GPT_with_Karpathy)
 
 ### 🤗🎮⛹️‍♀️ Spaces
 
