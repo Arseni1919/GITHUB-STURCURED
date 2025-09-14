@@ -3,9 +3,10 @@
 ![](bg_1.png)
 
 <div align="justify">
-Hello! I’m <b>Arseniy Pertzovsky</b>. I have a PhD in Multi-Agent & Multi-Robot AI from Ben-Gurion University of the Negev. 
-Welcome to my GitHub homepage, where you can explore my projects that are organized for your convenience.
-My primary areas of expertise include Multi-Agent Systems (MAS), Search and Planning in AI, deep Reinforcement Learning (RL), Multi-Agent Reinforcement Learning (MARL), Robot Operating System (ROS), Machine Learning (ML), Web Development, and the Internet of Things (IoT). 
+Hello! I’m <b>Arseniy Pertzovsky</b>.
+Welcome to my GitHub homepage, where you can explore my projects, organized for your convenience.
+I have a PhD in Multi-Agent & Multi-Robot AI from Ben-Gurion University of the Negev. 
+My primary areas of expertise include Generative AI, Agentic AI, Multi-Agent Systems (MAS), Robotics (ROS, Nav2, etc.), Search and Planning in AI, Deep Reinforcement Learning (DRL), Multi-Agent Reinforcement Learning (MARL), Web Development, and Internet of Things (IoT). 
 Each project is categorized into sections to enhance your browsing experience. Thank you for visiting!
 </div>
 
