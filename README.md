@@ -382,6 +382,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 - [Entropy, Cross-Entropy, and KL-Divergence](https://www.youtube.com/watch?v=ErfnhcEV1O8)
 - [Illusions of Competence](https://www.coursera.org/lecture/learning-how-to-learn/illusions-of-competence-BuFzf)
 - [Monty Hall Problem - Numberphile](https://www.youtube.com/watch?v=4Lb-6rxZxx0)
+- [SVD Visualized, Singular Value Decomposition explained | SEE Matrix](https://www.youtube.com/watch?v=vSczTbgc8Rc&t=4s&ab_channel=VisualKernel)
 
 <!--```markdown
 Syntax highlighted code block 
