@@ -43,15 +43,16 @@ Each project is categorized into sections to enhance your browsing experience. T
 
 ## 🔠🧬💡 Large Language Models (LLMs) + Transformers
 
-1. [🦜🔗 Learning Deep Research Agents](https://github.com/Arseni1919/Learning_Deep_Research_Agents) ([LangChain's Deep Research Agent Course](https://github.com/Arseni1919/deep_research_from_scratch))
-2. [Learning MCP + LangGraph](https://github.com/Arseni1919/Learning_MCP_in_LangGraph)
-3. [🦜🔗 Learning Ambient Agents with LangGraph](https://github.com/Arseni1919/Learning_Ambient_Agents_with_LangGraph)
-4. [🤗 Learning MCP](https://github.com/Arseni1919/Learning_MCP)
-5. [🦜🔗 Learning LangGraph](https://github.com/Arseni1919/Learning_LangGraph)
-6. [🤗 Learning Agents](https://github.com/Arseni1919/Learning_LLM_Agents)
-7. [🤗 Learning LLMs (papers in wiki)](https://github.com/Arseni1919/Learning_LLMs)
-8. [Learning Stanford CS224N: NLP with Deep Learning](https://github.com/Arseni1919/Learning_CS224N) + [CS224N Assignments](https://github.com/Arseni1919/Learning_CS224N_Assignments)
-9. [Learning GPT with Karpathy](https://github.com/Arseni1919/GPT_with_Karpathy)
+1. [Learning BERT](https://github.com/Arseni1919/Learning_BERT)
+3. [🦜🔗 Learning Deep Research Agents](https://github.com/Arseni1919/Learning_Deep_Research_Agents) ([LangChain's Deep Research Agent Course](https://github.com/Arseni1919/deep_research_from_scratch))
+4. [Learning MCP + LangGraph](https://github.com/Arseni1919/Learning_MCP_in_LangGraph)
+5. [🦜🔗 Learning Ambient Agents with LangGraph](https://github.com/Arseni1919/Learning_Ambient_Agents_with_LangGraph)
+6. [🤗 Learning MCP](https://github.com/Arseni1919/Learning_MCP)
+7. [🦜🔗 Learning LangGraph](https://github.com/Arseni1919/Learning_LangGraph)
+8. [🤗 Learning Agents](https://github.com/Arseni1919/Learning_LLM_Agents)
+9. [🤗 Learning LLMs (papers in wiki)](https://github.com/Arseni1919/Learning_LLMs)
+10. [Learning Stanford CS224N: NLP with Deep Learning](https://github.com/Arseni1919/Learning_CS224N) + [CS224N Assignments](https://github.com/Arseni1919/Learning_CS224N_Assignments)
+11. [Learning GPT with Karpathy](https://github.com/Arseni1919/GPT_with_Karpathy)
 
 ### 🤗🎮⛹️‍♀️ Spaces
 
