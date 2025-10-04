@@ -128,6 +128,9 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 
 ---
 
+## 📀💻🛜 Bright Data
+- [Learning CVS](https://github.com/Arseni1919/Learning_CVS_from_Bright_Data)
+
 ## 🧑‍💼🤖💵 Xtend Robotics
 - [Cassini Robot v1](https://github.com/Arseni1919/Cassini_Robot_v1)
 - [Learning Xtend Robots](https://github.com/Arseni1919/Learning_Xtend_Robots)
