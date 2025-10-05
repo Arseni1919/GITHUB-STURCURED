@@ -149,6 +149,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 - [PyTorch Tips](https://github.com/Arseni1919/PyTorch_Tips)
 - [Learning PyTorch](https://github.com/Arseni1919/pytorch_tutorials)
 - [Learning PyTorch Geometric](https://github.com/Arseni1919/Learning_PyG)
+- [Simple PyTorch Project (CV Task)](https://github.com/Arseni1919/Learning_building_simple_PyTorch_project)
 - Practice: [Learning BERT](https://github.com/Arseni1919/Learning_BERT),
 
 
