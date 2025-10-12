@@ -194,6 +194,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 - [Learning Dash](https://github.com/Arseni1919/Learning_Dash) ([source 1](https://dash.plotly.com/installation))
 - [Learning React + Flask + MongpDB](https://github.com/Arseni1919/learning_react_flask_mongodb)
 - [Learning MongoDB](https://github.com/Arseni1919/Learning_mongodb)
+- [Learning WebSockets](https://github.com/Arseni1919/Learning_webSockets)
 
 ### 🐍 Python
 - [Learning Python](https://github.com/Arseni1919/Learning_Python)
