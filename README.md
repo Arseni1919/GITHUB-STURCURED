@@ -197,6 +197,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 - [Learning React + Flask + MongpDB](https://github.com/Arseni1919/learning_react_flask_mongodb)
 - [Learning MongoDB](https://github.com/Arseni1919/Learning_mongodb)
 - [Learning WebSockets](https://github.com/Arseni1919/Learning_webSockets)
+- [Learning Cookies](https://github.com/Arseni1919/Learning_Cookies)
 
 ### 🐍 Python
 - [Learning Python](https://github.com/Arseni1919/Learning_Python)
