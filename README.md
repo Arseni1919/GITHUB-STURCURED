@@ -119,7 +119,8 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 
 ## 💵 Trading 
 
-- Current: [ML For Trading - Drafts](https://github.com/Arseni1919/ML_For_Trading_Drafts)
+- Current: [Stocks Notifier](https://github.com/Arseni1919/StocksNotifier)
+- [ML For Trading - Drafts](https://github.com/Arseni1919/ML_For_Trading_Drafts)
 - [Stocks Simulator (Streamlit + Matplotlib)](https://github.com/Arseni1919/Stocks_Simulator_1)
 - [Learning to implement NN on Stocks](https://github.com/Arseni1919/Implementing_NN_Stocks)
 - [GA in stocks](https://github.com/kirilgravis/GA_Invest)
