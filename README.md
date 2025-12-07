@@ -160,6 +160,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 
 ### 🏛️ Skills
 
+- [Learning Bash](https://github.com/Arseni1919/Learning_Bash)
 - [Learning Gradio.app](https://github.com/Arseni1919/Learning_Gradio)
 - [Learning Pydantic](https://github.com/Arseni1919/Learning_Pydantic)
 - [Learning Matplotlib Animation](https://github.com/Arseni1919/Learning_Matplotlib_Animation)
