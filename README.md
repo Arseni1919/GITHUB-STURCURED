@@ -160,6 +160,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 
 ### 🏛️ Skills
 
+- [Tutorial: Installing Debugger in LazyVim](https://github.com/Arseni1919/Installing_Debugger_LazyVim)
 - [Learning Bash](https://github.com/Arseni1919/Learning_Bash)
 - [Learning Gradio.app](https://github.com/Arseni1919/Learning_Gradio)
 - [Learning Pydantic](https://github.com/Arseni1919/Learning_Pydantic)
