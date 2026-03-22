@@ -155,7 +155,8 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 - [Simple PyTorch Project to Demonstrate Right Project Structure (CV Task)](https://github.com/Arseni1919/Learning_building_simple_PyTorch_project)
 - [Building PyTorch Learning Platform (created with Claude Code)](https://github.com/Arseni1919/Building_PyTorch_Learning_Platform)
 - [Building PyTorch Learning Platform (created with Codex)](https://github.com/Arseni1919/Building_PyTorch_Learning_Platform_Codex)
-- Practice: [Learning BERT](https://github.com/Arseni1919/Learning_BERT),
+- [Learning BERT](https://github.com/Arseni1919/Learning_BERT)
+- [Learning Time Series + PyTorch](https://github.com/Arseni1919/PyTorchProject_TimeSeries)
 
 
 ### 🏛️ Skills
