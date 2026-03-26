@@ -375,6 +375,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 - [Safety-Gymnasium](https://safety-gymnasium.readthedocs.io/en/latest/index.html)
 - [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
 - [RoboVerse](https://roboverse.wiki/)
+- [OpenReward.AI](https://openreward.ai/)
 
 ## 💎 RL and MARL Implementations (Existing in the World)
 
