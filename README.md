@@ -143,6 +143,9 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 - [BASE123](https://github.com/Arseni1919/Building_BASE123)
 - [EurekaVibes](https://github.com/Arseni1919/EurekaVibes)
 
+## 📜 Scripts
+- [Script For An Initialization Of A PyTorch Project](https://github.com/Arseni1919/init_nn_project_script)
+
 ---
 
 ## Other Projects
