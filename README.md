@@ -379,6 +379,8 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 - [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
 - [RoboVerse](https://roboverse.wiki/)
 - [OpenReward.AI](https://openreward.ai/)
+- [OpenEnv](https://meta-pytorch.org/OpenEnv/index.html)
+- [ArcPrize](https://arcprize.org/ )
 
 ## 💎 RL and MARL Implementations (Existing in the World)
 
