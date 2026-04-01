@@ -140,6 +140,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 
 ## 💻👩‍❤️‍👨💰 Building Products / Businesses / Companies
 
+- [RAGY](https://github.com/Arseni1919/ragy)
 - [BASE123](https://github.com/Arseni1919/Building_BASE123)
 - [EurekaVibes](https://github.com/Arseni1919/EurekaVibes)
 
