@@ -43,7 +43,8 @@ Each project is categorized into sections to enhance your browsing experience. T
 
 ## 🔠🧬💡 Large Language Models (LLMs) + Transformers
 
-1. [Learning BERT](https://github.com/Arseni1919/Learning_BERT)
+1. [Understanding Transformers (General Description)](https://github.com/Arseni1919/TransformerDescription)
+2. [Learning BERT](https://github.com/Arseni1919/Learning_BERT)
 3. [🦜🔗 Learning Deep Research Agents](https://github.com/Arseni1919/Learning_Deep_Research_Agents) ([LangChain's Deep Research Agent Course](https://github.com/Arseni1919/deep_research_from_scratch))
 4. [Learning MCP + LangGraph](https://github.com/Arseni1919/Learning_MCP_in_LangGraph)
 5. [🦜🔗 Learning Ambient Agents with LangGraph](https://github.com/Arseni1919/Learning_Ambient_Agents_with_LangGraph)
