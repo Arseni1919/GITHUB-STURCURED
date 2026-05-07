@@ -304,6 +304,9 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 - [(website - flask)](https://github.com/Arseni1919/NT_website)
 - [(website - react)](https://github.com/Arseni1919/NT_website_v2)
 - [(Stocks Gym Env)](https://github.com/Arseni1919/gym-stocktrading)
+- [BD - Captcha Catcher](https://github.com/Arseni1919/CaptchaCaptcher)
+- [BD - Rate Catcher](https://github.com/Arseni1919/RateCatcher)
+- [BD - Chronos Implementation](https://github.com/Arseni1919/Time_Series_Project)
 
 ---
 
