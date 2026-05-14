@@ -412,6 +412,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 - [Illusions of Competence](https://www.coursera.org/lecture/learning-how-to-learn/illusions-of-competence-BuFzf)
 - [Monty Hall Problem - Numberphile](https://www.youtube.com/watch?v=4Lb-6rxZxx0)
 - [SVD Visualized, Singular Value Decomposition explained | SEE Matrix](https://www.youtube.com/watch?v=vSczTbgc8Rc&t=4s&ab_channel=VisualKernel)
+- [FlashAttention Explained](https://www.youtube.com/watch?v=gBMO1JZav44)
 
 <!--```markdown
 Syntax highlighted code block 
