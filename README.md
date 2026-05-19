@@ -20,6 +20,10 @@ Each project is categorized into sections to enhance your browsing experience. T
 
 ---
 
+## 🌍🤖💡 World Models
+
+1. [Learning LeWorldModel](https://github.com/Arseni1919/Learning_LeWorldModel)
+
 
 ## 🦁🏆🚔 Reinforcement Learning (RL)
 
