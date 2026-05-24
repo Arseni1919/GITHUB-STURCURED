@@ -144,8 +144,9 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 - [Cassini Robot v1](https://github.com/Arseni1919/Cassini_Robot_v1)
 - [Learning Xtend Robots](https://github.com/Arseni1919/Learning_Xtend_Robots)
 
-## 💻👩‍❤️‍👨💰 Building Products / Businesses / Companies
+## 💻👩‍❤️‍👨💰 Building Products / Startups / Businesses
 
+- [TorchHero](https://github.com/Arseni1919/TorchHero)
 - [Language Trainer via Telegram BOT (French, Arabic)](https://github.com/Arseni1919/LanguageTrainerTGBot)
 - [RAGY](https://github.com/Arseni1919/ragy)
 - [BASE123](https://github.com/Arseni1919/Building_BASE123)
