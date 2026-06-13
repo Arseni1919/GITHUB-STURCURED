@@ -111,6 +111,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 - [A* Implementation - Generic Version](https://github.com/Arseni1919/A_star_Implementation)
 - [A* Simulator - Pathfinding](https://github.com/Arseni1919/A_star_simulator)
 - [Learning Topological Sorting](https://github.com/Arseni1919/Learning_Topological_Sorting)
+- [Maximum Weight Matching (MWM) + LLM (for scores) For Meeting Scheduling Problem](https://github.com/Arseni1919/Building_MGM_LLM)
 
 
 ## 🚗 Robotics
