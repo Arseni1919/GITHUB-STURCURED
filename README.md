@@ -147,6 +147,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 
 ## 💻👩‍❤️‍👨💰 Building Products / Startups / Businesses
 
+- [AmigosAI](https://github.com/Arseni1919/AmigosAI)
 - [TorchHero](https://github.com/Arseni1919/TorchHero)
 - [Language Trainer via Telegram BOT (French, Arabic)](https://github.com/Arseni1919/LanguageTrainerTGBot)
 - [RAGY](https://github.com/Arseni1919/ragy)
