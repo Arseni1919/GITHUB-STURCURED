@@ -147,6 +147,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 
 ## 💻👩‍❤️‍👨💰 Building Products / Startups / Businesses
 
+- [RateCatcher Library for Anomaly Detections](https://github.com/Arseni1919/RateCatcherLibrary)
 - [AmigosAI](https://github.com/Arseni1919/AmigosAI)
 - [AnzhelikaBot](https://github.com/Arseni1919/AnzhelikaBot)
 - [TorchHero](https://github.com/Arseni1919/TorchHero)
