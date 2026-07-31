@@ -173,6 +173,7 @@ Other projects: ([🤗 Space Draft](https://huggingface.co/spaces/ArseniyPerchik
 - [Building PyTorch Learning Platform (created with Codex)](https://github.com/Arseni1919/Building_PyTorch_Learning_Platform_Codex)
 - [Learning BERT](https://github.com/Arseni1919/Learning_BERT)
 - [Learning Time Series + PyTorch](https://github.com/Arseni1919/PyTorchProject_TimeSeries)
+- [Mastering PyTorch](https://github.com/Arseni1919/Mastering_PyTorch)
 
 
 ### 🏛️ Skills
